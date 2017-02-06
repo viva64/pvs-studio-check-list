@@ -18,6 +18,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.qbittorrent.org/
 	- https://github.com/qbittorrent/qBittorrent
 
+- DIVINE 4
+	- DIVINE is a modern, explicit-state model checker.
+	- https://divine.fi.muni.cz/
+
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
