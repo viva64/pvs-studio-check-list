@@ -26,6 +26,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+	
+- Vulkan-Hpp
+	- Open-Source Vulkan C++ API
+	- https://github.com/KhronosGroup/Vulkan-Hpp
 
 
 <a name="csharp"></a>Projects in C#
