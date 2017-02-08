@@ -27,6 +27,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- VeraCrypt
+	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
+	- https://sourceforge.net/projects/veracrypt/
+	- https://github.com/veracrypt/VeraCrypt
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
