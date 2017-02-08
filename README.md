@@ -27,6 +27,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- ffmpeg
+	- ffmpeg is a CLI tool for processing, converting and analyzing audio and video data
+	- https://github.com/FFmpeg/FFmpeg
+	- git://source.ffmpeg.org/ffmpeg.git
+	- https://ffmpeg.org/
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
