@@ -27,6 +27,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- nginx
+	- nginx is a web server (which doesn't need any explanation I guess)
+	- https://github.com/nginx/nginx
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
