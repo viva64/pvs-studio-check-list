@@ -26,6 +26,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+	
+- Wayland
+	- Wayland is intended as a simpler replacement for X, easier to develop and maintain. GNOME and KDE are expected to be ported to it.
+	- https://wayland.freedesktop.org/
+	- https://cgit.freedesktop.org/wayland ; https://github.com/wayland-project/wayland
 
 
 <a name="csharp"></a>Projects in C#
