@@ -26,6 +26,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+	
+- ArangoDB
+	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions. 
+	- https://www.arangodb.com
+	- https://github.com/arangodb/arangodb
 
 
 <a name="csharp"></a>Projects in C#
