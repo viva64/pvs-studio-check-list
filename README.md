@@ -27,6 +27,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- HarfBuzz
+	- HarfBuzz is an OpenType text shaping engine, used for text rendering in Android and in lots of other important projects.
+	- https://www.freedesktop.org/wiki/Software/HarfBuzz/
+	- https://github.com/behdad/harfbuzz
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
