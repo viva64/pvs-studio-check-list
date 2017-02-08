@@ -27,6 +27,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- TensorFlow 
+	- TensorFlow is an open source software library for numerical computation using data flow graphs. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.
+	- https://www.tensorflow.org/
+	- https://github.com/tensorflow/tensorflow
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
