@@ -27,6 +27,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- ppsspp
+	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
+	- http://www.ppsspp.org/
+	- https://github.com/hrydgard/ppsspp
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
