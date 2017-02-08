@@ -26,7 +26,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
-
+	
+- Sumatra PDF
+	- Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
+	- https://www.sumatrapdfreader.org/free-pdf-reader.html
+	- https://github.com/sumatrapdfreader/sumatrapdf
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
