@@ -27,6 +27,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- ownCloud
+	- ownCloud - a personal cloud which runs on your own server.
+	- https://owncloud.org/
+	- https://github.com/owncloud/client ; https://github.com/owncloud/core
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
