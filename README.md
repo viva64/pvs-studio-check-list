@@ -27,6 +27,15 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- Bitcoin Core
+	- Bitcoin is a P2P digital currency system. Bitcoin Core is the reference implementation of Bitcoin.
+	- https://bitcoin.org/
+	- https://github.com/bitcoin/bitcoin/
+	
+- Bitcoin Unlimited
+	- Bitcoin Unlimited is a proposed hard-fork which increases the max block size. Currently, ~20% of the total hashpower vote in favor of it (source: http://nodecounter.com)
+	- https://bitcoinunlimited.info/
+	- https://github.com/BitcoinUnlimited/BitcoinUnlimited/
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
