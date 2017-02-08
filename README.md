@@ -27,6 +27,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- ImageMagick
+	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set
+	- https://www.imagemagick.org/script/index.php
+	- git@git.imagemagick.org:repos/ImageMagick.git
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
