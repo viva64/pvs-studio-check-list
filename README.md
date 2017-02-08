@@ -27,6 +27,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- GnuCash
+	- GnuCash is a personal finance manager.
+	- https://www.gnucash.org/
+	- https://github.com/Gnucash/gnucash
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
