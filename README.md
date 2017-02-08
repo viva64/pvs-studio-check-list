@@ -27,6 +27,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- Tox
+	- Tox is a peer to peer (serverless) instant messenger aimed at making security and privacy easy to obtain for regular users. It uses NaCl for its encryption and authentication.
+	- https://tox.chat/
+	- https://github.com/TokTok/c-toxcore
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
