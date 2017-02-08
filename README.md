@@ -27,6 +27,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- Transmission
+	- Transmission is a cross-platform torrent client with GUI and web interface.
+	- https://transmissionbt.com/
+	- https://github.com/transmission/transmission
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
