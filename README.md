@@ -22,6 +22,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
 
+- zsh
+	- zsh is a modern shell for *nix systems
+	- http://zsh.org/
+	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
