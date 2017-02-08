@@ -26,6 +26,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+	
+- VLC media player
+ 	- VLC media player is a portable, free and open-source, cross-platform media player and streaming media server written by the VideoLAN project.
+ 	- http://www.videolan.org/vlc/index.html
+ 	- http://git.videolan.org/?p=vlc.git ; https://github.com/videolan/vlc
 
 
 <a name="csharp"></a>Projects in C#
