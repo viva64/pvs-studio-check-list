@@ -27,6 +27,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- libtorrent
+	- libtorrent is a feature complete C++ bittorrent implementation focusing on efficiency and scalability.
+	- http://www.rasterbar.com/products/libtorrent/
+	- https://github.com/arvidn/libtorrent
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
