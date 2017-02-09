@@ -69,3 +69,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls.
 	- http://www.telerik.com/universal-windows-platform-ui
 	- https://github.com/telerik/UI-For-UWP
+
+- The Bouncy Castle Crypto Package For C Sharp
+	- C# implementation of cryptographic algorithms and protocols, it was developed by the Legion of the Bouncy Castle. In addition to providing basic cryptography algorithms, the package also provides support for CMS, TSP, X.509 certificate generation and a variety of other standards such as OpenPGP.
+	- https://www.bouncycastle.org/csharp/index.html
+	- https://github.com/bcgit/bc-csharp
