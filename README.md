@@ -63,6 +63,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
+- Urho3D
+	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
+	- https://urho3d.github.io
+	- https://github.com/urho3d/Urho3D
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
