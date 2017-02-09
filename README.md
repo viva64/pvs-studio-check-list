@@ -33,6 +33,11 @@ Projects in C/C++ ([go to C#](#csharp))
  	- http://git.videolan.org/?p=vlc.git
 	- https://github.com/videolan/vlc
 
+- SQLite
+	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
+	- https://www.sqlite.org/
+	- https://www.sqlite.org/download.html (there are several ways to get sources)
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
