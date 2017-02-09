@@ -53,6 +53,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
+- Dolphin Emulator
+	- Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+	- https://dolphin-emu.org/
+	- https://github.com/dolphin-emu/dolphin
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
