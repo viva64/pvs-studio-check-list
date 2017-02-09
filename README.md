@@ -43,6 +43,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
+- ppsspp
+	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
+	- http://www.ppsspp.org/
+	- https://github.com/hrydgard/ppsspp
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
