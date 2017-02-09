@@ -47,6 +47,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
 	- https://www.sqlite.org/download.html (there are several ways to get sources)
+	
+- Lua
+	- Lua is a small but powerful scripting language, embedded in numerous other products
+	- https://www.lua.org/
+	- https://github.com/lua/lua
+	
+- Redis
+	- Redis is a multi-purpose in-memory data structure store
+	- https://redis.io/
+	- https://github.com/antirez/redis
 
 - FreeSWITCH
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
@@ -64,3 +74,13 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls.
 	- http://www.telerik.com/universal-windows-platform-ui
 	- https://github.com/telerik/UI-For-UWP
+
+- The Reactive Extensions for .NET
+	- Reactive extensions are an implementation of the Observer pattern "done right"
+	- http://reactivex.io/
+	- https://github.com/Reactive-Extensions/Rx.NET
+	
+- RestSharp
+	- Simple REST and HTTP API Client for .NET
+	- http://restsharp.org/
+	- https://github.com/restsharp/RestSharp
