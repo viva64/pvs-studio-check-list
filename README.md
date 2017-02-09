@@ -28,7 +28,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
 - SQLite
-	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine. SQLite is the most used database engine in the world.
+	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
 	- https://www.sqlite.org/download.html (there are several ways to get sources)
 
