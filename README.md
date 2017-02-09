@@ -38,6 +38,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.sqlite.org/
 	- https://www.sqlite.org/download.html (there are several ways to get sources)
 
+- FreeSWITCH
+	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
+	- https://freeswitch.org/
+	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
