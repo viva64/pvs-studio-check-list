@@ -17,6 +17,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
 	- http://www.qbittorrent.org/
 	- https://github.com/qbittorrent/qBittorrent
+  
+- libtorrent
+	- libtorrent is a feature complete C++ bittorrent implementation focusing on efficiency and scalability.
+	- http://libtorrent.org/
+	- https://github.com/arvidn/libtorrent
+
+- Transmission
+	- Transmission is a cross-platform torrent client with GUI and web interface.
+	- https://transmissionbt.com/
+	- https://github.com/transmission/transmission
 
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
@@ -26,7 +36,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
-	
+
 - VLC media player
  	- VLC is a free and open source cross-platform multimedia player and framework.
  	- http://www.videolan.org/vlc/index.html
@@ -42,11 +52,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
-
-- Transmission
-	- Transmission is a cross-platform torrent client with GUI and web interface.
-	- https://transmissionbt.com/
-	- https://github.com/transmission/transmission
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
