@@ -53,6 +53,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
+- PCSX2
+  - PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
+  - http://pcsx2.net/
+  - https://github.com/PCSX2/pcsx2
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
