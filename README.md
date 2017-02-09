@@ -53,11 +53,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
-- GnuPG + Libgcrypt
-	- GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
-	- https://gnupg.org/index.html
-	- https://www.gnupg.org/download/index.html
-
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
