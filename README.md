@@ -45,3 +45,8 @@ Projects in C/C++ ([go to C#](#csharp))
 - LINQ to DB
 	- LINQ to DB is the fastest LINQ database access library.
 	- https://github.com/linq2db/linq2db
+
+- Telerik UI for UWP
+	- Source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls.
+	- http://www.telerik.com/universal-windows-platform-ui
+	- https://github.com/telerik/UI-For-UWP
