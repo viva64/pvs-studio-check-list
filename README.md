@@ -43,6 +43,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
+- Transmission
+	- Transmission is a cross-platform torrent client with GUI and web interface.
+	- https://transmissionbt.com/
+	- https://github.com/transmission/transmission
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
