@@ -37,6 +37,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
 	- https://www.sqlite.org/download.html (there are several ways to get sources)
+	
+- QEMU
+	- QEMU is a generic and open source machine emulator and virtualizer.
+	- http://www.qemu-project.org/
+	- https://github.com/qemu/qemu
 
 
 <a name="csharp"></a>Projects in C#
