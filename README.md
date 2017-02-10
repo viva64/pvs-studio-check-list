@@ -112,6 +112,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- darktable is an open source photography workflow application and raw developer.
 	- https://www.darktable.org/
 	- https://github.com/darktable-org/darktable
+	
+ - ppsspp
+	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
+	- http://www.ppsspp.org/
+	- https://github.com/hrydgard/ppsspp
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
