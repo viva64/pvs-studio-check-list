@@ -14,6 +14,17 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://cgit.freedesktop.org/wayland
 	- https://github.com/wayland-project/wayland
 
+- X.Org
+	- The X.Org project provides an open source implementation of the X Window System.
+	- https://www.x.org/wiki/
+	- https://cgit.freedesktop.org/xorg/xserver
+	- https://github.com/wereHamster/xorg-server
+
+- Mir
+	- Mir is a computer display server for the Linux operating system currently in development by Canonical Ltd.
+	- https://launchpad.net/mir
+	- https://code.launchpad.net/mir
+
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
@@ -157,7 +168,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/restsharp/RestSharp
 	
 - Fluent.Ribbon
-	- WPF Ribbon control like in Office 2010, 2013 and Windows 8
+	- WPF Ribbon control like in Office 2010, 2013 and Windows 8.
 	- http://fluentribbon.github.io
 	- https://github.com/fluentribbon/Fluent.Ribbon
 
