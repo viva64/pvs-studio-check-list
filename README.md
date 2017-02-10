@@ -42,6 +42,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- GnuCash
+	- GnuCash is a personal finance manager.
+	- https://www.gnucash.org/
+	- https://github.com/Gnucash/gnucash
+
 - VeraCrypt
 	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
 	- https://sourceforge.net/projects/veracrypt/
