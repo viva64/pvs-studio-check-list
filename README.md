@@ -78,6 +78,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://redis.io/
 	- https://github.com/antirez/redis
 
+- TensorFlow 
+	- TensorFlow is an open source software library for numerical computation using data flow graphs.
+	- https://www.tensorflow.org/
+	- https://github.com/tensorflow/tensorflow
+  
 - FreeSWITCH
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
 	- https://freeswitch.org/
