@@ -8,6 +8,12 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- Wayland
+	- Wayland is intended as a simpler replacement for X, easier to develop and maintain.
+	- https://wayland.freedesktop.org/
+	- https://cgit.freedesktop.org/wayland
+	- https://github.com/wayland-project/wayland
+
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
@@ -41,7 +47,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
-	
+
 - Sumatra PDF
 	- Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 	- https://www.sumatrapdfreader.org/free-pdf-reader.html
