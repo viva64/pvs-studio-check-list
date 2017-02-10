@@ -42,6 +42,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 	
+- Xen
+	- Xen is a Virtual Machine Monitor (VMM).
+	- https://www.xenproject.org/
+	- https://github.com/mirage/xen
+
 - Themis
 	- Themis provides strong, usable cryptography for busy people.
 	- https://cossacklabs.com/themis
@@ -113,7 +118,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.darktable.org/
 	- https://github.com/darktable-org/darktable
 	
- - ppsspp
+- ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
