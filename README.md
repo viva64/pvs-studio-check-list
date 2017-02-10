@@ -59,6 +59,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- FFmpeg
+	- FFmpeg is a CLI tool for processing, converting and analyzing audio and video data
+	- https://github.com/FFmpeg/FFmpeg
+	- git://source.ffmpeg.org/ffmpeg.git
+	- https://ffmpeg.org/
+
 - Sumatra PDF
 	- Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 	- https://www.sumatrapdfreader.org/free-pdf-reader.html
