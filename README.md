@@ -78,6 +78,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://redis.io/
 	- https://github.com/antirez/redis
 
+- ImageMagick
+	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
+	- https://www.imagemagick.org/
+	- https://github.com/ImageMagick/ImageMagick
+
 - TensorFlow 
 	- TensorFlow is an open source software library for numerical computation using data flow graphs.
 	- https://www.tensorflow.org/
