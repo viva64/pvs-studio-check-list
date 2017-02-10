@@ -42,6 +42,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- VeraCrypt
+	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
+	- https://sourceforge.net/projects/veracrypt/
+	- https://github.com/veracrypt/VeraCrypt
+
 - VLC media player
  	- VLC is a free and open source cross-platform multimedia player and framework.
  	- http://www.videolan.org/vlc/index.html
