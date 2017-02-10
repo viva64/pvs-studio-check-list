@@ -41,6 +41,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+	
+- Themis
+	- Themis provides strong, usable cryptography for busy people.
+	- https://cossacklabs.com/themis
+	- https://github.com/cossacklabs/themis
 
 - GnuCash
 	- GnuCash is a personal finance manager.
