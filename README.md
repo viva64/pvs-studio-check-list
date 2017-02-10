@@ -96,6 +96,11 @@ Projects in C/C++ ([go to C#](#csharp))
  	- http://git.videolan.org/?p=vlc.git
 	- https://github.com/videolan/vlc
 
+- OBS Studio
+	- OBS Studio is a free and open source software for video recording and live streaming.
+	- https://obsproject.com/
+	- https://github.com/jp9000/obs-studio
+
 - SQLite
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
