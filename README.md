@@ -28,9 +28,9 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 	
 - Xen
-	- The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor, which makes it possible to run many instances of an operating system or indeed different operating systems in parallel on a single machine (or host).
+	- Xen is a Virtual Machine Monitor (VMM).
 	- https://www.xenproject.org/
-	- git://xenbits.xen.org/xen.git ; https://github.com/mirage/xen
+	- https://github.com/mirage/xen
 
 
 <a name="csharp"></a>Projects in C#
