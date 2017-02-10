@@ -74,9 +74,9 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/urho3d/Urho3D
   
 - darktable
-  - darktable is an open source photography workflow application and raw developer.
-  - https://www.darktable.org/
-  - https://github.com/darktable-org/darktable
+	- darktable is an open source photography workflow application and raw developer.
+	- https://www.darktable.org/
+	- https://github.com/darktable-org/darktable
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
