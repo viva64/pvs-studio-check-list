@@ -28,6 +28,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://transmissionbt.com/
 	- https://github.com/transmission/transmission
 
+- Mesa
+	- The Mesa 3D Graphics Library.
+	- https://mesa3d.org/
+	- https://cgit.freedesktop.org/mesa/mesa/
+
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
@@ -46,7 +51,17 @@ Projects in C/C++ ([go to C#](#csharp))
 - SQLite
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
-	- https://www.sqlite.org/download.html (there are several ways to get sources)
+	- https://www.sqlite.org/download.html
+	
+- Lua
+	- Lua is a small but powerful scripting language, embedded in numerous other products.
+	- https://www.lua.org/
+	- https://github.com/lua/lua
+	
+- Redis
+	- Redis is a multi-purpose in-memory data structure store.
+	- https://redis.io/
+	- https://github.com/antirez/redis
 
 - FreeSWITCH
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
@@ -57,6 +72,21 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 	- https://dolphin-emu.org/
 	- https://github.com/dolphin-emu/dolphin
+
+- PCSX2
+  - PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
+  - http://pcsx2.net/
+  - https://github.com/PCSX2/pcsx2
+
+- Urho3D
+	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
+	- https://urho3d.github.io
+	- https://github.com/urho3d/Urho3D
+  
+- darktable
+	- darktable is an open source photography workflow application and raw developer.
+	- https://www.darktable.org/
+	- https://github.com/darktable-org/darktable
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
@@ -69,3 +99,14 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls.
 	- http://www.telerik.com/universal-windows-platform-ui
 	- https://github.com/telerik/UI-For-UWP
+
+- The Reactive Extensions for .NET
+	- Reactive extensions are an implementation of the Observer pattern "done right".
+	- http://reactivex.io/
+	- https://github.com/Reactive-Extensions/Rx.NET
+	
+- RestSharp
+	- Simple REST and HTTP API Client for .NET.
+	- http://restsharp.org/
+	- https://github.com/restsharp/RestSharp
+
