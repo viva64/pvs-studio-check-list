@@ -29,7 +29,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/transmission/transmission
 
 - Mesa
-	- The Mesa 3D Graphics Library
+	- The Mesa 3D Graphics Library.
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
@@ -51,15 +51,15 @@ Projects in C/C++ ([go to C#](#csharp))
 - SQLite
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
-	- https://www.sqlite.org/download.html (there are several ways to get sources)
+	- https://www.sqlite.org/download.html
 	
 - Lua
-	- Lua is a small but powerful scripting language, embedded in numerous other products
+	- Lua is a small but powerful scripting language, embedded in numerous other products.
 	- https://www.lua.org/
 	- https://github.com/lua/lua
 	
 - Redis
-	- Redis is a multi-purpose in-memory data structure store
+	- Redis is a multi-purpose in-memory data structure store.
 	- https://redis.io/
 	- https://github.com/antirez/redis
 
@@ -68,10 +68,15 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
+- Dolphin Emulator
+	- Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
+	- https://dolphin-emu.org/
+	- https://github.com/dolphin-emu/dolphin
+
 - PCSX2
-  - PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
-  - http://pcsx2.net/
-  - https://github.com/PCSX2/pcsx2
+	- PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
+	- http://pcsx2.net/
+	- https://github.com/PCSX2/pcsx2
 
 - Urho3D
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
@@ -96,12 +101,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/telerik/UI-For-UWP
 
 - The Reactive Extensions for .NET
-	- Reactive extensions are an implementation of the Observer pattern "done right"
+	- Reactive extensions are an implementation of the Observer pattern "done right".
 	- http://reactivex.io/
 	- https://github.com/Reactive-Extensions/Rx.NET
 	
 - RestSharp
-	- Simple REST and HTTP API Client for .NET
+	- Simple REST and HTTP API Client for .NET.
 	- http://restsharp.org/
 	- https://github.com/restsharp/RestSharp
 
