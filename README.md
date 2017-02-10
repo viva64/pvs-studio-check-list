@@ -139,3 +139,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- WPF Ribbon control like in Office 2010, 2013 and Windows 8
 	- http://fluentribbon.github.io
 	- https://github.com/fluentribbon/Fluent.Ribbon
+
+- Caliburn.Micro 
+	- MVVM framework, designed for building applications across all XAML platforms. 
+	- http://caliburnmicro.com/
+	- https://github.com/Caliburn-Micro/Caliburn.Micro
