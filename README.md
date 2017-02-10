@@ -28,6 +28,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://transmissionbt.com/
 	- https://github.com/transmission/transmission
 
+- Mesa
+	- The Mesa 3D Graphics Library
+	- https://mesa3d.org/
+	- https://cgit.freedesktop.org/mesa/mesa/
+
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
