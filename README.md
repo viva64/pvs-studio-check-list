@@ -9,10 +9,10 @@ Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
 - Wayland
-	- Wayland is intended as a simpler replacement for X, easier to develop and maintain. GNOME and KDE are expected to be ported to it.
+	- Wayland is intended as a simpler replacement for X, easier to develop and maintain.
 	- https://wayland.freedesktop.org/
 	- https://cgit.freedesktop.org/wayland
-  - https://github.com/wayland-project/wayland
+	- https://github.com/wayland-project/wayland
 
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
