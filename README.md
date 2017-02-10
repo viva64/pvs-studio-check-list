@@ -68,6 +68,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
 
+- GnuPG + Libgcrypt		
+  	- GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.		
+  	- https://gnupg.org/index.html		
+ 	- https://www.gnupg.org/download/index.html		
+ 
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
@@ -80,6 +86,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.telerik.com/universal-windows-platform-ui
 	- https://github.com/telerik/UI-For-UWP
 
+- The Bouncy Castle Crypto Package For C Sharp
+	- C# implementation of cryptographic algorithms and protocols, it was developed by the Legion of the Bouncy Castle. In addition to providing basic cryptography algorithms, the package also provides support for CMS, TSP, X.509 certificate generation and a variety of other standards such as OpenPGP.
+	- https://www.bouncycastle.org/csharp/index.html
+	- https://github.com/bcgit/bc-csharp
+
 - The Reactive Extensions for .NET
 	- Reactive extensions are an implementation of the Observer pattern "done right"
 	- http://reactivex.io/
@@ -89,3 +100,4 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Simple REST and HTTP API Client for .NET
 	- http://restsharp.org/
 	- https://github.com/restsharp/RestSharp
+
