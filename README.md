@@ -74,9 +74,9 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/dolphin-emu/dolphin
 
 - PCSX2
-  - PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
-  - http://pcsx2.net/
-  - https://github.com/PCSX2/pcsx2
+	- PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
+	- http://pcsx2.net/
+	- https://github.com/PCSX2/pcsx2
 
 - Urho3D
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
