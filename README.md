@@ -23,15 +23,15 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://libtorrent.org/
 	- https://github.com/arvidn/libtorrent
 
-- Mesa
-	- Mesa is an open-source implementation of the OpenGL specification - a system for rendering interactive 3D graphics.
-	- https://mesa3d.org/
-	- https://cgit.freedesktop.org/mesa/mesa/
-
 - Transmission
 	- Transmission is a cross-platform torrent client with GUI and web interface.
 	- https://transmissionbt.com/
 	- https://github.com/transmission/transmission
+
+- Mesa
+	- The Mesa 3D Graphics Library
+	- https://mesa3d.org/
+	- https://cgit.freedesktop.org/mesa/mesa/
 
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
