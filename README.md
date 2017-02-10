@@ -29,8 +29,8 @@ Projects in C/C++ ([go to C#](#csharp))
 
 - ImageMagick
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set
-	- https://www.imagemagick.org/script/index.php
-	- git@git.imagemagick.org:repos/ImageMagick.git
+	- https://www.imagemagick.org/
+	- https://github.com/ImageMagick/ImageMagick
 
 
 <a name="csharp"></a>Projects in C#
