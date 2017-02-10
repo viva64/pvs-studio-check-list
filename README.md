@@ -72,6 +72,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
 	- https://urho3d.github.io
 	- https://github.com/urho3d/Urho3D
+  
+- darktable
+	- darktable is an open source photography workflow application and raw developer.
+	- https://www.darktable.org/
+	- https://github.com/darktable-org/darktable
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
@@ -94,3 +99,4 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Simple REST and HTTP API Client for .NET
 	- http://restsharp.org/
 	- https://github.com/restsharp/RestSharp
+
