@@ -187,3 +187,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MVVM framework, designed for building applications across all XAML platforms. 
 	- http://caliburnmicro.com/
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
+	
+- Akka.Net
+	- This community-driven port brings C# & F# developers the capabilities of the original Akka framework in Java/Scala.
+	- http://getakka.net/
+	- https://github.com/akkadotnet/akka.net
