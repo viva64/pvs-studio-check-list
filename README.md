@@ -59,6 +59,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+
+- ownCloud
+	- ownCloud - a personal cloud which runs on your own server.
+	- https://owncloud.org/
+	- https://github.com/owncloud/client
+
 - FFmpeg
 	- FFmpeg is a CLI tool for processing, converting and analyzing audio and video data
 	- https://github.com/FFmpeg/FFmpeg
