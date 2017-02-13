@@ -166,6 +166,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+	
+- Firebird
+	- Firebird is a relational database offering many ANSI SQL standard features that runs on Linux, Windows, MacOS and a variety of Unix platforms.
+	- http://www.firebirdsql.org/
+	- https://github.com/FirebirdSQL/firebird
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
