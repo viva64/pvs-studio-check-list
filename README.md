@@ -198,3 +198,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MVVM framework, designed for building applications across all XAML platforms. 
 	- http://caliburnmicro.com/
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
+	
+- PascalABC.NET 
+	- The new generation Pascal programming language for .NET 
+	- http://pascalabc.net/
+	- https://github.com/pascalabcnet/pascalabcnet
