@@ -166,6 +166,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+	
+- AMXModX
+	- AMX Mod X is a versatile Half-Life metamod plugin which is targetted toward server administration.
+	- http://www.amxmodx.org/
+	- https://github.com/alliedmodders/amxmodx/
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
