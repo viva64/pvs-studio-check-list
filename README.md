@@ -28,7 +28,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
 - nginx
-	- nginx is a web server (which doesn't need any explanation I guess)
+	- nginx is a web server
+	- https://nginx.org/
 	- https://github.com/nginx/nginx
 
 
