@@ -155,6 +155,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+	
+- V8
+	- V8 is Google's open source high-performance JavaScript engine
+	- https://developers.google.com/v8/
+	- https://github.com/v8/v8
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
