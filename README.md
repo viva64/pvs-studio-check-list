@@ -157,7 +157,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/hrydgard/ppsspp
 	
 - V8
-	- V8 is Google's open source high-performance JavaScript engine
+	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
 	- https://github.com/v8/v8
 
