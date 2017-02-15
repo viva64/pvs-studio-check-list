@@ -100,7 +100,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- secure messenger with audio and video chat capabilities.
 	- https://tox.chat/
 	- https://github.com/TokTok/c-toxcore
-  - https://github.com/TokTok/qTox (client)
+	- https://github.com/qTox/qTox (client)
 
 - VeraCrypt
 	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
