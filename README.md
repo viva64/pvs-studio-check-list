@@ -166,6 +166,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+  
+- nginx
+	- nginx is a web server
+	- https://nginx.org/
+	- https://github.com/nginx/nginx
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
