@@ -96,6 +96,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.gnucash.org/
 	- https://github.com/Gnucash/gnucash
 
+- Tox
+	- secure messenger with audio and video chat capabilities.
+	- https://tox.chat/
+	- https://github.com/TokTok/c-toxcore
+  - https://github.com/TokTok/qTox (client)
+
 - VeraCrypt
 	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
 	- https://sourceforge.net/projects/veracrypt/
