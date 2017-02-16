@@ -178,6 +178,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://nginx.org/
 	- https://github.com/nginx/nginx
 
+- Kodi
+	- Kodi is an award-winning free and open source (GPL) software media player and entertainment hub for digital media.
+	- https://kodi.tv/
+	- https://github.com/xbmc/xbmc
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
