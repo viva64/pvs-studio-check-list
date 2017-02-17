@@ -25,6 +25,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://launchpad.net/mir
 	- https://code.launchpad.net/mir
 
+- ToaruOS
+	- 1.0 release of ToaruOS.
+	- http://www.toaruos.org/
+	- https://github.com/klange/toaruos
+
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
@@ -216,6 +221,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
 
 - PascalABC.NET 
-	- The new generation Pascal programming language for .NET 
+	- The new generation Pascal programming language for .NET.
 	- http://pascalabc.net/
 	- https://github.com/pascalabcnet/pascalabcnet
+
+- The Bouncy Castle Crypto Package
+	- C# implementation of cryptographic algorithms and protocols.
+	- https://www.bouncycastle.org/csharp/index.html
+	- https://github.com/bcgit/bc-csharp
