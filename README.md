@@ -188,6 +188,11 @@ Projects in C/C++ ([go to C#](#csharp))
     - https://kodi.tv/
     - https://github.com/xbmc/xbmc
 
+- flatpak
+    - A system for building, distributing and running sandboxed desktop applications on Linux.
+    - http://flatpak.org/
+    - https://github.com/flatpak/flatpak
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
