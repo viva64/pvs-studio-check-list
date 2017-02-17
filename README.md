@@ -197,6 +197,11 @@ Projects in C/C++ ([go to C#](#csharp))
     - https://kodi.tv/
     - https://github.com/xbmc/xbmc
 
+- Firejail
+	- A free open-source security-targeted sandbox for Linux
+	- https://firejail.wordpress.com
+	- https://github.com/netblue30/firejail
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
