@@ -25,6 +25,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://launchpad.net/mir
 	- https://code.launchpad.net/mir
 
+- ToaruOS
+	- 1.0 release of ToaruOS.
+	- http://www.toaruos.org/
+	- https://github.com/klange/toaruos
+
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
@@ -58,6 +63,21 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+	
+- ArangoDB
+	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
+	- https://www.arangodb.com
+	- https://github.com/arangodb/arangodb
+
+- Apache Traffic Server
+	- Apache Traffic Server™ software is a fast, scalable and extensible HTTP/1.1 compliant caching proxy server. 
+	- http://trafficserver.apache.org/
+	- http://trafficserver.apache.org/downloads
+
+- ownCloud
+	- ownCloud - a personal cloud which runs on your own server.
+	- https://owncloud.org/
+	- https://github.com/owncloud/client
 
 - FFmpeg
 	- FFmpeg is a CLI tool for processing, converting and analyzing audio and video data
@@ -85,10 +105,21 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.gnucash.org/
 	- https://github.com/Gnucash/gnucash
 
+- Tox
+	- secure messenger with audio and video chat capabilities.
+	- https://tox.chat/
+	- https://github.com/TokTok/c-toxcore
+	- https://github.com/qTox/qTox (client)
+
 - VeraCrypt
 	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
 	- https://sourceforge.net/projects/veracrypt/
 	- https://github.com/veracrypt/VeraCrypt
+
+- DeaDBeeF
+	- DeaDBeeF is a music player for Unix-like systems and OS X.
+	- http://deadbeef.sourceforge.net/
+	- https://github.com/Alexey-Yakovenko/deadbeef
 
 - VLC media player
  	- VLC is a free and open source cross-platform multimedia player and framework.
@@ -160,6 +191,21 @@ Projects in C/C++ ([go to C#](#csharp))
 	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
 	- https://github.com/v8/v8
+  
+- nginx
+	- nginx is a web server
+	- https://nginx.org/
+	- https://github.com/nginx/nginx
+	
+- Kodi
+    - Media center for playing videos, music, pictures, games, and more. 
+    - https://kodi.tv/
+    - https://github.com/xbmc/xbmc
+
+- apt
+    - The default package manager for Debian-derived GNU/Linux distros
+    - https://anonscm.debian.org/git/apt/apt.git
+    - https://github.com/Debian/apt
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
@@ -192,3 +238,19 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MVVM framework, designed for building applications across all XAML platforms. 
 	- http://caliburnmicro.com/
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
+	
+- Akka.Net
+	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
+	- http://getakka.net/
+	- https://github.com/akkadotnet/akka.net
+
+- PascalABC.NET 
+	- The new generation Pascal programming language for .NET.
+	- http://pascalabc.net/
+	- https://github.com/pascalabcnet/pascalabcnet
+
+- The Bouncy Castle Crypto Package
+	- C# implementation of cryptographic algorithms and protocols.
+	- https://www.bouncycastle.org/csharp/index.html
+	- https://github.com/bcgit/bc-csharp
+
