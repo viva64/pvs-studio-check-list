@@ -25,6 +25,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://launchpad.net/mir
 	- https://code.launchpad.net/mir
 
+- ToaruOS
+	- 1.0 release of ToaruOS.
+	- http://www.toaruos.org/
+	- https://github.com/klange/toaruos
+
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
@@ -58,6 +63,17 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+	
+- Apache Traffic Server
+	- Apache Traffic Server™ software is a fast, scalable and extensible HTTP/1.1 compliant caching proxy server. 
+	- http://trafficserver.apache.org/
+	- http://trafficserver.apache.org/downloads
+
+
+- ownCloud
+	- ownCloud - a personal cloud which runs on your own server.
+	- https://owncloud.org/
+	- https://github.com/owncloud/client
 
 - FFmpeg
 	- FFmpeg is a CLI tool for processing, converting and analyzing audio and video data
@@ -84,6 +100,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- GnuCash is a personal finance manager.
 	- https://www.gnucash.org/
 	- https://github.com/Gnucash/gnucash
+
+- Tox
+	- secure messenger with audio and video chat capabilities.
+	- https://tox.chat/
+	- https://github.com/TokTok/c-toxcore
+	- https://github.com/qTox/qTox (client)
 
 - VeraCrypt
 	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
@@ -155,6 +177,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+  
+- nginx
+	- nginx is a web server
+	- https://nginx.org/
+	- https://github.com/nginx/nginx
+	
+- Kodi
+    - Media center for playing videos, music, pictures, games, and more. 
+    - https://kodi.tv/
+    - https://github.com/xbmc/xbmc
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
@@ -189,6 +221,17 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
 	
 - Akka.Net
-	- This community-driven port brings C# & F# developers the capabilities of the original Akka framework in Java/Scala.
+	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
+
+- PascalABC.NET 
+	- The new generation Pascal programming language for .NET.
+	- http://pascalabc.net/
+	- https://github.com/pascalabcnet/pascalabcnet
+
+- The Bouncy Castle Crypto Package
+	- C# implementation of cryptographic algorithms and protocols.
+	- https://www.bouncycastle.org/csharp/index.html
+	- https://github.com/bcgit/bc-csharp
+
