@@ -197,6 +197,11 @@ Projects in C/C++ ([go to C#](#csharp))
     - https://kodi.tv/
     - https://github.com/xbmc/xbmc
 
+- apt
+    - The default package manager for Debian-derived GNU/Linux distros
+    - https://anonscm.debian.org/git/apt/apt.git
+    - https://github.com/Debian/apt
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
