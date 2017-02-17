@@ -221,6 +221,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- AMX Mod X is a versatile Half-Life metamod plugin which is targetted toward server administration.
 	- http://www.amxmodx.org/
 	- https://github.com/alliedmodders/amxmodx/
+  
+- QEMU
+	- QEMU is a generic and open source machine emulator and virtualizer.
+	- http://www.qemu-project.org/
+	- https://github.com/qemu/qemu
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
