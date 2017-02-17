@@ -177,6 +177,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- nginx is a web server
 	- https://nginx.org/
 	- https://github.com/nginx/nginx
+	
+- Kodi
+    - Media center for playing videos, music, pictures, games, and more. 
+    - https://kodi.tv/
+    - https://github.com/xbmc/xbmc
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
@@ -209,7 +214,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MVVM framework, designed for building applications across all XAML platforms. 
 	- http://caliburnmicro.com/
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
-	
+
 - PascalABC.NET 
 	- The new generation Pascal programming language for .NET 
 	- http://pascalabc.net/
