@@ -207,6 +207,16 @@ Projects in C/C++ ([go to C#](#csharp))
     - https://anonscm.debian.org/git/apt/apt.git
     - https://github.com/Debian/apt
 
+- Bitcoin Core
+	- Bitcoin is a P2P digital currency system. Bitcoin Core is the reference implementation of Bitcoin.
+	- https://bitcoin.org/
+	- https://github.com/bitcoin/bitcoin/
+	
+- Bitcoin Unlimited
+	- Bitcoin Unlimited is a proposed hard-fork which increases the max block size.
+	- https://bitcoinunlimited.info/
+	- https://github.com/BitcoinUnlimited/BitcoinUnlimited/
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
