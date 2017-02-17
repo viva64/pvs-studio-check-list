@@ -219,6 +219,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MVVM framework, designed for building applications across all XAML platforms. 
 	- http://caliburnmicro.com/
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
+	
+- Akka.Net
+	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
+	- http://getakka.net/
+	- https://github.com/akkadotnet/akka.net
 
 - PascalABC.NET 
 	- The new generation Pascal programming language for .NET.
@@ -229,3 +234,4 @@ Projects in C/C++ ([go to C#](#csharp))
 	- C# implementation of cryptographic algorithms and protocols.
 	- https://www.bouncycastle.org/csharp/index.html
 	- https://github.com/bcgit/bc-csharp
+
