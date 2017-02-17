@@ -25,6 +25,13 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://launchpad.net/mir
 	- https://code.launchpad.net/mir
 
+- LXDE
+	- LXDE (Lightweight X11 Desktop Environment) is a desktop environment which is lightweight and fast.
+	- http://lxde.org/
+	- https://wiki.lxde.org/en/Main_Page
+	- https://git.lxde.org/gitweb/
+
+
 - ToaruOS
 	- 1.0 release of ToaruOS.
 	- http://www.toaruos.org/
