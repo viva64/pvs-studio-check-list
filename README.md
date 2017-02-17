@@ -116,6 +116,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://sourceforge.net/projects/veracrypt/
 	- https://github.com/veracrypt/VeraCrypt
 
+- DeaDBeeF
+	- DeaDBeeF is a music player for Unix-like systems and OS X.
+	- http://deadbeef.sourceforge.net/
+	- https://github.com/Alexey-Yakovenko/deadbeef
+
 - VLC media player
  	- VLC is a free and open source cross-platform multimedia player and framework.
  	- http://www.videolan.org/vlc/index.html
