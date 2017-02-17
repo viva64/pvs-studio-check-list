@@ -197,6 +197,10 @@ Projects in C/C++ ([go to C#](#csharp))
     - https://kodi.tv/
     - https://github.com/xbmc/xbmc
 
+- Bubblewrap
+    - Yet another security-oriented sandbox.
+    - https://github.com/projectatomic/bubblewrap
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
