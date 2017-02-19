@@ -226,6 +226,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- QEMU is a generic and open source machine emulator and virtualizer.
 	- http://www.qemu-project.org/
 	- https://github.com/qemu/qemu
+  
+- Perl 5
+	- Practical Extraction and Reporting Language.
+	- https://www.perl.org/
+	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
