@@ -143,7 +143,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
 	- https://www.sqlite.org/download.html
-	
+
+- Geany
+	- Geany is a small and lightweight Integrated Development Environment.
+	- http://geany.org/
+	- https://github.com/geany/geany/
+
 - Lua
 	- Lua is a small but powerful scripting language, embedded in numerous other products.
 	- https://www.lua.org/
