@@ -8,6 +8,9 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- OpenXRay
+	- OpenXRay is intended for adding non-gameplay features, fixing bugs, improving performance and code quality.
+	- https://github.com/OpenXRay/xray-16
 - Wayland
 	- Wayland is intended as a simpler replacement for X, easier to develop and maintain.
 	- https://wayland.freedesktop.org/
