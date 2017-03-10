@@ -239,6 +239,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.perl.org/
 	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
 
+- GNU core utilities
+    - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
+    - https://www.gnu.org/software/coreutils/coreutils.html
+    - http://git.savannah.gnu.org/cgit/coreutils.git
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
