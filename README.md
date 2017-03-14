@@ -112,6 +112,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.gnucash.org/
 	- https://github.com/Gnucash/gnucash
 
+- Pidgin
+	- Pidgin is a free and open-source multi-platform instant messaging client.
+	- https://pidgin.im/
+	- https://bitbucket.org/pidgin/main/src
+
 - Tox
 	- secure messenger with audio and video chat capabilities.
 	- https://tox.chat/
