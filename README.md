@@ -47,6 +47,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.erlang.org/
 	- https://github.com/erlang/otp/
 
+- CDEmu
+	- CDemu is a software suite for emulating CD-ROMs and DVD-ROMs on the Linux operating systems.
+	- http://cdemu.sourceforge.net/
+	- https://sourceforge.net/p/cdemu/code/ci/master/tree/
+
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
 	- http://www.qbittorrent.org/
