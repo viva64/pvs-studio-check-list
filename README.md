@@ -8,6 +8,11 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- Juce
+        - JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
+	- https://www.juce.com/
+	- https://github.com/julianstorer/JUCE
+
 - Wayland
 	- Wayland is intended as a simpler replacement for X, easier to develop and maintain.
 	- https://wayland.freedesktop.org/
