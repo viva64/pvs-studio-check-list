@@ -50,7 +50,7 @@ Projects in C/C++ ([go to C#](#csharp))
 - Midnight Commander
 	- GNU Midnight Commander is a free cross-platform orthodox file manager.
 	- https://midnight-commander.org/
-	- https://midnight-commander.org/browser
+	- https://github.com/MidnightCommander/mc
 
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
