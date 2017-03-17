@@ -47,6 +47,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.erlang.org/
 	- https://github.com/erlang/otp/
 
+- Midnight Commander
+	- GNU Midnight Commander is a free cross-platform orthodox file manager.
+	- https://midnight-commander.org/
+	- https://github.com/MidnightCommander/mc
+
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
 	- http://www.qbittorrent.org/
