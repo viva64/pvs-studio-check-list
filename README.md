@@ -96,6 +96,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://owncloud.org/
 	- https://github.com/owncloud/client
 
+- DoubleContact
+	- DoubleContact is an offline DE-independent contact manager primarily for phonebooks editing/merging.
+	- http://zvyozdochkin.ru/projects/doublecontact/
+	- https://github.com/DarkHobbit/doublecontact
+
 - FFmpeg
 	- FFmpeg is a CLI tool for processing, converting and analyzing audio and video data
 	- https://github.com/FFmpeg/FFmpeg
