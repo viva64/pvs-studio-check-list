@@ -112,6 +112,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.xenproject.org/
 	- https://github.com/mirage/xen
 
+- CPU-X
+	- CPU-X is a free software that gathers information on CPU, motherboard and more.
+	- http://x0rg.github.io/CPU-X/
+	- https://github.com/X0rg/CPU-X
+
 - Themis
 	- Themis provides strong, usable cryptography for busy people.
 	- https://cossacklabs.com/themis
