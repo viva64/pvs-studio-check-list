@@ -296,3 +296,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.bouncycastle.org/csharp/index.html
 	- https://github.com/bcgit/bc-csharp
 
+- The battle for Wesnoth
+	- Free, turn-based tactical strategy game with a high fantasy theme, featuring both single-player, and online/hotseat multiplayer combat. Featured in many reviews like "Best 10 open-source games" (e.g. https://www.rockpapershotgun.com/2016/10/31/the-50-best-free-games-on-pc/46/, https://www.slant.co/topics/1933/~open-source-games, https://opensource.com/life/15/12/top-5-open-gaming), often at the first place.
+	- http://wesnoth.org/
+	- https://github.com/wesnoth/wesnoth/
+
