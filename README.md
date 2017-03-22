@@ -112,6 +112,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.xenproject.org/
 	- https://github.com/mirage/xen
 
+- HardInfo
+	- HardInfo is a system profiler and benchmark for Linux systems.
+	- https://github.com/lpereira/hardinfo
+
 - Themis
 	- Themis provides strong, usable cryptography for busy people.
 	- https://cossacklabs.com/themis
