@@ -199,6 +199,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.darktable.org/
 	- https://github.com/darktable-org/darktable
 	
+- SVG Cleaner
+	- SVG Cleaner can help you to clean up your SVG files from the unnecessary data.
+	- https://github.com/RazrFalcon/svgcleaner
+	- https://github.com/RazrFalcon/svgcleaner-gui
+	
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
