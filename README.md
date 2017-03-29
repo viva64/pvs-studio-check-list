@@ -40,6 +40,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
 	- https://git.busybox.net/busybox/
+	
+- AppArmor
+	- AppArmor is an effective and easy-to-use Linux application security system.
+	- http://wiki.apparmor.net/index.php/Main_Page
+	- git://git.kernel.org/pub/scm/linux/kernel/git/jj/linux-apparmor
 
 - ToaruOS
 	- 1.0 release of ToaruOS.
