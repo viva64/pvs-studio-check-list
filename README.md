@@ -212,6 +212,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- darktable is an open source photography workflow application and raw developer.
 	- https://www.darktable.org/
 	- https://github.com/darktable-org/darktable
+
+- HandBrake
+	- HandBrake is an open-source video transcoder available for Linux, Mac, and Windows.
+	- https://handbrake.fr/
+	- https://github.com/HandBrake/HandBrake
 	
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
