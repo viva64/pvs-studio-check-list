@@ -263,6 +263,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.perl.org/
 	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
 
+- Radare2 
+	- Unix-like reverse engineering framework and commandline tools.
+	- https://radare.org
+	- https://github.com/radare/radare2
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
