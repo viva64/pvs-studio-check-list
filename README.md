@@ -268,6 +268,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://radare.org
 	- https://github.com/radare/radare2
 
+- Stellarium
+	- Stellarium is a free open source planetarium for your computer.
+	- http://www.stellarium.org/
+	- https://code.launchpad.net/stellarium/
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
