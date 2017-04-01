@@ -217,7 +217,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
-	
+
+- x360ce
+	- "Xbox 360 Controller Emulator" allows your controller (gamepad, joystick, wheel, etc.) to function as an Xbox 360 controller.
+	- http://www.x360ce.com/
+	- https://github.com/x360ce/x360ce
+
 - V8
 	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
