@@ -55,6 +55,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- GNU Midnight Commander is a free cross-platform orthodox file manager.
 	- https://midnight-commander.org/
 	- https://github.com/MidnightCommander/mc
+	
+- File Roller
+	- File Roller is an archive manager for the GNOME desktop environment.
+	- https://wiki.gnome.org/Apps/FileRoller
+	- https://git.gnome.org/browse/file-roller/
 
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
