@@ -111,6 +111,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.sumatrapdfreader.org/free-pdf-reader.html
 	- https://github.com/sumatrapdfreader/sumatrapdf
 
+- FBReader
+	- FBReader is a free and open source e-book reader for Linux, Microsoft Windows, Android, and other platforms.
+	- https://fbreader.org/
+	- https://github.com/geometer/FBReader
+
 - Xen
 	- Xen is a Virtual Machine Monitor (VMM).
 	- https://www.xenproject.org/
