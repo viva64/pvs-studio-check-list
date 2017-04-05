@@ -111,6 +111,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.sumatrapdfreader.org/free-pdf-reader.html
 	- https://github.com/sumatrapdfreader/sumatrapdf
 
+- Evince
+	- Evince is a document viewer for multiple document formats.
+	- https://wiki.gnome.org/Apps/Evince
+	- https://git.gnome.org/browse/evince/
+
 - Xen
 	- Xen is a Virtual Machine Monitor (VMM).
 	- https://www.xenproject.org/
