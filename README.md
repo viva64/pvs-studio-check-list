@@ -218,6 +218,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
 	
+- AntiMicro
+	- AntiMicro is a graphical program used to map keyboard keys and mouse controls to a gamepad.
+	- https://github.com/AntiMicro/antimicro
+	
 - V8
 	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
