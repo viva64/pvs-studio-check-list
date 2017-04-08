@@ -158,6 +158,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://obsproject.com/
 	- https://github.com/jp9000/obs-studio
 
+- Shotcut
+	- Shotcut is a free, open source, cross-platform video editor.
+	- https://www.shotcut.org/
+	- https://github.com/mltframework/shotcut
+
 - SQLite
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
