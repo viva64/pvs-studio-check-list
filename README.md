@@ -56,6 +56,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://midnight-commander.org/
 	- https://github.com/MidnightCommander/mc
 
+- Leafpad
+	- Leafpad is an open source text editor for Linux, BSD, and Maemo.
+	- http://tarot.freeshell.org/leafpad/
+	- https://download.savannah.gnu.org/releases/leafpad/
+
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
 	- http://www.qbittorrent.org/
