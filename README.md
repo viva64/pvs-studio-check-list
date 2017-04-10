@@ -36,6 +36,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://wiki.lxde.org/en/Main_Page
 	- https://git.lxde.org/gitweb/
 
+- Git
+	- Git is a free and open source distributed version control system.
+	- https://git-scm.com/
+	- https://github.com/git/git/
+
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
