@@ -8,6 +8,11 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- Juce
+        - JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
+	- https://www.juce.com/
+	- https://github.com/julianstorer/JUCE
+
 - Wayland
 	- Wayland is intended as a simpler replacement for X, easier to develop and maintain.
 	- https://wayland.freedesktop.org/
@@ -36,6 +41,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://git-scm.com/
 	- https://github.com/git/git/
 
+- BusyBox
+	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
+	- https://www.busybox.net/
+	- https://git.busybox.net/busybox/
+
 - ToaruOS
 	- 1.0 release of ToaruOS.
 	- http://www.toaruos.org/
@@ -45,6 +55,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
 	- https://github.com/erlang/otp/
+
+- Midnight Commander
+	- GNU Midnight Commander is a free cross-platform orthodox file manager.
+	- https://midnight-commander.org/
+	- https://github.com/MidnightCommander/mc
 
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
@@ -116,6 +131,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.gnucash.org/
 	- https://github.com/Gnucash/gnucash
 
+- Pidgin
+	- Pidgin is a free and open-source multi-platform instant messaging client.
+	- https://pidgin.im/
+	- https://bitbucket.org/pidgin/main/src
+
 - Tox
 	- secure messenger with audio and video chat capabilities.
 	- https://tox.chat/
@@ -147,7 +167,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
 	- https://www.sqlite.org/download.html
-	
+
+- Geany
+	- Geany is a small and lightweight Integrated Development Environment.
+	- http://geany.org/
+	- https://github.com/geany/geany/
+
 - Lua
 	- Lua is a small but powerful scripting language, embedded in numerous other products.
 	- https://www.lua.org/
@@ -243,6 +268,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.perl.org/
 	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
 
+- Radare2 
+	- Unix-like reverse engineering framework and commandline tools.
+	- https://radare.org
+	- https://github.com/radare/radare2
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
@@ -279,14 +309,3 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
-
-- PascalABC.NET 
-	- The new generation Pascal programming language for .NET.
-	- http://pascalabc.net/
-	- https://github.com/pascalabcnet/pascalabcnet
-
-- The Bouncy Castle Crypto Package
-	- C# implementation of cryptographic algorithms and protocols.
-	- https://www.bouncycastle.org/csharp/index.html
-	- https://github.com/bcgit/bc-csharp
-
