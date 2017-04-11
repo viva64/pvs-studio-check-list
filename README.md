@@ -273,6 +273,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://radare.org
 	- https://github.com/radare/radare2
 
+- Apache Ignite C++
+	- In-Memory Data Fabric is a high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash-based technologies.
+	- https://apacheignite-cpp.readme.io/docs
+	- https://github.com/apache/ignite/tree/master/modules/platforms/cpp
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
@@ -309,3 +314,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
+	
+- Apache Ignite.NET
+	- In-Memory Data Fabric is a high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash-based technologies.
+	- https://apacheignite-net.readme.io/docs
+	- https://github.com/apache/ignite/tree/master/modules/platforms/dotnet
