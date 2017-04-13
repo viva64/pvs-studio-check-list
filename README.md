@@ -25,11 +25,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://cgit.freedesktop.org/xorg/xserver
 	- https://github.com/wereHamster/xorg-server
 
-- Mir
-	- Mir is a computer display server for the Linux operating system currently in development by Canonical Ltd.
-	- https://launchpad.net/mir
-	- https://code.launchpad.net/mir
-
 - LXDE
 	- LXDE (Lightweight X11 Desktop Environment) is a desktop environment which is lightweight and fast.
 	- http://lxde.org/
@@ -187,11 +182,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
 	- https://www.imagemagick.org/
 	- https://github.com/ImageMagick/ImageMagick
-
-- TensorFlow 
-	- TensorFlow is an open source software library for numerical computation using data flow graphs.
-	- https://www.tensorflow.org/
-	- https://github.com/tensorflow/tensorflow
   
 - FreeSWITCH
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
