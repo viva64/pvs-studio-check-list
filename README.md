@@ -31,6 +31,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://wiki.lxde.org/en/Main_Page
 	- https://git.lxde.org/gitweb/
 
+- KDE
+	- KDE is a desktop environment for Linux operating systems.
+	- https://www.kde.org/
+	- https://github.com/KDE
+
 - Git
 	- Git is a free and open source distributed version control system.
 	- https://git-scm.com/
