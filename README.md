@@ -84,6 +84,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
+
+- iptables
+	- iptables is the userspace command-line program used to configure the Linux packet filtering ruleset.
+	- https://www.netfilter.org/
+	- https://git.netfilter.org/iptables/
 	
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
