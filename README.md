@@ -202,6 +202,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
 	- https://urho3d.github.io
 	- https://github.com/urho3d/Urho3D
+	
+- Audacity
+	- Audacity is free, open source, cross-platform audio software for multi-track recording and editing.
+	- http://www.audacityteam.org/
+	- https://github.com/audacity/audacity
   
 - darktable
 	- darktable is an open source photography workflow application and raw developer.
