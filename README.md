@@ -202,6 +202,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
 	- https://urho3d.github.io
 	- https://github.com/urho3d/Urho3D
+	
+- Avidemux
+	- Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
+	- http://avidemux.sourceforge.net/
+	- https://github.com/mean00/avidemux2
   
 - darktable
 	- darktable is an open source photography workflow application and raw developer.
