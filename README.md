@@ -263,6 +263,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://radare.org
 	- https://github.com/radare/radare2
 
+- CMake
+	- CMake is an open-source, cross-platform family of tools designed to build, test and package software.
+	- https://cmake.org/
+	- https://gitlab.kitware.com/cmake/cmake/
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
