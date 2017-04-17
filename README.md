@@ -84,7 +84,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
-	
+
+- OpenSSH
+	- OpenSSH is the premier connectivity tool for remote login with the SSH protocol.
+	- https://www.openssh.com/
+	- https://anongit.mindrot.org/openssh.git
+
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
 	- https://www.arangodb.com
