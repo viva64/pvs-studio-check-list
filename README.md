@@ -240,7 +240,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
 	
 - cereal
-        - cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly turns them into different representations, such as compact binary encodings, XML, or JSON.
+        - cereal is a header-only C++11 serialization library.
 	- http://uscilab.github.io/cereal/
 	- https://github.com/USCiLab/cereal
 
