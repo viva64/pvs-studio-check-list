@@ -273,6 +273,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://cmake.org/
 	- https://gitlab.kitware.com/cmake/cmake/
 
+- Kodi
+	- Kodi is an award-winning free and open source (GPL) software media player and entertainment hub for digital media.
+	- https://kodi.tv/
+	- https://github.com/xbmc/xbmc
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
