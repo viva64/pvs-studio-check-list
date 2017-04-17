@@ -273,6 +273,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://cmake.org/
 	- https://gitlab.kitware.com/cmake/cmake/
 
+- OSSEC
+	- Host-based Intrusion Detection System (HIDS).
+	- http://ossec.github.io/
+	- https://github.com/ossec/ossec-hids
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
