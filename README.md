@@ -95,6 +95,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://trafficserver.apache.org/
 	- http://trafficserver.apache.org/downloads
 
+- FileZilla
+	- FileZilla is a fast and reliable cross-platform FTP, FTPS and SFTP client.
+	- https://filezilla-project.org/
+	- https://svn.filezilla-project.org/filezilla/FileZilla3/
+
 - ownCloud
 	- ownCloud - a personal cloud which runs on your own server.
 	- https://owncloud.org/
