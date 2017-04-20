@@ -147,6 +147,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://deadbeef.sourceforge.net/
 	- https://github.com/Alexey-Yakovenko/deadbeef
 
+- PulseAudio
+	- PulseAudio is a network-capable sound server program for Linux systems.
+	- https://www.freedesktop.org/wiki/Software/PulseAudio/
+	- https://cgit.freedesktop.org/pulseaudio/pulseaudio/
+
 - VLC media player
  	- VLC is a free and open source cross-platform multimedia player and framework.
  	- http://www.videolan.org/vlc/index.html
