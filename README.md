@@ -100,6 +100,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://owncloud.org/
 	- https://github.com/owncloud/client
 
+- rsync
+	- rsync is a utility for efficiently transferring and synchronizing files across computer systems.
+	- https://rsync.samba.org/
+	- https://git.samba.org/?p=rsync.git;a=summary
+
+- Grsync
+	- Grsync is used to synchronize folders, files and make backups. It is a rsync GUI (Graphical User Interface).
+	- https://sourceforge.net/projects/grsync/
+	- https://sourceforge.net/p/grsync/code/HEAD/tree/
+
 - FFmpeg
 	- FFmpeg is a CLI tool for processing, converting and analyzing audio and video data
 	- https://github.com/FFmpeg/FFmpeg
