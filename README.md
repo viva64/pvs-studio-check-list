@@ -76,6 +76,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
+- Vulkan loader and validation layers
+	- This project provides Khronos official ICD loader and validation layers for Vulkan developers on Windows and Linux.
+	- https://www.khronos.org/vulkan/
+	- https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers
+
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
