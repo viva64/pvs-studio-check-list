@@ -76,6 +76,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
+- VK9
+	- VK9 is the Direct3D 9 compatibility layer using Vulkan.
+	- https://github.com/disks86/VK9
+
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
