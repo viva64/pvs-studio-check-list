@@ -142,6 +142,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://sourceforge.net/projects/veracrypt/
 	- https://github.com/veracrypt/VeraCrypt
 
+- MPlayer
+	- MPlayer is a free and open source media player.
+	- https://mplayerhq.hu/design7/news.html
+
 - DeaDBeeF
 	- DeaDBeeF is a music player for Unix-like systems and OS X.
 	- http://deadbeef.sourceforge.net/
