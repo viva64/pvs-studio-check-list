@@ -106,6 +106,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- git://source.ffmpeg.org/ffmpeg.git
 	- https://ffmpeg.org/
 
+- GStreamer
+	- GStreamer is a library for constructing graphs of media-handling components.
+	- https://gstreamer.freedesktop.org/
+	- https://cgit.freedesktop.org/gstreamer/
+
 - Sumatra PDF
 	- Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 	- https://www.sumatrapdfreader.org/free-pdf-reader.html
