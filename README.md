@@ -287,6 +287,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Host-based Intrusion Detection System (HIDS).
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
+
+- qfusion
+	- id Tech 2 derived game engine.
+	- http://www.qfusion.net/
+	- https://github.com/Qfusion/qfusion
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
