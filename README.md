@@ -287,6 +287,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Host-based Intrusion Detection System (HIDS).
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
+
+- wxWidgets
+	- A Cross-Platform GUI library
+	- https://www.wxwidgets.org/
+	- https://github.com/wxWidgets/wxWidgets
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
