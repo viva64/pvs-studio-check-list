@@ -84,7 +84,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
-	
+
+- PuTTY
+	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
+	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
+
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
 	- https://www.arangodb.com
