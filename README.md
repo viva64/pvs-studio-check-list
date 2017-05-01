@@ -243,6 +243,11 @@ Projects in C/C++ ([go to C#](#csharp))
     - https://anonscm.debian.org/git/apt/apt.git
     - https://github.com/Debian/apt
 
+- Synaptic
+	- Synaptic is a graphical user interface for apt - the package management system.
+	- http://www.nongnu.org/synaptic/
+	- https://code.launchpad.net/synaptic
+
 - Bitcoin Core
 	- Bitcoin is a P2P digital currency system. Bitcoin Core is the reference implementation of Bitcoin.
 	- https://bitcoin.org/
