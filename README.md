@@ -178,6 +178,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://redis.io/
 	- https://github.com/antirez/redis
 
+- Nextcloud
+	- Nextcloud is a suite of client-server software for creating file hosting services and using them.
+	- https://nextcloud.com/
+	- https://github.com/nextcloud/server
+
 - ImageMagick
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
 	- https://www.imagemagick.org/
