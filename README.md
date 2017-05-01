@@ -187,6 +187,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
 	- https://freeswitch.org/
 	- https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse
+	
+- Stockfish
+	- Stockfish is a powerful and open source chess engine. Stockfish is the strongest chess engine at the moment.
+	- https://stockfishchess.org/
+	- https://github.com/official-stockfish/Stockfish
 
 - Dolphin Emulator
 	- Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
