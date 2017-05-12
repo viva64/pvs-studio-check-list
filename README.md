@@ -25,11 +25,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://cgit.freedesktop.org/xorg/xserver
 	- https://github.com/wereHamster/xorg-server
 
-- Mir
-	- Mir is a computer display server for the Linux operating system currently in development by Canonical Ltd.
-	- https://launchpad.net/mir
-	- https://code.launchpad.net/mir
-
 - LXDE
 	- LXDE (Lightweight X11 Desktop Environment) is a desktop environment which is lightweight and fast.
 	- http://lxde.org/
@@ -187,11 +182,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
 	- https://www.imagemagick.org/
 	- https://github.com/ImageMagick/ImageMagick
-
-- TensorFlow 
-	- TensorFlow is an open source software library for numerical computation using data flow graphs.
-	- https://www.tensorflow.org/
-	- https://github.com/tensorflow/tensorflow
   
 - FreeSWITCH
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
@@ -212,11 +202,21 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
 	- https://urho3d.github.io
 	- https://github.com/urho3d/Urho3D
+	
+- Avidemux
+	- Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
+	- http://avidemux.sourceforge.net/
+	- https://github.com/mean00/avidemux2
   
 - darktable
 	- darktable is an open source photography workflow application and raw developer.
 	- https://www.darktable.org/
 	- https://github.com/darktable-org/darktable
+	
+- MKVToolNix
+	- MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unixes and Windows.
+	- https://mkvtoolnix.download/
+	- https://github.com/mbunkus/mkvtoolnix
 	
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
@@ -267,6 +267,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Practical Extraction and Reporting Language.
 	- https://www.perl.org/
 	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
+	
+- cereal
+        - cereal is a header-only C++11 serialization library.
+	- http://uscilab.github.io/cereal/
+	- https://github.com/USCiLab/cereal
 
 - Radare2 
 	- Unix-like reverse engineering framework and commandline tools.
@@ -278,6 +283,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://apacheignite-cpp.readme.io/docs
 	- https://github.com/apache/ignite/tree/master/modules/platforms/cpp
 
+- CMake
+	- CMake is an open-source, cross-platform family of tools designed to build, test and package software.
+	- https://cmake.org/
+	- https://gitlab.kitware.com/cmake/cmake/
+
+- OSSEC
+	- Host-based Intrusion Detection System (HIDS).
+	- http://ossec.github.io/
+	- https://github.com/ossec/ossec-hids
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
