@@ -36,6 +36,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://git-scm.com/
 	- https://github.com/git/git/
 
+- strace
+	- strace is a diagnostic, debugging and instructional userspace utility for Linux.
+	- https://strace.io/
+	- https://github.com/strace/strace
+
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
