@@ -287,6 +287,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Host-based Intrusion Detection System (HIDS).
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
+
+- Ethereum C++ client
+	- It is the third most popular of the Ethereum clients.
+	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
+	- https://github.com/ethereum/cpp-ethereum
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
