@@ -8,6 +8,10 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- sqlpp11
+	- A type safe embedded domain specific language for SQL queries and results in C++.
+	- https://github.com/rbock/sqlpp11
+
 - Juce
         - JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
 	- https://www.juce.com/
