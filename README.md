@@ -31,6 +31,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://wiki.lxde.org/en/Main_Page
 	- https://git.lxde.org/gitweb/
 
+- Valgrind
+	- Valgrind is an instrumentation framework for building dynamic analysis tools. Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail.
+	- http://valgrind.org/
+	- svn://svn.valgrind.org/valgrind/trunk
+	
 - Git
 	- Git is a free and open source distributed version control system.
 	- https://git-scm.com/
