@@ -292,6 +292,9 @@ Projects in C/C++ ([go to C#](#csharp))
 	- It is the third most popular of the Ethereum clients.
 	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
 	- https://github.com/ethereum/cpp-ethereum
+- ROCm OpenOpenCL Runtime
+ 	- ROCm (Radeon Open Compute) is an open source Linux project.
+	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
