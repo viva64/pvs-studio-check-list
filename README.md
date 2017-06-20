@@ -295,6 +295,11 @@ Projects in C/C++ ([go to C#](#csharp))
 - ROCm OpenOpenCL Runtime
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
+
+- KeePassXC
+	- Cross platform password manager
+	- https://keepassxc.org/
+	- https://github.com/keepassxreboot/keepassxc
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
