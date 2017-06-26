@@ -296,6 +296,16 @@ Projects in C/C++ ([go to C#](#csharp))
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 	
+- FAUST
+	- FAUST (Functional Audio Stream) is a functional programming language specifically designed for real-time signal processing and synthesis.
+	- http://faust.grame.fr
+	- http://faust.grame.fr/download/
+	
+ - Supercollider
+ 	- SuperCollider is a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.
+	- http://supercollider.github.io
+	- https://github.com/supercollider/supercollider
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
