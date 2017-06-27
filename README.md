@@ -46,6 +46,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.toaruos.org/
 	- https://github.com/klange/toaruos
 
+- FreeType
+	- FreeType is a freely available software library to render fonts.
+	- https://www.freetype.org/
+	- https://git.savannah.gnu.org/cgit/freetype/freetype2.git/
+
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
