@@ -315,6 +315,11 @@ Projects in C/C++ ([go to C#](#csharp))
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 	
+- Eigen
+	- Eigen is a C++ template library for linear algebra matrices, vectors, numerical solvers, and related algorithms.
+	- http://eigen.tuxfamily.org/index.php?title=Main_Page
+	- https://bitbucket.org/eigen/eigen/
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
