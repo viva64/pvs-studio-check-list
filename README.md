@@ -314,7 +314,12 @@ Projects in C/C++ ([go to C#](#csharp))
 - ROCm OpenOpenCL Runtime
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
-	
+			
+- CERN ROOT
+	- Used by majority of High Energy Experiments to do (big) data analysis. Some of most used components are: core, io, tree, hist, math.
+	- https://root.cern.ch
+	- https://github.com/root-project/root
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
