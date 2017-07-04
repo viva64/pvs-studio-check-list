@@ -35,6 +35,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Git is a free and open source distributed version control system.
 	- https://git-scm.com/
 	- https://github.com/git/git/
+	
+- grep
+	- grep is a command-line utility for searching plain-text data sets for lines that match a regular expression.
+	- https://www.gnu.org/software/grep/
+	- https://git.savannah.gnu.org/cgit/grep.git
 
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
