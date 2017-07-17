@@ -95,6 +95,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- Mutt
+	- Mutt is a text-based email client for Unix-like systems.
+	- http://www.mutt.org/
+	- https://dev.mutt.org/hg/mutt/
+
 - PuTTY
 	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
 	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
