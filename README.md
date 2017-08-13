@@ -231,7 +231,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unixes and Windows.
 	- https://mkvtoolnix.download/
 	- https://github.com/mbunkus/mkvtoolnix
-	
+
+- Play!
+	- Play! is an attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
+	- http://purei.org/
+	- https://github.com/jpd002/Play-
+
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
