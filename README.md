@@ -314,6 +314,11 @@ Projects in C/C++ ([go to C#](#csharp))
 - ROCm OpenOpenCL Runtime
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
+
+- XNU
+	- XNU is the kernel of iOS and macOS, which had its source code recently opened.
+	- https://opensource.apple.com/source/xnu/
+	- https://github.com/apple/darwin-xnu
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
