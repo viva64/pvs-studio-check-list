@@ -351,3 +351,8 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
+
+- XNU
+	- XNU is the kernel of iOS and macOS, which had its source code recently opened.
+	- https://opensource.apple.com/source/xnu/
+	- https://github.com/apple/darwin-xnu
