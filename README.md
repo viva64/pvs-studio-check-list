@@ -25,16 +25,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://cgit.freedesktop.org/xorg/xserver
 	- https://github.com/wereHamster/xorg-server
 
-- Mir
-	- Mir is a computer display server for the Linux operating system currently in development by Canonical Ltd.
-	- https://launchpad.net/mir
-	- https://code.launchpad.net/mir
-
 - LXDE
 	- LXDE (Lightweight X11 Desktop Environment) is a desktop environment which is lightweight and fast.
 	- http://lxde.org/
 	- https://wiki.lxde.org/en/Main_Page
 	- https://git.lxde.org/gitweb/
+
+- Git
+	- Git is a free and open source distributed version control system.
+	- https://git-scm.com/
+	- https://github.com/git/git/
 
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
@@ -45,6 +45,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- 1.0 release of ToaruOS.
 	- http://www.toaruos.org/
 	- https://github.com/klange/toaruos
+
+- FreeType
+	- FreeType is a freely available software library to render fonts.
+	- https://www.freetype.org/
+	- https://git.savannah.gnu.org/cgit/freetype/freetype2.git/
 
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
@@ -60,6 +65,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Leafpad is an open source text editor for Linux, BSD, and Maemo.
 	- http://tarot.freeshell.org/leafpad/
 	- https://download.savannah.gnu.org/releases/leafpad/
+
+- NetworkManager
+	- NetworkManager is a system daemon for making network configurations on Unix systems.
+	- https://wiki.gnome.org/Projects/NetworkManager
+	- https://cgit.freedesktop.org/NetworkManager/NetworkManager/
+
 
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
@@ -89,7 +100,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
-	
+
+- PuTTY
+	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
+	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
+
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
 	- https://www.arangodb.com
@@ -187,11 +202,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
 	- https://www.imagemagick.org/
 	- https://github.com/ImageMagick/ImageMagick
-
-- TensorFlow 
-	- TensorFlow is an open source software library for numerical computation using data flow graphs.
-	- https://www.tensorflow.org/
-	- https://github.com/tensorflow/tensorflow
   
 - FreeSWITCH
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
@@ -212,17 +222,32 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
 	- https://urho3d.github.io
 	- https://github.com/urho3d/Urho3D
+	
+- Avidemux
+	- Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
+	- http://avidemux.sourceforge.net/
+	- https://github.com/mean00/avidemux2
   
 - darktable
 	- darktable is an open source photography workflow application and raw developer.
 	- https://www.darktable.org/
 	- https://github.com/darktable-org/darktable
 	
+- MKVToolNix
+	- MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unixes and Windows.
+	- https://mkvtoolnix.download/
+	- https://github.com/mbunkus/mkvtoolnix
+	
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
-	
+
+- Xenia
+	- Xenia is an open-source Xbox 360 emulator.
+	- http://xenia.jp/
+	- https://github.com/benvanik/xenia
+
 - V8
 	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
@@ -267,12 +292,40 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Practical Extraction and Reporting Language.
 	- https://www.perl.org/
 	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
+	
+- cereal
+        - cereal is a header-only C++11 serialization library.
+	- http://uscilab.github.io/cereal/
+	- https://github.com/USCiLab/cereal
 
 - Radare2 
 	- Unix-like reverse engineering framework and commandline tools.
 	- https://radare.org
 	- https://github.com/radare/radare2
 
+- CMake
+	- CMake is an open-source, cross-platform family of tools designed to build, test and package software.
+	- https://cmake.org/
+	- https://gitlab.kitware.com/cmake/cmake/
+
+- OSSEC
+	- Host-based Intrusion Detection System (HIDS).
+	- http://ossec.github.io/
+	- https://github.com/ossec/ossec-hids
+
+- Ethereum C++ client
+	- It is the third most popular of the Ethereum clients.
+	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
+	- https://github.com/ethereum/cpp-ethereum
+- ROCm OpenOpenCL Runtime
+ 	- ROCm (Radeon Open Compute) is an open source Linux project.
+	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
+
+- XNU
+	- XNU is the kernel of iOS and macOS, which had its source code recently opened.
+	- https://opensource.apple.com/source/xnu/
+	- https://github.com/apple/darwin-xnu
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
