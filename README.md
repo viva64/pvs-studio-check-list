@@ -61,10 +61,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://midnight-commander.org/
 	- https://github.com/MidnightCommander/mc
 
+- Leafpad
+	- Leafpad is an open source text editor for Linux, BSD, and Maemo.
+	- http://tarot.freeshell.org/leafpad/
+	- https://download.savannah.gnu.org/releases/leafpad/
+
 - NetworkManager
 	- NetworkManager is a system daemon for making network configurations on Unix systems.
 	- https://wiki.gnome.org/Projects/NetworkManager
 	- https://cgit.freedesktop.org/NetworkManager/NetworkManager/
+
 
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
