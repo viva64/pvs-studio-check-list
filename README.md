@@ -71,7 +71,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://wiki.gnome.org/Projects/NetworkManager
 	- https://cgit.freedesktop.org/NetworkManager/NetworkManager/
 
-
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
 	- http://www.qbittorrent.org/
@@ -86,6 +85,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Transmission is a cross-platform torrent client with GUI and web interface.
 	- https://transmissionbt.com/
 	- https://github.com/transmission/transmission
+
+- SDL
+	- Simple DirectMedia Layer (SDL) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+	- https://www.libsdl.org/
+	- https://hg.libsdl.org/SDL
 
 - Mesa
 	- The Mesa 3D Graphics Library.
