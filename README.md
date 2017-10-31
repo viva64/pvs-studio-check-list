@@ -361,6 +361,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://opensource.apple.com/source/xnu/
 	- https://github.com/apple/darwin-xnu
 	
+- Eigen
+	- Eigen is a C++ template library for linear algebra matrices, vectors, numerical solvers, and related algorithms.
+	- http://eigen.tuxfamily.org/index.php?title=Main_Page
+	- https://bitbucket.org/eigen/eigen/
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
