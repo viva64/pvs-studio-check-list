@@ -144,7 +144,8 @@ Projects in C/C++ ([go to C#](#csharp))
 
 - MPlayer
 	- MPlayer is a free and open source media player.
-	- https://mplayerhq.hu/design7/news.html
+	- https://mplayerhq.hu/
+	- svn://svn.mplayerhq.hu/mplayer/trunk
 
 - DeaDBeeF
 	- DeaDBeeF is a music player for Unix-like systems and OS X.
