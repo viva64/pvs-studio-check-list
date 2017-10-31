@@ -87,6 +87,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://transmissionbt.com/
 	- https://github.com/transmission/transmission
 
+- FreeGLUT
+	- FreeGLUT is an open source alternative to the OpenGL Utility Toolkit (GLUT) library.
+	- http://freeglut.sourceforge.net/
+	- https://github.com/dcnieho/FreeGLUT
+
 - Mesa
 	- The Mesa 3D Graphics Library.
 	- https://mesa3d.org/
