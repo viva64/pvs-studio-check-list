@@ -46,6 +46,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.toaruos.org/
 	- https://github.com/klange/toaruos
 
+- FreeType
+	- FreeType is a freely available software library to render fonts.
+	- https://www.freetype.org/
+	- https://git.savannah.gnu.org/cgit/freetype/freetype2.git/
+
 - Erlang/OTP
 	- Erlang/OTP (Open Telecom Platform) is a programming language.
 	- http://www.erlang.org/
@@ -55,6 +60,17 @@ Projects in C/C++ ([go to C#](#csharp))
 	- GNU Midnight Commander is a free cross-platform orthodox file manager.
 	- https://midnight-commander.org/
 	- https://github.com/MidnightCommander/mc
+
+- Leafpad
+	- Leafpad is an open source text editor for Linux, BSD, and Maemo.
+	- http://tarot.freeshell.org/leafpad/
+	- https://download.savannah.gnu.org/releases/leafpad/
+
+- NetworkManager
+	- NetworkManager is a system daemon for making network configurations on Unix systems.
+	- https://wiki.gnome.org/Projects/NetworkManager
+	- https://cgit.freedesktop.org/NetworkManager/NetworkManager/
+
 
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
@@ -70,6 +86,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Transmission is a cross-platform torrent client with GUI and web interface.
 	- https://transmissionbt.com/
 	- https://github.com/transmission/transmission
+
+- FreeGLUT
+	- FreeGLUT is an open source alternative to the OpenGL Utility Toolkit (GLUT) library.
+	- http://freeglut.sourceforge.net/
+	- https://github.com/dcnieho/FreeGLUT
 
 - Mesa
 	- The Mesa 3D Graphics Library.
@@ -89,6 +110,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- OpenSSH is the premier connectivity tool for remote login with the SSH protocol.
 	- https://www.openssh.com/
 	- https://anongit.mindrot.org/openssh.git
+
+- PuTTY
+	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
+	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
 
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
@@ -147,10 +172,20 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://sourceforge.net/projects/veracrypt/
 	- https://github.com/veracrypt/VeraCrypt
 
+- MPlayer
+	- MPlayer is a free and open source media player.
+	- https://mplayerhq.hu/
+	- svn://svn.mplayerhq.hu/mplayer/trunk
+
 - DeaDBeeF
 	- DeaDBeeF is a music player for Unix-like systems and OS X.
 	- http://deadbeef.sourceforge.net/
 	- https://github.com/Alexey-Yakovenko/deadbeef
+
+- PulseAudio
+	- PulseAudio is a network-capable sound server program for Linux systems.
+	- https://www.freedesktop.org/wiki/Software/PulseAudio/
+	- https://cgit.freedesktop.org/pulseaudio/pulseaudio/
 
 - VLC media player
  	- VLC is a free and open source cross-platform multimedia player and framework.
@@ -227,7 +262,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
-	
+
+- Xenia
+	- Xenia is an open-source Xbox 360 emulator.
+	- http://xenia.jp/
+	- https://github.com/benvanik/xenia
+
 - V8
 	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
@@ -282,6 +322,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Unix-like reverse engineering framework and commandline tools.
 	- https://radare.org
 	- https://github.com/radare/radare2
+	
+- Dr. Memory 
+	- Memory Debugger for Windows, Linux, Mac, and Android
+	- http://www.drmemory.org
+	- https://github.com/DynamoRIO/drmemory
 
 - CMake
 	- CMake is an open-source, cross-platform family of tools designed to build, test and package software.
@@ -292,6 +337,19 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Host-based Intrusion Detection System (HIDS).
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
+
+- Ethereum C++ client
+	- It is the third most popular of the Ethereum clients.
+	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
+	- https://github.com/ethereum/cpp-ethereum
+- ROCm OpenOpenCL Runtime
+ 	- ROCm (Radeon Open Compute) is an open source Linux project.
+	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
+
+- XNU
+	- XNU is the kernel of iOS and macOS, which had its source code recently opened.
+	- https://opensource.apple.com/source/xnu/
+	- https://github.com/apple/darwin-xnu
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
