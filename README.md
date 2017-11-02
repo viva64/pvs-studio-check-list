@@ -371,6 +371,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
 	- https://bitbucket.org/eigen/eigen/
 	
+- XScreenSaver
+	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
+	- https://www.jwz.org/xscreensaver/
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
