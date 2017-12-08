@@ -371,6 +371,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
 	- https://bitbucket.org/eigen/eigen/
 	
+- Godot Engine
+	- Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
+	- https://godotengine.org
+	- https://github.com/godotengine/godot
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
