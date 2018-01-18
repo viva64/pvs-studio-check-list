@@ -370,7 +370,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Eigen is a C++ template library for linear algebra matrices, vectors, numerical solvers, and related algorithms.
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
 	- https://bitbucket.org/eigen/eigen/
-	
+
+- Torque 3D
+	- The premier open-source game engine.
+	- http://torque3d.org/
+	- https://github.com/GarageGames/Torque3D
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
@@ -407,3 +412,4 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
+
