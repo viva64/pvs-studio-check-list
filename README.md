@@ -376,6 +376,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://torque3d.org/
 	- https://github.com/GarageGames/Torque3D
 
+- Vangers
+	- Video game that combines elements of the racing and role-playing genres.
+	- http://vangers.org/
+	- https://github.com/KranX/Vangers
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
