@@ -272,7 +272,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unixes and Windows.
 	- https://mkvtoolnix.download/
 	- https://github.com/mbunkus/mkvtoolnix
-	
+
+- DOSBox
+	- DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system.
+	- https://www.dosbox.com/
+
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
