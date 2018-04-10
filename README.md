@@ -357,6 +357,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- It is the third most popular of the Ethereum clients.
 	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
 	- https://github.com/ethereum/cpp-ethereum
+
+- Windows File Manager
+	- Windows File Manager is a file manager bundled with releases of Microsoft Windows between 1990 and 1999.
+	- https://github.com/Microsoft/winfile
+
 - ROCm OpenOpenCL Runtime
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
