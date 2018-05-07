@@ -8,6 +8,11 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- Telegram Desktop
+        - Telegram Desktop messaging app.
+	- https://desktop.telegram.org/
+	- https://github.com/telegramdesktop/tdesktop
+	
 - Juce
         - JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
 	- https://www.juce.com/
