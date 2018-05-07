@@ -213,6 +213,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://obsproject.com/
 	- https://github.com/jp9000/obs-studio
 
+- QuiteRSS
+	- QuiteRSS is a open-source cross-platform RSS/Atom news feeds reader.
+	- https://quiterss.org/
+	- https://github.com/QuiteRSS/quiterss/
+
 - SQLite
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
