@@ -283,6 +283,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mkvtoolnix.download/
 	- https://github.com/mbunkus/mkvtoolnix
 
+- NetHack
+	- NetHack is a single-player rogue-like video game originally released in 1987 with ASCII graphics.
+	- https://www.nethack.org/
+	- https://github.com/NetHack/NetHack
+
 - DOSBox
 	- DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system.
 	- https://www.dosbox.com/
