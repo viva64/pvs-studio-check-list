@@ -302,6 +302,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://xenia.jp/
 	- https://github.com/benvanik/xenia
 
+- 0 A.D.
+	- 0 A.D. is a free, open-source, historical Real Time Strategy (RTS) game.
+	- https://play0ad.com/
+	- https://trac.wildfiregames.com/browser
+
 - V8
 	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
