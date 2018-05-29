@@ -41,6 +41,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://git-scm.com/
 	- https://github.com/git/git/
 
+- Emacs
+	- Emacs is the extensible, customizable, self-documenting, real-time text editor.
+	- https://www.gnu.org/software/emacs/
+	- https://savannah.gnu.org/projects/emacs/
+
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
