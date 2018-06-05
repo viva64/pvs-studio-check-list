@@ -297,6 +297,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
 
+- RPCS3
+	- RPCS3 is an open-source Sony PlayStation 3 emulator written in C++ for Windows and Linux.
+	- https://rpcs3.net/
+	- https://github.com/RPCS3/rpcs3
+
 - Xenia
 	- Xenia is an open-source Xbox 360 emulator.
 	- http://xenia.jp/
