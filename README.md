@@ -404,7 +404,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Video game that combines elements of the racing and role-playing genres.
 	- http://vangers.org/
 	- https://github.com/KranX/Vangers
-
+	
+- Zapcc
+	- zapcc is a caching C++ compiler based on clang, designed to perform faster compilations
+	- https://www.zapcc.com/
+	- https://github.com/yrnkrn/zapcc
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
