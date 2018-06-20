@@ -97,6 +97,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- Virgil
+	- Virgil is a research project to use the capabilities of the host GPU to accelerate 3D rendering.
+	- https://virgil3d.github.io/
+	- https://cgit.freedesktop.org/virglrenderer
+
 - Mesa
 	- The Mesa 3D Graphics Library.
 	- https://mesa3d.org/
