@@ -102,6 +102,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://virgil3d.github.io/
 	- https://cgit.freedesktop.org/virglrenderer
 
+- Skia
+	- Skia is an open source 2D graphics library which provides common APIs for many of hardware and software platforms.
+	- https://skia.org/
+	- https://github.com/google/skia/
+
 - Mesa
 	- The Mesa 3D Graphics Library.
 	- https://mesa3d.org/
