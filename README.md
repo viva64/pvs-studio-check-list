@@ -107,6 +107,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
+- GLOVE
+	- GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between OpenGL and Vulkan.
+	- https://github.com/Think-Silicon/GLOVE
+
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
