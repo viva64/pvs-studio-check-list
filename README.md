@@ -8,6 +8,11 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- Telegram Desktop
+        - Telegram Desktop messaging app.
+	- https://desktop.telegram.org/
+	- https://github.com/telegramdesktop/tdesktop
+	
 - Juce
         - JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
 	- https://www.juce.com/
@@ -36,6 +41,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://git-scm.com/
 	- https://github.com/git/git/
 
+- Emacs
+	- Emacs is the extensible, customizable, self-documenting, real-time text editor.
+	- https://www.gnu.org/software/emacs/
+	- https://savannah.gnu.org/projects/emacs/
+
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
@@ -60,6 +70,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- GNU Midnight Commander is a free cross-platform orthodox file manager.
 	- https://midnight-commander.org/
 	- https://github.com/MidnightCommander/mc
+
+- HarfBuzz
+	- HarfBuzz is the open-source text shaping library.
+	- https://harfbuzz.github.io/
+	- https://github.com/harfbuzz/harfbuzz
 
 - Leafpad
 	- Leafpad is an open source text editor for Linux, BSD, and Maemo.
@@ -96,10 +111,30 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
 
+- Virgil
+	- Virgil is a research project to use the capabilities of the host GPU to accelerate 3D rendering.
+	- https://virgil3d.github.io/
+	- https://cgit.freedesktop.org/virglrenderer
+
+- Skia
+	- Skia is an open source 2D graphics library which provides common APIs for many of hardware and software platforms.
+	- https://skia.org/
+	- https://github.com/google/skia/
+
 - Mesa
 	- The Mesa 3D Graphics Library.
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
+
+- MoltenVK
+	- MoltenVK is the implementation of Vulkan API on Apple's Metal, bringing Vulkan to iOS and macOS.
+	- https://moltengl.com/moltenvk/
+	- https://github.com/KhronosGroup/MoltenVK
+
+- GLOVE
+	- GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between OpenGL and Vulkan.
+	- https://github.com/Think-Silicon/GLOVE
+	- https://think-silicon.com/
 
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
@@ -217,6 +252,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://obsproject.com/
 	- https://github.com/jp9000/obs-studio
 
+- QuiteRSS
+	- QuiteRSS is a open-source cross-platform RSS/Atom news feeds reader.
+	- https://quiterss.org/
+	- https://github.com/QuiteRSS/quiterss/
+
 - SQLite
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
@@ -276,11 +316,25 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unixes and Windows.
 	- https://mkvtoolnix.download/
 	- https://github.com/mbunkus/mkvtoolnix
-	
+
+- NetHack
+	- NetHack is a single-player rogue-like video game originally released in 1987 with ASCII graphics.
+	- https://www.nethack.org/
+	- https://github.com/NetHack/NetHack
+
+- DOSBox
+	- DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system.
+	- https://www.dosbox.com/
+
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+
+- RPCS3
+	- RPCS3 is an open-source Sony PlayStation 3 emulator written in C++ for Windows and Linux.
+	- https://rpcs3.net/
+	- https://github.com/RPCS3/rpcs3
 
 - Xenia
 	- Xenia is an open-source Xbox 360 emulator.
@@ -361,6 +415,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- It is the third most popular of the Ethereum clients.
 	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
 	- https://github.com/ethereum/cpp-ethereum
+
+- Windows File Manager
+	- Windows File Manager is a file manager bundled with releases of Microsoft Windows between 1990 and 1999.
+	- https://github.com/Microsoft/winfile
+
 - ROCm OpenOpenCL Runtime
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
@@ -374,6 +433,26 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Eigen is a C++ template library for linear algebra matrices, vectors, numerical solvers, and related algorithms.
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
 	- https://bitbucket.org/eigen/eigen/
+
+- Torque 3D
+	- The premier open-source game engine.
+	- http://torque3d.org/
+	- https://github.com/GarageGames/Torque3D
+
+- Vangers
+	- Video game that combines elements of the racing and role-playing genres.
+	- http://vangers.org/
+	- https://github.com/KranX/Vangers
+	
+- Zapcc
+	- zapcc is a caching C++ compiler based on clang, designed to perform faster compilations
+	- https://www.zapcc.com/
+	- https://github.com/yrnkrn/zapcc
+	
+- Godot Engine
+	- Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
+	- https://godotengine.org
+	- https://github.com/godotengine/godot
 	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
@@ -411,3 +490,4 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
+
