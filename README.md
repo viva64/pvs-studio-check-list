@@ -602,7 +602,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Video game that combines elements of the racing and role-playing genres.
 	- http://vangers.org/
 	- https://github.com/KranX/Vangers
-	
+
+- XScreenSaver
+	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
+	- https://github.com/porridge/xscreensaver
+	- https://www.jwz.org/xscreensaver/
+
 - Zapcc
 	- zapcc is a caching C++ compiler based on clang, designed to perform faster compilations
 	- https://www.zapcc.com/
