@@ -355,7 +355,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- QuiteRSS is a open-source cross-platform RSS/Atom news feeds reader.
 	- https://quiterss.org/
 	- https://github.com/QuiteRSS/quiterss/
-  
+
+- Eudora
+	- Eudora is an open-source e-mail client.
+	- http://www.computerhistory.org/_static/atchm/the-eudora-email-client-source-code/
+	- http://www.computerhistory.org/atchm/the-eudora-email-client-source-code-license-agreement/
+
 - SQLite
 	- SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
 	- https://www.sqlite.org/
