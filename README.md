@@ -145,6 +145,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
+- Vulkan loader and validation layers
+	- This project provides Khronos official ICD loader and validation layers for Vulkan developers on Windows and Linux.
+	- https://www.khronos.org/vulkan/
+	- https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers
+
 - VK9
 	- VK9 is the Direct3D 9 compatibility layer using Vulkan.
 	- https://github.com/disks86/VK9
