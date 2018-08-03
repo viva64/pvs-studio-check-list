@@ -145,6 +145,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
+- VK9
+	- VK9 is the Direct3D 9 compatibility layer using Vulkan.
+	- https://github.com/disks86/VK9
+	- https://github.com/disks86/VK9/wiki
+
 - MoltenVK
 	- MoltenVK is the implementation of Vulkan API on Apple's Metal, bringing Vulkan to iOS and macOS.
 	- https://moltengl.com/moltenvk/
