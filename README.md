@@ -24,6 +24,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://cgit.freedesktop.org/wayland
 	- https://github.com/wayland-project/wayland
 
+- LightDM
+	- LightDM is a cross-desktop display manager.
+	- https://freedesktop.org/wiki/Software/LightDM/
+	- https://code.launchpad.net/lightdm
+
 - X.Org
 	- The X.Org project provides an open source implementation of the X Window System.
 	- https://www.x.org/wiki/
