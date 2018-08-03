@@ -430,6 +430,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
 
+- wxWidgets
+	- A Cross-Platform GUI library
+	- https://www.wxwidgets.org/
+	- https://github.com/wxWidgets/wxWidgets
+
 - OMR
   - The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
 	- https://github.com/eclipse/omr
@@ -482,7 +487,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
 	- https://godotengine.org
 	- https://github.com/godotengine/godot
-	
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
