@@ -51,6 +51,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.gnu.org/software/emacs/
 	- https://savannah.gnu.org/projects/emacs/
 
+- Darling
+	- Darling is a translation layer that allows you to run unmodified macOS binaries on Linux.
+	- https://darlinghq.org/
+	- https://github.com/darlinghq/darling
+
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
