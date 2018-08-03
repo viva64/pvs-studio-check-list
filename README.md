@@ -76,6 +76,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.busybox.net/
 	- https://git.busybox.net/busybox/
 
+- GNU nano
+	- GNU nano is a text editor for Unix-like computing systems with command-line interface.
+	- https://nano-editor.org/
+	- https://git.savannah.gnu.org/cgit/nano.git/
+
 - ToaruOS
 	- 1.0 release of ToaruOS.
 	- http://www.toaruos.org/
