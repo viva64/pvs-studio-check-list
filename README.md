@@ -194,6 +194,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
 
+- ALSA
+	- The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionality to the Linux operating system.
+	- http://alsa-project.org/main/index.php/Main_Page
+	- http://git.alsa-project.org/
+
 - zsh
 	- zsh is a modern shell for *nix systems.
 	- http://zsh.org/
