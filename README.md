@@ -445,6 +445,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://www.zapcc.com/
 	- https://github.com/yrnkrn/zapcc
 	
+- Godot Engine
+	- Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
+	- https://godotengine.org
+	- https://github.com/godotengine/godot
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
