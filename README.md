@@ -44,7 +44,7 @@ Projects in C/C++ ([go to C#](#csharp))
 - AppArmor
 	- AppArmor is an effective and easy-to-use Linux application security system.
 	- http://wiki.apparmor.net/index.php/Main_Page
-	- git://git.kernel.org/pub/scm/linux/kernel/git/jj/linux-apparmor
+	- https://git.kernel.org/pub/scm/linux/kernel/git/jj/linux-apparmor.git/
 
 - ToaruOS
 	- 1.0 release of ToaruOS.
