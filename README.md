@@ -419,6 +419,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+	
+- AntiMicro
+	- AntiMicro is a graphical program used to map keyboard keys and mouse controls to a gamepad.
+	- https://github.com/AntiMicro/antimicro
+	- https://github.com/AntiMicro/antimicro/wiki
 
 - RPCS3
 	- RPCS3 is an open-source Sony PlayStation 3 emulator written in C++ for Windows and Linux.
