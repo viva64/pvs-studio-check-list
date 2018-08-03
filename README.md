@@ -321,6 +321,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://obsproject.com/
 	- https://github.com/jp9000/obs-studio
 
+- Shotcut
+	- Shotcut is a free, open source, cross-platform video editor.
+	- https://www.shotcut.org/
+	- https://github.com/mltframework/shotcut
+
 - QuiteRSS
 	- QuiteRSS is a open-source cross-platform RSS/Atom news feeds reader.
 	- https://quiterss.org/
