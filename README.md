@@ -107,6 +107,10 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- DXVK
+	- Vulkan-based D3D11 implementation for Linux / Wine
+	- https://github.com/doitsujin/dxvk
+
 - Virgil
 	- Virgil is a research project to use the capabilities of the host GPU to accelerate 3D rendering.
 	- https://virgil3d.github.io/
