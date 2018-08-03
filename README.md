@@ -475,6 +475,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.drmemory.org
 	- https://github.com/DynamoRIO/drmemory
 
+- Apache Ignite C++
+	- In-Memory Data Fabric is in-memory platform for computing and transacting on large-scale data sets in real-time.
+	- https://apacheignite-cpp.readme.io/docs
+	- https://github.com/apache/ignite/tree/master/modules/platforms/cpp
+
 - CMake
 	- CMake is an open-source, cross-platform family of tools designed to build, test and package software.
 	- https://cmake.org/
@@ -589,4 +594,9 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
+	
+- Apache Ignite.NET
+	- In-Memory Data Fabric is in-memory platform for computing and transacting on large-scale data sets in real-time.
+	- https://apacheignite-net.readme.io/docs
+	- https://github.com/apache/ignite/tree/master/modules/platforms/dotnet
 
