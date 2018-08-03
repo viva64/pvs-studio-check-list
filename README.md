@@ -213,6 +213,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 	- https://www.sumatrapdfreader.org/free-pdf-reader.html
 	- https://github.com/sumatrapdfreader/sumatrapdf
+	
+- MuPDF
+	- MuPDF is a lightweight PDF, XPS, and E-book viewer.
+	- https://mupdf.com/
+	- http://git.ghostscript.com/?p=mupdf.git;a=summary
 
 - FBReader
 	- FBReader is a free and open source e-book reader for Linux, Microsoft Windows, Android, and other platforms.
