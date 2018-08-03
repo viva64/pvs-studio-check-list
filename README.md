@@ -443,6 +443,11 @@ Projects in C/C++ ([go to C#](#csharp))
  	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 
+- KeePassXC
+	- Cross platform password manager
+	- https://keepassxc.org/
+	- https://github.com/keepassxreboot/keepassxc
+
 - XNU
 	- XNU is the kernel of iOS and macOS, which had its source code recently opened.
 	- https://opensource.apple.com/source/xnu/
