@@ -75,6 +75,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
 	- https://git.busybox.net/busybox/
+	
+- AppArmor
+	- AppArmor is an effective and easy-to-use Linux application security system.
+	- http://wiki.apparmor.net/index.php/Main_Page
+	- https://git.kernel.org/pub/scm/linux/kernel/git/jj/linux-apparmor.git/
 
 - GNU nano
 	- GNU nano is a text editor for Unix-like computing systems with command-line interface.
