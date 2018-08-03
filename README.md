@@ -435,6 +435,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
 
+- 0 A.D. 
+	- A free, open-source game of ancient warfare.
+	- https://play0ad.com/
+	- https://github.com/0ad/0ad
+
 - QFusion
 	- id Tech 2 derived game engine.
 	- http://qfusion.github.io/qfusion/
