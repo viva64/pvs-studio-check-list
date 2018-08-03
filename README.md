@@ -255,6 +255,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://deadbeef.sourceforge.net/
 	- https://github.com/Alexey-Yakovenko/deadbeef
 
+- mpv
+	- mpv is a free, open source, and cross-platform media player.
+	- https://mpv.io/
+	- https://github.com/mpv-player/mpv
+
 - PulseAudio
 	- PulseAudio is a network-capable sound server program for Linux systems.
 	- https://www.freedesktop.org/wiki/Software/PulseAudio/
