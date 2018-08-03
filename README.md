@@ -204,6 +204,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://zsh.org/
 	- https://sourceforge.net/p/zsh/code/ci/master/tree/
 
+- Mutt
+	- Mutt is a text-based email client for Unix-like systems.
+	- http://www.mutt.org/
+	- https://gitlab.com/muttmua/mutt
+
 - iptables
 	- iptables is the userspace command-line program used to configure the Linux packet filtering ruleset.
 	- https://www.netfilter.org/projects/iptables/index.html
