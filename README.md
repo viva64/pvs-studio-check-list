@@ -86,7 +86,6 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://wiki.gnome.org/Projects/NetworkManager
 	- https://cgit.freedesktop.org/NetworkManager/NetworkManager/
 
-
 - qBittorrent
 	- The qBittorrent project aims to provide a Free Software alternative to µtorrent.
 	- http://www.qbittorrent.org/
@@ -101,6 +100,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Transmission is a cross-platform torrent client with GUI and web interface.
 	- https://transmissionbt.com/
 	- https://github.com/transmission/transmission
+
+- SDL
+	- SDL is a cross-platform development library which provides low level access to different hardware via OpenGL and Direct3D.
+	- https://www.libsdl.org/
+	- https://hg.libsdl.org/SDL
 
 - FreeGLUT
 	- FreeGLUT is an open source alternative to the OpenGL Utility Toolkit (GLUT) library.
