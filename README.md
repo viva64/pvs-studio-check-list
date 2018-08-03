@@ -588,6 +588,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://opensource.apple.com/source/xnu/
 	- https://github.com/apple/darwin-xnu
 	
+- FAUST
+	- FAUST is a functional programming language specifically designed for real-time signal processing and synthesis.
+	- https://github.com/grame-cncm/faust
+	- http://faust.grame.fr
+		
+ - Supercollider
+ 	- SuperCollider is a platform for audio synthesis and algorithmic composition.
+	- http://supercollider.github.io
+	- https://github.com/supercollider/supercollider
+
 - Eigen
 	- Eigen is a C++ template library for linear algebra matrices, vectors, numerical solvers, and related algorithms.
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
