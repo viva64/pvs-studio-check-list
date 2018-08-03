@@ -87,7 +87,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/transmission/transmission
 
 - SDL
-	- Simple DirectMedia Layer (SDL) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+	- SDL is a cross-platform development library which provides low level access to different hardware via OpenGL and Direct3D.
 	- https://www.libsdl.org/
 	- https://hg.libsdl.org/SDL
 
