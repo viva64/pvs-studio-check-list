@@ -102,6 +102,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://virgil3d.github.io/
 	- https://cgit.freedesktop.org/virglrenderer
 
+- Skia
+	- Skia is an open source 2D graphics library which provides common APIs for many of hardware and software platforms.
+	- https://skia.org/
+	- https://github.com/google/skia/
+
 - Mesa
 	- The Mesa 3D Graphics Library.
 	- https://mesa3d.org/
@@ -111,6 +116,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- MoltenVK is the implementation of Vulkan API on Apple's Metal, bringing Vulkan to iOS and macOS.
 	- https://moltengl.com/moltenvk/
 	- https://github.com/KhronosGroup/MoltenVK
+
+- GLOVE
+	- GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between OpenGL and Vulkan.
+	- https://github.com/Think-Silicon/GLOVE
+	- https://think-silicon.com/
 
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
