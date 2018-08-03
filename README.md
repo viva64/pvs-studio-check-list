@@ -219,7 +219,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://github.com/hrydgard/ppsspp
 
 - x360ce
-	- "Xbox 360 Controller Emulator" allows your controller (gamepad, joystick, wheel, etc.) to function as an Xbox 360 controller.
+	- "Xbox 360 Controller Emulator" allows your controller to function as an Xbox 360 controller.
 	- http://www.x360ce.com/
 	- https://github.com/x360ce/x360ce
 
