@@ -479,6 +479,16 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Xenia is an open-source Xbox 360 emulator.
 	- http://xenia.jp/
 	- https://github.com/benvanik/xenia
+	
+- GEOS
+	- GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
+	- https://trac.osgeo.org/geos/
+	- https://git.osgeo.org/gitea/geos/geos.git
+	
+- GDAL
+	- GDAL is a translator library for raster and vector geospatial data formats.
+	- https://gdal.org/
+	- https://github.com/OSGeo/gdal
 
 - V8
 	- V8 is Google's open source high-performance JavaScript engine.
