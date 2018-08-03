@@ -100,6 +100,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- GNU Midnight Commander is a free cross-platform orthodox file manager.
 	- https://midnight-commander.org/
 	- https://github.com/MidnightCommander/mc
+	
+- File Roller
+	- File Roller is an archive manager for the GNOME desktop environment.
+	- https://wiki.gnome.org/Apps/FileRoller
+	- https://git.gnome.org/browse/file-roller/
 
 - HarfBuzz
 	- HarfBuzz is the open-source text shaping library.
