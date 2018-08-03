@@ -430,6 +430,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
 
+- OMR
+  - The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
+	- https://github.com/eclipse/omr
+	- http://www.eclipse.org/omr/
+
 - Ethereum C++ client
 	- It is the third most popular of the Ethereum clients.
 	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
