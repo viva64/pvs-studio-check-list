@@ -41,6 +41,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://wiki.lxde.org/en/Main_Page
 	- https://git.lxde.org/gitweb/
 
+- GNOME
+	- GNOME is a desktop environment for Linux and most BSD derivatives.
+	- https://www.gnome.org/
+	- https://git.gnome.org/browse/
+
 - KDE
 	- KDE is a desktop environment for Linux operating systems.
 	- https://www.kde.org/
