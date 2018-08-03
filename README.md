@@ -608,6 +608,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://www.stellarium.org/
 	- https://code.launchpad.net/stellarium/
 
+- GNU core utilities
+    - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
+    - https://www.gnu.org/software/coreutils/coreutils.html
+    - http://git.savannah.gnu.org/cgit/coreutils.git
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
