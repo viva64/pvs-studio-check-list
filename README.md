@@ -66,6 +66,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://midnight-commander.org/
 	- https://github.com/MidnightCommander/mc
 
+- HarfBuzz
+	- HarfBuzz is the open-source text shaping library.
+	- https://harfbuzz.github.io/
+	- https://github.com/harfbuzz/harfbuzz
+
 - Leafpad
 	- Leafpad is an open source text editor for Linux, BSD, and Maemo.
 	- http://tarot.freeshell.org/leafpad/
