@@ -435,6 +435,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
 
+- QFusion
+	- id Tech 2 derived game engine.
+	- http://qfusion.github.io/qfusion/
+	- https://github.com/Qfusion/qfusion
+
 - wxWidgets
 	- A Cross-Platform GUI library
 	- https://www.wxwidgets.org/
