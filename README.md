@@ -429,6 +429,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
 	- https://github.com/hrydgard/ppsspp
+  
+- x360ce
+	- "Xbox 360 Controller Emulator" allows your controller to function as an Xbox 360 controller.
+	- http://www.x360ce.com/
+	- https://github.com/x360ce/x360ce
 	
 - AntiMicro
 	- AntiMicro is a graphical program used to map keyboard keys and mouse controls to a gamepad.
