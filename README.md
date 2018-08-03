@@ -112,6 +112,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
+- MoltenVK
+	- MoltenVK is the implementation of Vulkan API on Apple's Metal, bringing Vulkan to iOS and macOS.
+	- https://moltengl.com/moltenvk/
+	- https://github.com/KhronosGroup/MoltenVK
+
 - GLOVE
 	- GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between OpenGL and Vulkan.
 	- https://github.com/Think-Silicon/GLOVE
