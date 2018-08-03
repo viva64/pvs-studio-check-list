@@ -288,7 +288,7 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://ossec.github.io/
 	- https://github.com/ossec/ossec-hids
 - OMR
-        - The Eclipse OMR project is a set of open source C and C++ components that can be used to build robust language runtimes that support many different hardware and operating system platforms.
+        - The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
 	- https://github.com/eclipse/omr
 	- http://www.eclipse.org/omr/
 	
