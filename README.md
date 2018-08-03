@@ -321,6 +321,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://mkvtoolnix.download/
 	- https://github.com/mbunkus/mkvtoolnix
 
+- Play!
+	- Play! is an attempt to create a PlayStation 2 emulator for Windows, macOS, UNIX, Android & iOS platforms.
+	- http://purei.org/
+	- https://github.com/jpd002/Play-
+
 - NetHack
 	- NetHack is a single-player rogue-like video game originally released in 1987 with ASCII graphics.
 	- https://www.nethack.org/
