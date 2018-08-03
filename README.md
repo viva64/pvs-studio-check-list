@@ -56,6 +56,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://darlinghq.org/
 	- https://github.com/darlinghq/darling
 
+- strace
+	- strace is a diagnostic, debugging and instructional userspace utility for Linux.
+	- https://strace.io/
+	- https://github.com/strace/strace
+
 - BusyBox
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
