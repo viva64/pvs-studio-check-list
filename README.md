@@ -40,6 +40,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- Git is a free and open source distributed version control system.
 	- https://git-scm.com/
 	- https://github.com/git/git/
+	
+- grep
+	- grep is a command-line utility for searching plain-text data sets for lines that match a regular expression.
+	- https://www.gnu.org/software/grep/
+	- https://git.savannah.gnu.org/cgit/grep.git
 
 - Emacs
 	- Emacs is the extensible, customizable, self-documenting, real-time text editor.
