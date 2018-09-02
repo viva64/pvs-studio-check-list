@@ -638,6 +638,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- http://vangers.org/
 	- https://github.com/KranX/Vangers
 
+- FreeOrion
+	- FreeOrion is an open source space empire and galactic conquest computer game based on the Master of Orion games.
+	- https://www.freeorion.org/index.php/Main_Page
+	- https://github.com/freeorion/freeorion
+
 - XScreenSaver
 	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
 	- https://github.com/porridge/xscreensaver
