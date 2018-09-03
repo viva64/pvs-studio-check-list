@@ -696,6 +696,10 @@ Projects in C/C++ ([go to C#](#csharp)|[go to Java](#java))
 	- Klever is a static verification framework that aims at automated checking of programs developed.
 	- https://github.com/ldv-klever/klever
  	- https://forge.ispras.ru/projects/klever?jump=welcome
+	
+- OSCam
+	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
+	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
