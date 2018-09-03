@@ -691,6 +691,11 @@ Projects in C/C++ ([go to C#](#csharp)|[go to Java](#java))
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
 	- https://tvheadend.org
 	- https://github.com/tvheadend/tvheadend
+	
+- Klever
+	- Klever is a static verification framework that aims at automated checking of programs developed.
+	- https://github.com/ldv-klever/klever
+ 	- https://forge.ispras.ru/projects/klever?jump=welcome
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
