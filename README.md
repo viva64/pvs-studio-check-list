@@ -686,6 +686,11 @@ Projects in C/C++ ([go to C#](#csharp)|[go to Java](#java))
     - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
     - https://www.gnu.org/software/coreutils/coreutils.html
     - http://git.savannah.gnu.org/cgit/coreutils.git
+    
+- Tvheadend
+	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
+	- https://tvheadend.org
+	- https://github.com/tvheadend/tvheadend
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
@@ -738,7 +743,7 @@ Projects in C/C++ ([go to C#](#csharp)|[go to Java](#java))
 	- https://netbeans.org
 	
 - IntelliJ IDEA Community Edition
-	- IntelliJ IDEA CE is the open source version of IntelliJ IDEA, an IDE for Java, Groovy and other programming languages.
+	- IDEA CE is the open-source version of IDEA, an IDE for Java, Groovy and other programming languages.
 	- https://www.jetbrains.com/idea/
 	- https://github.com/JetBrains/intellij-community
 	
