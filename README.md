@@ -662,7 +662,12 @@ Projects in C/C++ ([go to C#](#csharp))
 	- zapcc is a caching C++ compiler based on clang, designed to perform faster compilations
 	- https://www.zapcc.com/
 	- https://github.com/yrnkrn/zapcc
-	
+
+- Filament
+	- Filament is a physically based rendering engine for Android, Linux, macOS and Windows.
+	- https://github.com/google/filament
+	- https://google.github.io/filament/Filament.md.html
+
 - Godot Engine
 	- Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
 	- https://godotengine.org
