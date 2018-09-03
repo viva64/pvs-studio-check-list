@@ -165,6 +165,11 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://virgil3d.github.io/
 	- https://cgit.freedesktop.org/virglrenderer
 
+- V-EZ
+	- V-EZ is an open source, cross-platform wrapper for Vulkan API.
+	- https://gpuopen-librariesandsdks.github.io/V-EZ/
+	- https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ
+
 - Skia
 	- Skia is an open source 2D graphics library which provides common APIs for many of hardware and software platforms.
 	- https://skia.org/
