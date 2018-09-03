@@ -8,6 +8,11 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp))
 ------------------------------------------------
 
+- PMDK
+        - Persistent Memory Development Kit
+    - http://pmem.io/
+    - https://github.com/pmem/pmdk/
+
 - Telegram Desktop
         - Telegram Desktop messaging app.
 	- https://desktop.telegram.org/
