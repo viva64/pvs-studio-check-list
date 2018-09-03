@@ -5,7 +5,7 @@ We will choose interesting projects from this list to write articles about the c
 
 The whole list of projects that we wrote the articles about: [click](http://www.viva64.com/en/inspections/)
 
-Projects in C/C++ ([go to C#](#csharp))
+Projects in C/C++ ([go to C#](#csharp)|[go to Java](#java))
 ------------------------------------------------
 
 - PMDK
@@ -729,3 +729,121 @@ Projects in C/C++ ([go to C#](#csharp))
 	- https://apacheignite-net.readme.io/docs
 	- https://github.com/apache/ignite/tree/master/modules/platforms/dotnet
 
+<a name="java"></a>Projects in Java
+-----------------------------------
+
+- NetBeans
+	- NetBeans is an integrated development environment (IDE) for Java.
+	- http://hg.netbeans.org/main/file/
+	- https://netbeans.org
+	
+- IntelliJ IDEA Community Edition
+	- IntelliJ IDEA CE is the open source version of IntelliJ IDEA, an IDE for Java, Groovy and other programming languages.
+	- https://www.jetbrains.com/idea/
+	- https://github.com/JetBrains/intellij-community
+	
+- FreeMind
+	- A premier mind-mapping software written in Java.
+	- http://freemind.sourceforge.net/wiki/index.php/Main_Page
+	- https://sourceforge.net/p/freemind/code/ci/master/tree/admin/software/openstreetmap/lib/
+	
+- DBeaver
+	- Free universal database tool and SQL client.
+	- https://dbeaver.io
+	- https://github.com/dbeaver/dbeaver
+	
+- Jenkins
+	- Jenkins is an open source automation server.
+	- https://jenkins.io
+	- https://github.com/jenkinsci/jenkins
+
+- OpenJ9
+	- Eclipse OpenJ9 is a high performance, scalable, Java virtual machine (JVM) implementation.
+	- https://en.wikipedia.org/wiki/OpenJ9
+	- https://github.com/eclipse/openj9
+	
+- OpenJDK
+	- OpenJDK (Open Java Development Kit) is a free and open source implementation of the Java Platform, Standard Edition (Java SE).
+	- http://openjdk.java.net 
+	- http://hg.openjdk.java.net
+	
+- I2P
+	- I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. 
+	- https://en.wikipedia.org/wiki/I2P
+	- https://github.com/i2p/i2p.i2p
+	
+- Hibernate
+	- Hibernate ORM (Hibernate in short) is an object-relational mapping tool for the Java programming language. 
+	- https://github.com/hibernate/
+	- http://hibernate.org
+	
+- Spring Framework
+	- The Spring Framework is an application framework and inversion of control container for the Java platform. 
+	- https://spring.io
+	- https://github.com/spring-projects/spring-framework
+	
+- Elasticsearch
+	- Elasticsearch is a search engine based on Lucene.
+	- https://www.elastic.co/products/elasticsearch
+	- https://github.com/elastic/elasticsearch
+	
+- HikariCP
+	- A solid, high-performance, JDBC connection pool.
+	- https://github.com/brettwooldridge/HikariCP
+	- http://brettwooldridge.github.io/HikariCP/
+	
+- BouncyCastle
+	- The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms.
+	- http://www.bouncycastle.org/latest_releases.html
+	- https://github.com/bcgit/bc-java
+	- https://www.bouncycastle.org/java.html
+	
+- Undertow
+	- Undertow is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO.
+	- http://undertow.io
+	- https://github.com/undertow-io/undertow
+	
+- Spring Boot
+	- The Spring Framework is an application framework and inversion of control container for the Java platform. 
+	- https://spring.io/projects/spring-boot
+	- https://github.com/spring-projects/spring-boot
+	
+- OpenDaylight
+	- OpenDaylight (ODL) is a modular open platform for customizing and automating networks of any size and scale. 
+	- https://www.opendaylight.org
+	- https://github.com/opendaylight?utf8=✓&q=&type=&language=
+	
+- Hadoop
+	- Apache Hadoop is a collection of open-source software utilities used to solve problems involving massive amounts of data.
+	- http://hadoop.apache.org
+	- http://svn.apache.org/viewvc/hadoop/common/trunk/
+
+- Caffeine
+	- A high performance caching library for Java 8
+	- https://github.com/ben-manes/caffeine/wiki
+	- https://github.com/ben-manes/caffeine
+	
+- GraalVM
+	- GraalVM is a universal virtual machine for running applications written in different programming languages. 
+	- https://github.com/graalvm/
+	- https://www.graalvm.org
+	
+- Groovy-Eclipse
+	- Groovy-Eclipse provides Eclipse and Maven support for the Apache Groovy programming language.
+	- https://github.com/groovy/groovy-eclipse/wiki
+	- https://github.com/groovy/groovy-eclipse
+	
+- Netty
+	- Netty is an event-driven network application framework for development of high performance protocol servers & clients.
+	- http://netty.io
+	- https://github.com/netty
+	
+- Eclipse Jetty
+	- Eclipse Jetty is a Java HTTP (Web) server and Java Servlet container. 
+	- https://www.eclipse.org/jetty/
+	- https://github.com/eclipse/jetty.project
+	
+- Sweet Home 3D
+	- Free interior design software.
+	- http://www.sweethome3d.com
+	- https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-source/
