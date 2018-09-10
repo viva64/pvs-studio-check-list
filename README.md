@@ -657,6 +657,11 @@ Projects in C/C++ ([go to C#](#csharp)|[go to Java](#java))
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
 
+- The Battle for Wesnoth
+	- The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme.
+	- https://wesnoth.org/
+	- https://github.com/wesnoth/wesnoth
+
 - XScreenSaver
 	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
 	- https://github.com/porridge/xscreensaver
