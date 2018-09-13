@@ -5,7 +5,7 @@ We will choose interesting projects from this list to write articles about the c
 
 The whole list of projects that we wrote the articles about: [click](http://www.viva64.com/en/inspections/)
 
-Projects in C/C++ ([go to C#](#csharp)|[go to Java](#java))
+Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 ------------------------------------------------
 
 - PMDK
