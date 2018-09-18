@@ -96,6 +96,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://nano-editor.org/
 	- https://git.savannah.gnu.org/cgit/nano.git/
 
+- ScoutFS
+	- ScoutFS is a clustered in-kernel Linux filesystem designed to support large archival systems.
+	- https://www.scoutfs.org/
+	- https://github.com/versity/scoutfs-kmod-dev
+
 - ToaruOS
 	- 1.0 release of ToaruOS.
 	- http://www.toaruos.org/
