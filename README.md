@@ -8,6 +8,11 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 ------------------------------------------------
 
+- CUBRID
+        - Relational DBMS optimized for web applications
+	- https://cubrid.org
+	- https://github.com/CUBRID/cubrid
+
 - PMDK
         - Persistent Memory Development Kit
     - http://pmem.io/
