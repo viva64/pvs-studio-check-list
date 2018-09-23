@@ -687,6 +687,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://godotengine.org
 	- https://github.com/godotengine/godot
 
+- PsRealVehicle
+	- PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+	- https://github.com/PushkinStudio/PsRealVehicle
+
 - Stellarium
 	- Stellarium is a free open source planetarium for your computer.
 	- http://www.stellarium.org/
