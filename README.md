@@ -161,6 +161,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- CLVK
+	- CLVK is a prototype implementation of OpenCL 1.2 on top of Vulkan.
+	- https://github.com/kpet/clvk
+
 - DXVK
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
