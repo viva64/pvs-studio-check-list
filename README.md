@@ -568,7 +568,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Unix-like reverse engineering framework and commandline tools.
 	- https://radare.org
 	- https://github.com/radare/radare2
-	
+
+- USBSnoop
+	- USBSnoop is a tool for logging USB packets going from Windows device driver to any hardware device and vice-versa.
+	- https://github.com/SnoopWare/usbsnoop
+
 - Dr. Memory 
 	- Memory Debugger for Windows, Linux, Mac, and Android
 	- http://www.drmemory.org
