@@ -425,6 +425,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://dolphin-emu.org/
 	- https://github.com/dolphin-emu/dolphin
 
+- PCSX-Reloaded
+	- PCSX-Reloaded is an open-source PlayStation emulator.
+	- https://archive.codeplex.com/?p=pcsxr
+	- https://github.com/pcsxr/PCSX-Reloaded
+
 - PCSX2
 	- PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
 	- http://pcsx2.net/
