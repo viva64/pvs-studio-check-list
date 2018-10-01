@@ -8,6 +8,11 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 ------------------------------------------------
 
+- CUBRID
+        - Relational DBMS optimized for web applications
+	- https://cubrid.org
+	- https://github.com/CUBRID/cubrid
+
 - PMDK
         - Persistent Memory Development Kit
     - http://pmem.io/
@@ -161,6 +166,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- CLVK
+	- CLVK is a prototype implementation of OpenCL 1.2 on top of Vulkan.
+	- https://github.com/kpet/clvk
+
 - DXVK
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
@@ -228,6 +237,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.mutt.org/
 	- https://gitlab.com/muttmua/mutt
 
+- rspamd
+	- rspamd is a rapid spam filtering system.
+	- https://rspamd.com/
+	- https://github.com/rspamd/rspamd
+
 - iptables
 	- iptables is the userspace command-line program used to configure the Linux packet filtering ruleset.
 	- https://www.netfilter.org/projects/iptables/index.html
@@ -256,6 +270,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- BIND is an open-source implementation of the DNS (Domain Name System) protocol.
 	- https://gitlab.isc.org/isc-projects/bind9
 	- https://www.isc.org/git/
+
+- aria2
+	- aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+	- https://aria2.github.io/
+	- https://github.com/aria2/aria2/
 
 - FileZilla
 	- FileZilla is a fast and reliable cross-platform FTP, FTPS and SFTP client.
@@ -425,6 +444,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://dolphin-emu.org/
 	- https://github.com/dolphin-emu/dolphin
 
+- PCSX-Reloaded
+	- PCSX-Reloaded is an open-source PlayStation emulator.
+	- https://archive.codeplex.com/?p=pcsxr
+	- https://github.com/pcsxr/PCSX-Reloaded
+
 - PCSX2
 	- PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator.
 	- http://pcsx2.net/
@@ -568,7 +592,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Unix-like reverse engineering framework and commandline tools.
 	- https://radare.org
 	- https://github.com/radare/radare2
-	
+
+- USBSnoop
+	- USBSnoop is a tool for logging USB packets going from Windows device driver to any hardware device and vice-versa.
+	- https://github.com/SnoopWare/usbsnoop
+
 - Dr. Memory 
 	- Memory Debugger for Windows, Linux, Mac, and Android
 	- http://www.drmemory.org
@@ -662,6 +690,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
 
+- FlightGear
+	- FlightGear is an open-source flight simulator.
+	- https://home.flightgear.org/
+	- https://sourceforge.net/p/flightgear/flightgear/ci/next/tree/
+
 - The Battle for Wesnoth
 	- The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme.
 	- https://wesnoth.org/
@@ -686,6 +719,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
 	- https://godotengine.org
 	- https://github.com/godotengine/godot
+
+- PsRealVehicle
+	- PsRealVehicle is the plugin for Unreal Engine 4 with simple force-driven vehicle simulation.
+	- https://github.com/PushkinStudio/PsRealVehicle
 
 - Stellarium
 	- Stellarium is a free open source planetarium for your computer.
@@ -756,6 +793,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - Moondust
 	- Moondust is the demo for Knuckles EV2.
 	- https://github.com/ValveSoftware/Moondust
+
+- NoteCAD
+	- NoteCAD is Unity3d CAD system with C# Geometric Constraint Solver.
+	- http://notecad.xyz/
+	- https://github.com/NoteCAD/NoteCAD
 
 <a name="java"></a>Projects in Java
 -----------------------------------
