@@ -790,6 +790,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://apacheignite-net.readme.io/docs
 	- https://github.com/apache/ignite/tree/master/modules/platforms/dotnet
 
+- NoteCAD
+	- NoteCAD is Unity3d CAD system with C# Geometric Constraint Solver.
+	- http://notecad.xyz/
+	- https://github.com/NoteCAD/NoteCAD
+
 <a name="java"></a>Projects in Java
 -----------------------------------
 
