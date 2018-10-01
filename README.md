@@ -228,6 +228,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.mutt.org/
 	- https://gitlab.com/muttmua/mutt
 
+- rspamd
+	- rspamd is a rapid spam filtering system.
+	- https://rspamd.com/
+	- https://github.com/rspamd/rspamd
+
 - iptables
 	- iptables is the userspace command-line program used to configure the Linux packet filtering ruleset.
 	- https://www.netfilter.org/projects/iptables/index.html
