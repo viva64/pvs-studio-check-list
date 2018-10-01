@@ -271,6 +271,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://gitlab.isc.org/isc-projects/bind9
 	- https://www.isc.org/git/
 
+- aria2
+	- aria2 is a lightweight multi-protocol & multi-source command-line download utility.
+	- https://aria2.github.io/
+	- https://github.com/aria2/aria2/
+
 - FileZilla
 	- FileZilla is a fast and reliable cross-platform FTP, FTPS and SFTP client.
 	- https://filezilla-project.org/
