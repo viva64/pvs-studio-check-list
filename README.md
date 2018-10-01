@@ -671,6 +671,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
 
+- FlightGear
+	- FlightGear is an open-source flight simulator.
+	- https://home.flightgear.org/
+	- https://sourceforge.net/p/flightgear/flightgear/ci/next/tree/
+
 - The Battle for Wesnoth
 	- The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme.
 	- https://wesnoth.org/
