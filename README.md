@@ -271,6 +271,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://trafficserver.apache.org/
 	- http://trafficserver.apache.org/downloads
 
+- ethq
+	- ethq is the Ethernet NIC Queue stats viewer.
+	- https://www.isc.org/blogs/ethq-linux-nic-monitoring-tool/
+	- https://github.com/isc-projects/ethq
+
 - BIND
 	- BIND is an open-source implementation of the DNS (Domain Name System) protocol.
 	- https://gitlab.isc.org/isc-projects/bind9
