@@ -179,6 +179,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
 
+- VKD3D
+	- VKD3D is the D3D12 to Vulkan translation library.
+	- https://source.winehq.org/git/vkd3d.git/
+
 - Virgil
 	- Virgil is a research project to use the capabilities of the host GPU to accelerate 3D rendering.
 	- https://virgil3d.github.io/
