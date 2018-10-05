@@ -9,22 +9,22 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 ------------------------------------------------
 
 - CUBRID
-        - Relational DBMS optimized for web applications
+	- Relational DBMS optimized for web applications
 	- https://cubrid.org
 	- https://github.com/CUBRID/cubrid
 
 - PMDK
-        - Persistent Memory Development Kit
-    - http://pmem.io/
-    - https://github.com/pmem/pmdk/
+	- Persistent Memory Development Kit
+	- http://pmem.io/
+	- https://github.com/pmem/pmdk/
 
 - Telegram Desktop
-        - Telegram Desktop messaging app.
+	- Telegram Desktop messaging app.
 	- https://desktop.telegram.org/
 	- https://github.com/telegramdesktop/tdesktop
-	
+
 - Juce
-        - JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
+	- JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
 	- https://www.juce.com/
 	- https://github.com/julianstorer/JUCE
 
@@ -90,7 +90,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- BusyBox combines tiny versions of many common UNIX utilities into a single small executable.
 	- https://www.busybox.net/
 	- https://git.busybox.net/busybox/
-	
+
 - AppArmor
 	- AppArmor is an effective and easy-to-use Linux application security system.
 	- http://wiki.apparmor.net/index.php/Main_Page
@@ -316,7 +316,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 	- https://www.sumatrapdfreader.org/free-pdf-reader.html
 	- https://github.com/sumatrapdfreader/sumatrapdf
-	
+
 - MuPDF
 	- MuPDF is a lightweight PDF, XPS, and E-book viewer.
 	- https://mupdf.com/
@@ -384,9 +384,9 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://cgit.freedesktop.org/pulseaudio/pulseaudio/
 
 - VLC media player
- 	- VLC is a free and open source cross-platform multimedia player and framework.
- 	- http://www.videolan.org/vlc/index.html
- 	- http://git.videolan.org/?p=vlc.git
+	- VLC is a free and open source cross-platform multimedia player and framework.
+	- http://www.videolan.org/vlc/index.html
+	- http://git.videolan.org/?p=vlc.git
 	- https://github.com/videolan/vlc
 
 - OBS Studio
@@ -398,7 +398,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- OpenShot is a free and open-source video editor for FreeBSD, Linux, macOS, and Windows.
 	- http://openshot.org/
 	- https://code.launchpad.net/openshot
-  
+
 - Shotcut
 	- Shotcut is a free, open source, cross-platform video editor.
 	- https://www.shotcut.org/
@@ -428,7 +428,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Lua is a small but powerful scripting language, embedded in numerous other products.
 	- https://www.lua.org/
 	- https://github.com/lua/lua
-	
+
 - Redis
 	- Redis is a multi-purpose in-memory data structure store.
 	- https://redis.io/
@@ -438,7 +438,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
 	- https://www.imagemagick.org/
 	- https://github.com/ImageMagick/ImageMagick
-  
+
 - FreeSWITCH
 	- An open-source telephony platform designed to facilitate the creation of voice and chat driven products.
 	- https://freeswitch.org/
@@ -463,12 +463,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
 	- https://urho3d.github.io
 	- https://github.com/urho3d/Urho3D
-	
+
 - Avidemux
 	- Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
 	- http://avidemux.sourceforge.net/
 	- https://github.com/mean00/avidemux2
-  
+
 - darktable
 	- darktable is an open source photography workflow application and raw developer.
 	- https://www.darktable.org/
@@ -478,7 +478,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- HandBrake is an open-source video transcoder available for Linux, Mac, and Windows.
 	- https://handbrake.fr/
 	- https://github.com/HandBrake/HandBrake
-	
+
 - MKVToolNix
 	- MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unixes and Windows.
 	- https://mkvtoolnix.download/
@@ -507,7 +507,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- "Xbox 360 Controller Emulator" allows your controller to function as an Xbox 360 controller.
 	- http://www.x360ce.com/
 	- https://github.com/x360ce/x360ce
-	
+
 - AntiMicro
 	- AntiMicro is a graphical program used to map keyboard keys and mouse controls to a gamepad.
 	- https://github.com/AntiMicro/antimicro
@@ -532,7 +532,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
 	- https://trac.osgeo.org/geos/
 	- https://git.osgeo.org/gitea/geos/geos.git
-	
+
 - GDAL
 	- GDAL is a translator library for raster and vector geospatial data formats.
 	- https://gdal.org/
@@ -542,21 +542,21 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- V8 is Google's open source high-performance JavaScript engine.
 	- https://developers.google.com/v8/
 	- https://github.com/v8/v8
-  
+
 - nginx
 	- nginx is a web server
 	- https://nginx.org/
 	- https://github.com/nginx/nginx
-	
+
 - Kodi
-    - Media center for playing videos, music, pictures, games, and more. 
-    - https://kodi.tv/
-    - https://github.com/xbmc/xbmc
+	- Media center for playing videos, music, pictures, games, and more. 
+	- https://kodi.tv/
+	- https://github.com/xbmc/xbmc
 
 - apt
-    - The default package manager for Debian-derived GNU/Linux distros
-    - https://anonscm.debian.org/git/apt/apt.git
-    - https://github.com/Debian/apt
+	- The default package manager for Debian-derived GNU/Linux distros
+	- https://anonscm.debian.org/git/apt/apt.git
+	- https://github.com/Debian/apt
 
 - Synaptic
 	- Synaptic is a graphical user interface for apt - the package management system.
@@ -567,7 +567,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Bitcoin is a P2P digital currency system. Bitcoin Core is the reference implementation of Bitcoin.
 	- https://bitcoin.org/
 	- https://github.com/bitcoin/bitcoin/
-	
+
 - Bitcoin Unlimited
 	- Bitcoin Unlimited is a proposed hard-fork which increases the max block size.
 	- https://bitcoinunlimited.info/
@@ -577,23 +577,18 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- AMX Mod X is a versatile Half-Life metamod plugin which is targetted toward server administration.
 	- http://www.amxmodx.org/
 	- https://github.com/alliedmodders/amxmodx/
-  
+
 - QEMU
 	- QEMU is a generic and open source machine emulator and virtualizer.
 	- http://www.qemu-project.org/
 	- https://github.com/qemu/qemu
-  
-- Perl 5
-	- Practical Extraction and Reporting Language.
-	- https://www.perl.org/
-	- https://dev.perl.org/perl5/source.html (git://perl5.git.perl.org/perl.git)
-	
+
 - cereal
-        - cereal is a header-only C++11 serialization library.
+	- cereal is a header-only C++11 serialization library.
 	- http://uscilab.github.io/cereal/
 	- https://github.com/USCiLab/cereal
 
-- Radare2 
+- Radare2
 	- Unix-like reverse engineering framework and commandline tools.
 	- https://radare.org
 	- https://github.com/radare/radare2
@@ -652,7 +647,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/Microsoft/winfile
 
 - ROCm OpenOpenCL Runtime
- 	- ROCm (Radeon Open Compute) is an open source Linux project.
+	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 
 - KeePassXC
@@ -660,18 +655,13 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://keepassxc.org/
 	- https://github.com/keepassxreboot/keepassxc
 
-- XNU
-	- XNU is the kernel of iOS and macOS, which had its source code recently opened.
-	- https://opensource.apple.com/source/xnu/
-	- https://github.com/apple/darwin-xnu
-	
 - FAUST
 	- FAUST is a functional programming language specifically designed for real-time signal processing and synthesis.
 	- https://github.com/grame-cncm/faust
 	- http://faust.grame.fr
-		
+
  - Supercollider
- 	- SuperCollider is a platform for audio synthesis and algorithmic composition.
+	- SuperCollider is a platform for audio synthesis and algorithmic composition.
 	- http://supercollider.github.io
 	- https://github.com/supercollider/supercollider
 
@@ -743,12 +733,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
 	- https://tvheadend.org
 	- https://github.com/tvheadend/tvheadend
-	
+
 - Klever
 	- Klever is a static verification framework that aims at automated checking of programs developed.
 	- https://github.com/ldv-klever/klever
- 	- https://forge.ispras.ru/projects/klever?jump=welcome
-	
+	- https://forge.ispras.ru/projects/klever?jump=welcome
+
 - OSCam
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
@@ -769,12 +759,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Reactive extensions are an implementation of the Observer pattern "done right".
 	- http://reactivex.io/
 	- https://github.com/Reactive-Extensions/Rx.NET
-	
+
 - RestSharp
 	- Simple REST and HTTP API Client for .NET.
 	- http://restsharp.org/
 	- https://github.com/restsharp/RestSharp
-	
+
 - Fluent.Ribbon
 	- WPF Ribbon control like in Office 2010, 2013 and Windows 8.
 	- http://fluentribbon.github.io
@@ -784,12 +774,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- MVVM framework, designed for building applications across all XAML platforms. 
 	- http://caliburnmicro.com/
 	- https://github.com/Caliburn-Micro/Caliburn.Micro
-	
+
 - Akka.Net
 	- Akka.NET is a community-driven port of the popular Java/Scala framework Akka to .NET.
 	- http://getakka.net/
 	- https://github.com/akkadotnet/akka.net
-	
+
 - Apache Ignite.NET
 	- In-Memory Data Fabric is in-memory platform for computing and transacting on large-scale data sets in real-time.
 	- https://apacheignite-net.readme.io/docs
@@ -811,22 +801,22 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- NetBeans is an integrated development environment (IDE) for Java.
 	- http://hg.netbeans.org/main/file/
 	- https://netbeans.org
-	
+
 - IntelliJ IDEA Community Edition
 	- IDEA CE is the open-source version of IDEA, an IDE for Java, Groovy and other programming languages.
 	- https://www.jetbrains.com/idea/
 	- https://github.com/JetBrains/intellij-community
-	
+
 - FreeMind
 	- A premier mind-mapping software written in Java.
 	- http://freemind.sourceforge.net/wiki/index.php/Main_Page
 	- https://sourceforge.net/p/freemind/code/ci/master/tree/admin/software/openstreetmap/lib/
-	
+
 - DBeaver
 	- Free universal database tool and SQL client.
 	- https://dbeaver.io
 	- https://github.com/dbeaver/dbeaver
-	
+
 - Jenkins
 	- Jenkins is an open source automation server.
 	- https://jenkins.io
@@ -836,58 +826,58 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Eclipse OpenJ9 is a high performance, scalable, Java virtual machine (JVM) implementation.
 	- https://en.wikipedia.org/wiki/OpenJ9
 	- https://github.com/eclipse/openj9
-	
+
 - OpenJDK
 	- OpenJDK (Open Java Development Kit) is a free and open source implementation of the Java Platform, Standard Edition (Java SE).
 	- http://openjdk.java.net 
 	- http://hg.openjdk.java.net
-	
+
 - I2P
 	- I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. 
 	- https://en.wikipedia.org/wiki/I2P
 	- https://github.com/i2p/i2p.i2p
-	
+
 - Hibernate
 	- Hibernate ORM (Hibernate in short) is an object-relational mapping tool for the Java programming language. 
 	- https://github.com/hibernate/
 	- http://hibernate.org
-	
+
 - Spring Framework
 	- The Spring Framework is an application framework and inversion of control container for the Java platform. 
 	- https://spring.io
 	- https://github.com/spring-projects/spring-framework
-	
+
 - Elasticsearch
 	- Elasticsearch is a search engine based on Lucene.
 	- https://www.elastic.co/products/elasticsearch
 	- https://github.com/elastic/elasticsearch
-	
+
 - HikariCP
 	- A solid, high-performance, JDBC connection pool.
 	- https://github.com/brettwooldridge/HikariCP
 	- http://brettwooldridge.github.io/HikariCP/
-	
+
 - BouncyCastle
 	- The Bouncy Castle Crypto package is a Java implementation of cryptographic algorithms.
 	- http://www.bouncycastle.org/latest_releases.html
 	- https://github.com/bcgit/bc-java
 	- https://www.bouncycastle.org/java.html
-	
+
 - Undertow
 	- Undertow is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO.
 	- http://undertow.io
 	- https://github.com/undertow-io/undertow
-	
+
 - Spring Boot
 	- The Spring Framework is an application framework and inversion of control container for the Java platform. 
 	- https://spring.io/projects/spring-boot
 	- https://github.com/spring-projects/spring-boot
-	
+
 - OpenDaylight
 	- OpenDaylight (ODL) is a modular open platform for customizing and automating networks of any size and scale. 
 	- https://www.opendaylight.org
 	- https://github.com/opendaylight?utf8=✓&q=&type=&language=
-	
+
 - Hadoop
 	- Apache Hadoop is a collection of open-source software utilities used to solve problems involving massive amounts of data.
 	- http://hadoop.apache.org
@@ -897,27 +887,27 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- A high performance caching library for Java 8
 	- https://github.com/ben-manes/caffeine/wiki
 	- https://github.com/ben-manes/caffeine
-	
+
 - GraalVM
 	- GraalVM is a universal virtual machine for running applications written in different programming languages. 
 	- https://github.com/graalvm/
 	- https://www.graalvm.org
-	
+
 - Groovy-Eclipse
 	- Groovy-Eclipse provides Eclipse and Maven support for the Apache Groovy programming language.
 	- https://github.com/groovy/groovy-eclipse/wiki
 	- https://github.com/groovy/groovy-eclipse
-	
+
 - Netty
 	- Netty is an event-driven network application framework for development of high performance protocol servers & clients.
 	- http://netty.io
 	- https://github.com/netty
-	
+
 - Eclipse Jetty
 	- Eclipse Jetty is a Java HTTP (Web) server and Java Servlet container. 
 	- https://www.eclipse.org/jetty/
 	- https://github.com/eclipse/jetty.project
-	
+
 - Sweet Home 3D
 	- Free interior design software.
 	- http://www.sweethome3d.com
