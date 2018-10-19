@@ -794,6 +794,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://notecad.xyz/
 	- https://github.com/NoteCAD/NoteCAD
 
+- Reko
+	- Reko is a decompiler for machine code binaries. 
+	- https://github.com/uxmal/reko
+
 <a name="java"></a>Projects in Java
 -----------------------------------
 
