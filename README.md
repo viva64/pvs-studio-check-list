@@ -743,6 +743,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
+- PyTorch
+	- PyTorch is a Python package that provides two high-level features: tensor computation (like NumPy) with strong GPU acceleration and deep neural networks built on a tape-based autograd system
+	- https://github.com/pytorch/pytorch
+	- https://pytorch.org/
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
