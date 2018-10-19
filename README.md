@@ -743,6 +743,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
+- TeXstudio
+	- TeXstudio is a fully featured LaTeX editor. 
+	- https://github.com/texstudio-org/texstudio
+	- https://www.texstudio.org/
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
