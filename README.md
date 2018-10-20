@@ -690,6 +690,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://home.flightgear.org/
 	- https://sourceforge.net/p/flightgear/flightgear/ci/next/tree/
 
+- AstroMenace
+	- AstroMenace is hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
+	- https://viewizard.com/
+	- https://github.com/viewizard/astromenace/
+
 - The Battle for Wesnoth
 	- The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme.
 	- https://wesnoth.org/
