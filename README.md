@@ -744,7 +744,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
 - PyTorch
-	- PyTorch is a Python package that provides two high-level features: tensor computation (like NumPy) with strong GPU acceleration and deep neural networks built on a tape-based autograd system
+	- PyTorch is an open source deep learning platform with strong GPU acceleration
 	- https://github.com/pytorch/pytorch
 	- https://pytorch.org/
 
