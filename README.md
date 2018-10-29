@@ -184,6 +184,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://virgil3d.github.io/
 	- https://cgit.freedesktop.org/virglrenderer
 
+- CodeXL
+	- CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
+	- https://gpuopen.com/compute-product/codexl/
+	- https://github.com/GPUOpen-Tools/CodeXL
+
 - V-EZ
 	- V-EZ is an open source, cross-platform wrapper for Vulkan API.
 	- https://gpuopen-librariesandsdks.github.io/V-EZ/
@@ -748,6 +753,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/pytorch/pytorch
 	- https://pytorch.org/
 
+- Cling
+	- Cling is the interactive C++ interpreter
+	- https://github.com/root-project/cling
+	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
@@ -798,6 +808,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- NoteCAD is Unity3d CAD system with C# Geometric Constraint Solver.
 	- http://notecad.xyz/
 	- https://github.com/NoteCAD/NoteCAD
+
+- Reko
+	- Reko is a decompiler for machine code binaries. 
+	- https://github.com/uxmal/reko
+	- https://uxmal.github.io/reko/
 
 <a name="java"></a>Projects in Java
 -----------------------------------
