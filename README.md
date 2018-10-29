@@ -184,6 +184,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://virgil3d.github.io/
 	- https://cgit.freedesktop.org/virglrenderer
 
+- CodeXL
+	- CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
+	- https://gpuopen.com/compute-product/codexl/
+	- https://github.com/GPUOpen-Tools/CodeXL
+
 - V-EZ
 	- V-EZ is an open source, cross-platform wrapper for Vulkan API.
 	- https://gpuopen-librariesandsdks.github.io/V-EZ/
