@@ -932,3 +932,8 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Free interior design software.
 	- http://www.sweethome3d.com
 	- https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-source/
+
+- SoftEtherVPN
+        - Open Cross-platform Multi-protocol VPN Software
+        - https://www.softether.org
+        - https://github.com/SoftEtherVPN/SoftEtherVPN
