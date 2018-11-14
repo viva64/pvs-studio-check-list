@@ -680,6 +680,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://torque3d.org/
 	- https://github.com/GarageGames/Torque3D
 
+- PvPGN
+	- PvPGN is a free and open-source server software that supports Battle.net and Westwood Online game clients.
+	- https://pvpgn.pro/
+	- https://github.com/pvpgn/pvpgn-server
+
 - Vangers
 	- Video game that combines elements of the racing and role-playing genres.
 	- http://vangers.org/
