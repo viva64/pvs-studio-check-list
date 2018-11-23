@@ -388,6 +388,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.freedesktop.org/wiki/Software/PulseAudio/
 	- https://cgit.freedesktop.org/pulseaudio/pulseaudio/
 
+- Tracktion Engine
+	- Tracktion Engine provides a high level data model and set of classes for building sequence based audio applications.
+	- https://www.tracktion.com/develop/tracktion-engine
+	- https://github.com/Tracktion/tracktion_engine/
+
 - VLC media player
 	- VLC is a free and open source cross-platform multimedia player and framework.
 	- http://www.videolan.org/vlc/index.html
