@@ -204,6 +204,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://mesa3d.org/
 	- https://cgit.freedesktop.org/mesa/mesa/
 
+- RenderDoc
+	- RenderDoc is a stand-alone graphics debugging tool for Vulkan, OpenGL, and Direct3D across all major platforms.
+	- https://renderdoc.org/
+	- https://github.com/baldurk/renderdoc
+
 - Vulkan loader and validation layers
 	- This project provides Khronos official ICD loader and validation layers for Vulkan developers on Windows and Linux.
 	- https://www.khronos.org/vulkan/
