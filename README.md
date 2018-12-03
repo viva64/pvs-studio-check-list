@@ -464,6 +464,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://pcsx2.net/
 	- https://github.com/PCSX2/pcsx2
 
+- Dust3D
+	- Dust3D is a cross-platform open-source 3D modeling software.
+	- https://dust3d.org/
+	- https://github.com/huxingyi/dust3d
+
 - Urho3D
 	- Urho3D is a free lightweight, cross-platform 2D and 3D game engine.
 	- https://urho3d.github.io
