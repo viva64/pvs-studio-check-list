@@ -733,11 +733,16 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
     - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
     - https://www.gnu.org/software/coreutils/coreutils.html
     - http://git.savannah.gnu.org/cgit/coreutils.git
-    
+	
 - Tvheadend
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
 	- https://tvheadend.org
 	- https://github.com/tvheadend/tvheadend
+
+- LibreDWG
+	- LibreDWG is a free C library to read and write DWG files.
+	- https://www.gnu.org/software/libredwg/
+	- https://github.com/LibreDWG/libredwg/
 
 - Klever
 	- Klever is a static verification framework that aims at automated checking of programs developed.
