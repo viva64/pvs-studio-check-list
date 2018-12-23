@@ -383,6 +383,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://mpv.io/
 	- https://github.com/mpv-player/mpv
 
+- wav2letter++
+	- wav2letter++ is a fast open source speech processing toolkit from the Speech Team at Facebook AI Research.
+	- https://github.com/facebookresearch/wav2letter
+
 - PulseAudio
 	- PulseAudio is a network-capable sound server program for Linux systems.
 	- https://www.freedesktop.org/wiki/Software/PulseAudio/
