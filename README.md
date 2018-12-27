@@ -748,6 +748,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
+- FunctionSimSearch
+	- FunctionSimSearch is an example C++ code to demonstrate how to do SimHash-based similarity search over CFGs extracted from disassemblies.
+	- https://github.com/googleprojectzero/functionsimsearch
+
 - PyTorch
 	- PyTorch is an open source deep learning platform with strong GPU acceleration
 	- https://github.com/pytorch/pytorch
