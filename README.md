@@ -685,6 +685,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://vangers.org/
 	- https://github.com/KranX/Vangers
 
+- OrionUO
+	- OrionUO is an open source Ultima Online client.
+	- http://www.orionuo.com/
+	- https://github.com/OrionUO/OrionUO
+
 - FreeOrion
 	- FreeOrion is an open source space empire and galactic conquest computer game based on the Master of Orion games.
 	- https://www.freeorion.org/index.php/Main_Page
