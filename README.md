@@ -739,6 +739,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://tvheadend.org
 	- https://github.com/tvheadend/tvheadend
 
+- FastoTV
+	- FastoTV is a free IPTV cloud server.
+	- https://fastotv.com/
+	- https://github.com/fastogt/iptv
+
 - Klever
 	- Klever is a static verification framework that aims at automated checking of programs developed.
 	- https://github.com/ldv-klever/klever
