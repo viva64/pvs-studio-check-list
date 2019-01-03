@@ -685,6 +685,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://vangers.org/
 	- https://github.com/KranX/Vangers
 
+- SuperTux
+	- SuperTux is a open-source classic platformer game in a style similar to the original Super Mario games.
+	- https://www.supertux.org/
+	- https://github.com/SuperTux/supertux/
+
 - FreeOrion
 	- FreeOrion is an open source space empire and galactic conquest computer game based on the Master of Orion games.
 	- https://www.freeorion.org/index.php/Main_Page
