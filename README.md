@@ -680,6 +680,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://torque3d.org/
 	- https://github.com/GarageGames/Torque3D
 
+- X-Plane
+	- X-Plane is an open-source cross-platform flight simulator.
+	- https://developer.x-plane.com/
+	- https://github.com/X-Plane/xptools
+
 - Vangers
 	- Video game that combines elements of the racing and role-playing genres.
 	- http://vangers.org/
