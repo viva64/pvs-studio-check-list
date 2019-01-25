@@ -758,6 +758,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/root-project/cling
 	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
 
+- f3
+	- f3 (Fight Fake Flash) is a simple tool that tests flash cards capacity and performance.
+	- http://oss.digirati.com.br/f3/
+	- https://github.com/AltraMayor/f3
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
