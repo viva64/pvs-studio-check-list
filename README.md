@@ -553,6 +553,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://nginx.org/
 	- https://github.com/nginx/nginx
 
+- MythTV
+	- MythTV is a free open-source software digital video recorder (DVR) project.
+	- https://www.mythtv.org/
+	- https://github.com/MythTV/mythtv
+
 - Kodi
 	- Media center for playing videos, music, pictures, games, and more. 
 	- https://kodi.tv/
