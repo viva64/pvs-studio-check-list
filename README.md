@@ -655,6 +655,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 
+- Open Image Denoise
+	- Open Image Denoise is a collection of high-performance, high-quality denoising filters for images.
+	- https://openimagedenoise.github.io/
+	- https://github.com/OpenImageDenoise/oidn
+
 - KeePassXC
 	- Cross platform password manager
 	- https://keepassxc.org/
