@@ -171,6 +171,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- VkRunner
+	- VkRunner is a tool for running a variety of Vulkan shaders for testing a driver's compiler back-end.
+	- https://github.com/igalia/vkrunner
+
 - CLVK
 	- CLVK is a prototype implementation of OpenCL 1.2 on top of Vulkan.
 	- https://github.com/kpet/clvk
