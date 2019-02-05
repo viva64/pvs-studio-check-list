@@ -209,6 +209,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.khronos.org/vulkan/
 	- https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers
 
+- Gallium Nine Standalone
+	- Gallium Nine allows to run any Direct3D 9 application with nearly no CPU overhead and increased FPS.
+	- https://github.com/iXit/wine-nine-standalone
+
 - VK9
 	- VK9 is the Direct3D 9 compatibility layer using Vulkan.
 	- https://github.com/disks86/VK9
