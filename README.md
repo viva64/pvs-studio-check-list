@@ -257,6 +257,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.netfilter.org/projects/iptables/index.html
 	- https://git.netfilter.org/iptables/
 
+- rdesktop
+	- rdesktop is an open source client for Microsoft's RDP protocol.
+	- https://www.rdesktop.org/
+	- https://github.com/rdesktop/rdesktop
+
 - OpenSSH
 	- OpenSSH is the premier connectivity tool for remote login with the SSH protocol.
 	- https://www.openssh.com/
