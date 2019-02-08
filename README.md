@@ -27,7 +27,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- JUCE (Jules' Utility Class Extensions) is an all-encompassing C++ framework for developing cross-platform software.
 	- https://www.juce.com/
 	- https://github.com/julianstorer/JUCE
-
+- Janus Gateway
+	- Janus is an open source, general purpose, WebRTC server.
+	- https://www.meetecho.com/
+	- https://github.com/meetecho/janus-gateway
 - Wayland
 	- Wayland is intended as a simpler replacement for X, easier to develop and maintain.
 	- https://wayland.freedesktop.org/
