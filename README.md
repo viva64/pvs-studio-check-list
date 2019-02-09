@@ -257,6 +257,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.netfilter.org/projects/iptables/index.html
 	- https://git.netfilter.org/iptables/
 
+- FreeRDP
+	- FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license.
+	- https://www.freerdp.com/
+	- https://github.com/FreeRDP/FreeRDP
+
 - OpenSSH
 	- OpenSSH is the premier connectivity tool for remote login with the SSH protocol.
 	- https://www.openssh.com/
