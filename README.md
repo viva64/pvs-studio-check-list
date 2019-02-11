@@ -247,6 +247,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.mutt.org/
 	- https://gitlab.com/muttmua/mutt
 
+- Exim
+	- Exim is a mail transfer agent (MTA) used on Unix-like operating systems.
+	- https://exim.org/
+	- https://github.com/Exim/exim
+
 - rspamd
 	- rspamd is a rapid spam filtering system.
 	- https://rspamd.com/
