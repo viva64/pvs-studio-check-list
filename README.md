@@ -266,6 +266,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
 	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
 
+- Xapiand
+	- Xapiand is a fast, simple and modern search and storage server built for the cloud.
+	- https://kronuz.io/Xapiand/
+	- https://github.com/Kronuz/Xapiand
+
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
 	- https://www.arangodb.com
