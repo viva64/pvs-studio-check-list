@@ -184,6 +184,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://virgil3d.github.io/
 	- https://cgit.freedesktop.org/virglrenderer
 
+- TuxClocker
+	- TuxClocker is an overclocking tool for GNU/Linux.
+	- https://github.com/Lurkki14/tuxclocker
+
 - CodeXL
 	- CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
 	- https://gpuopen.com/compute-product/codexl/
