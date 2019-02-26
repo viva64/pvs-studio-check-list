@@ -817,6 +817,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 <a name="java"></a>Projects in Java
 -----------------------------------
 
+- Gerrit
+	- Gerrit is an open-source web-based team code collaboration tool developed by Google.
+	- https://www.gerritcodereview.com/
+	- https://gerrit.googlesource.com/gerrit
+
 - NetBeans
 	- NetBeans is an integrated development environment (IDE) for Java.
 	- http://hg.netbeans.org/main/file/
