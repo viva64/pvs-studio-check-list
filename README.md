@@ -758,6 +758,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
+- TeXstudio
+	- TeXstudio is a fully featured LaTeX editor. 
+	- https://github.com/texstudio-org/texstudio
+	- https://www.texstudio.org/
+	
 - PyTorch
 	- PyTorch is an open source deep learning platform with strong GPU acceleration
 	- https://github.com/pytorch/pytorch
@@ -767,6 +772,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Cling is the interactive C++ interpreter
 	- https://github.com/root-project/cling
 	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
