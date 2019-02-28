@@ -184,6 +184,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://virgil3d.github.io/
 	- https://cgit.freedesktop.org/virglrenderer
 
+- CodeXL
+	- CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.
+	- https://gpuopen.com/compute-product/codexl/
+	- https://github.com/GPUOpen-Tools/CodeXL
+
 - V-EZ
 	- V-EZ is an open source, cross-platform wrapper for Vulkan API.
 	- https://gpuopen-librariesandsdks.github.io/V-EZ/
@@ -260,6 +265,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - PuTTY
 	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
 	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
+
+- Xapiand
+	- Xapiand is a fast, simple and modern search and storage server built for the cloud.
+	- https://kronuz.io/Xapiand/
+	- https://github.com/Kronuz/Xapiand
 
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
@@ -685,6 +695,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
 
+- ET: Legacy
+	- ET: Legacy is a multiplayer first-person shooter based on the open source code of Wolfenstein: Enemy Territory.
+	- https://www.etlegacy.com/
+	- https://github.com/etlegacy/etlegacy
+
 - FlightGear
 	- FlightGear is an open-source flight simulator.
 	- https://home.flightgear.org/
@@ -748,6 +763,17 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/texstudio-org/texstudio
 	- https://www.texstudio.org/
 	
+- PyTorch
+	- PyTorch is an open source deep learning platform with strong GPU acceleration
+	- https://github.com/pytorch/pytorch
+	- https://pytorch.org/
+
+- Cling
+	- Cling is the interactive C++ interpreter
+	- https://github.com/root-project/cling
+	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
+
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
@@ -799,8 +825,19 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://notecad.xyz/
 	- https://github.com/NoteCAD/NoteCAD
 
+- Reko
+	- Reko is a decompiler for machine code binaries. 
+	- https://github.com/uxmal/reko
+	- https://uxmal.github.io/reko/
+
 <a name="java"></a>Projects in Java
 -----------------------------------
+
+- Gerrit
+	- Gerrit is an open-source web-based team code collaboration tool developed by Google.
+	- https://www.gerritcodereview.com/
+	- https://github.com/GerritCodeReview/gerrit
+	- https://gerrit.googlesource.com/gerrit
 
 - NetBeans
 	- NetBeans is an integrated development environment (IDE) for Java.
