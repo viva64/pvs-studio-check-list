@@ -363,7 +363,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://bitbucket.org/pidgin/main/src
 
 - Tox
-	- secure messenger with audio and video chat capabilities.
+	- Secure messenger with audio and video chat capabilities.
 	- https://tox.chat/
 	- https://github.com/TokTok/c-toxcore
 	- https://github.com/qTox/qTox (client)
@@ -643,7 +643,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/wxWidgets/wxWidgets
 
 - OMR
-  - The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
+  	- The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
 	- https://github.com/eclipse/omr
 	- http://www.eclipse.org/omr/
 
