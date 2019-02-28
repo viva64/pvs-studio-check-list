@@ -820,6 +820,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - Gerrit
 	- Gerrit is an open-source web-based team code collaboration tool developed by Google.
 	- https://www.gerritcodereview.com/
+	- https://github.com/GerritCodeReview/gerrit
 	- https://gerrit.googlesource.com/gerrit
 
 - NetBeans
