@@ -695,6 +695,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
 
+- ET: Legacy
+	- ET: Legacy is a multiplayer first-person shooter based on the open source code of Wolfenstein: Enemy Territory.
+	- https://www.etlegacy.com/
+	- https://github.com/etlegacy/etlegacy
+
 - FlightGear
 	- FlightGear is an open-source flight simulator.
 	- https://home.flightgear.org/
