@@ -281,6 +281,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://trafficserver.apache.org/
 	- http://trafficserver.apache.org/downloads
 
+- Knot DNS
+	- Knot DNS is a high-performance authoritative-only DNS server.
+	- https://www.knot-dns.cz/
+	- https://gitlab.labs.nic.cz/knot/knot-dns
+
 - BIND
 	- BIND is an open-source implementation of the DNS (Domain Name System) protocol.
 	- https://gitlab.isc.org/isc-projects/bind9
