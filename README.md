@@ -652,6 +652,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.ethdocs.org/en/latest/ethereum-clients/cpp-ethereum/
 	- https://github.com/ethereum/cpp-ethereum
 
+- Windows Calculator
+	- Windows Calculator is a simple yet powerful calculator that ships with Windows.
+	- https://github.com/Microsoft/calculator
+
 - Windows File Manager
 	- Windows File Manager is a file manager bundled with releases of Microsoft Windows between 1990 and 1999.
 	- https://github.com/Microsoft/winfile
