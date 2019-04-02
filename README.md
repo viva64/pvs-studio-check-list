@@ -444,6 +444,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://redis.io/
 	- https://github.com/antirez/redis
 
+- Blend2D
+	- Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license.
+	- https://blend2d.com/
+	- https://github.com/blend2d/blend2d
+
 - ImageMagick
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
 	- https://www.imagemagick.org/
