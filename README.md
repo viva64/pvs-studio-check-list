@@ -832,6 +832,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 
 <a name="java"></a>Projects in Java
 -----------------------------------
+- Ghidra
+	- Ghidra is a software reverse engineering (SRE) framework from The National Security Agency.
+	- https://www.nsa.gov/resources/everyone/ghidra/
+	- https://github.com/NationalSecurityAgency/ghidra
 
 - Gerrit
 	- Gerrit is an open-source web-based team code collaboration tool developed by Google.
