@@ -262,6 +262,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.openssh.com/
 	- https://anongit.mindrot.org/openssh.git
 
+- FastCGI
+	- The FastCGI implementation in modern C++.
+	- http://dmitigr.ru/en/projects/fcgi/doc/
+	- https://github.com/dmitigr/fcgi
+
 - PuTTY
 	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
 	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
