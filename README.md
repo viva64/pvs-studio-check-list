@@ -713,7 +713,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - PhysX
 	- PhysX is an open source realtime physics engine middleware SDK created by Nvidia.
 	- http://gameworksdocs.nvidia.com/simulation.html
-	- https://github.com/NVIDIAGameWorks/PhysX-3.4
+	- https://github.com/NVIDIAGameWorks/PhysX
 
 - Filament
 	- Filament is a physically based rendering engine for Android, Linux, macOS and Windows.
