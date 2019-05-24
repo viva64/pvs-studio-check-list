@@ -228,6 +228,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/Think-Silicon/GLOVE
 	- https://think-silicon.com/
 
+- Basis Universal
+	- Basis Universal is a "supercompressed" GPU texture compression system that outputs a highly compressed intermediate file format (.basis) that can be quickly transcoded to GPU texture compression formats.
+	- https://github.com/binomialLLC/basis_universal
+
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
