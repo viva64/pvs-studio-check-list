@@ -748,6 +748,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://hhvm.com/
 	- https://github.com/facebook/hhvm
 
+ - Geometric Tools Engine
+	- Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics 
+	- https://www.geometrictools.com
+	- https://www.geometrictools.com/Downloads/Downloads.html
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
