@@ -414,6 +414,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.shotcut.org/
 	- https://github.com/mltframework/shotcut
 
+- Olive
+	- Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+	- https://www.olivevideoeditor.org/
+	- https://github.com/olive-editor/olive
+
 - QuiteRSS
 	- QuiteRSS is a open-source cross-platform RSS/Atom news feeds reader.
 	- https://quiterss.org/
