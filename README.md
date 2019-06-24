@@ -888,6 +888,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/hibernate/
 	- http://hibernate.org
 
+- LanguageTool
+	- LanguageTool is an open source proofreading software for many languages.
+	- https://www.languagetool.org/
+	- https://github.com/languagetool-org/languagetool
+
 - Spring Framework
 	- The Spring Framework is an application framework and inversion of control container for the Java platform. 
 	- https://spring.io
