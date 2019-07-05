@@ -963,3 +963,8 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Free interior design software.
 	- http://www.sweethome3d.com
 	- https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-source/
+
+- XMage
+	- XMage is an open-source collectible card game.
+	- http://xmage.de/
+	- https://github.com/magefree/mage
