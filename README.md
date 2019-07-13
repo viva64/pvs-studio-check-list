@@ -773,6 +773,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/root-project/cling
 	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
 
+- OpenHMD
+	- OpenHMD is a free and open source API and drivers for immersive technology, such as head mounted displays with built in head tracking.
+	- http://www.openhmd.net/
+	- https://github.com/OpenHMD/OpenHMD
+
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
