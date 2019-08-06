@@ -171,6 +171,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- VirtualGL
+	- VirtualGL is an open source toolkit that gives any Linux or Unix remote display software the ability to run OpenGL applications with full hardware acceleration.
+	- https://virtualgl.org/
+	- https://github.com/VirtualGL/virtualgl
+
 - CLVK
 	- CLVK is a prototype implementation of OpenCL 1.2 on top of Vulkan.
 	- https://github.com/kpet/clvk
