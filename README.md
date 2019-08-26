@@ -781,6 +781,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- LINQ to DB is the fastest LINQ database access library.
 	- https://github.com/linq2db/linq2db
 
+- Simple DNSCrypt
+	- Simple DNSCrypt is a simple management tool to configure dnscrypt-proxy on Windows-based systems.
+	- https://www.simplednscrypt.org/
+	- https://github.com/bitbeans/SimpleDnsCrypt
+
 - Telerik UI for UWP
 	- Source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls.
 	- http://www.telerik.com/universal-windows-platform-ui
