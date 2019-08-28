@@ -299,6 +299,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://trafficserver.apache.org/
 	- http://trafficserver.apache.org/downloads
 
+- Memcached
+	- Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
+	- https://memcached.org/
+	- https://github.com/memcached/memcached
+
 - BIND
 	- BIND is an open-source implementation of the DNS (Domain Name System) protocol.
 	- https://gitlab.isc.org/isc-projects/bind9
