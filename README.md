@@ -725,6 +725,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://home.flightgear.org/
 	- https://sourceforge.net/p/flightgear/flightgear/ci/next/tree/
 
+- Seven Kingdoms
+	- Seven Kingdoms is a proper classic RTS released under the terms of the GNU GPL in 2009.
+	- https://7kfans.com/
+	- https://github.com/the3dfxdude/7kaa
+
 - The Battle for Wesnoth
 	- The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme.
 	- https://wesnoth.org/
