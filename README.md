@@ -695,6 +695,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
 	- https://bitbucket.org/eigen/eigen/
 
+- Cauldron
+	- Cauldron is a framework library for rapid prototyping on Vulkan or DirectX 12.
+	- https://gpuopen.com/gaming-product/caudron-framework/
+	- https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron
+
 - Torque 3D
 	- The premier open-source game engine.
 	- http://torque3d.org/
