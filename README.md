@@ -286,6 +286,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://gitlab.isc.org/isc-projects/bind9
 	- https://www.isc.org/git/
 
+- OWL
+	- Open Wireless Link (OWL) is an open implementation of the Apple Wireless Direct Link (AWDL) ad hoc protocol for Linux and macOS and part of the Open Wireless Link project.
+	- https://owlink.org/
+	- https://github.com/seemoo-lab/owl
+
 - aria2
 	- aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 	- https://aria2.github.io/
