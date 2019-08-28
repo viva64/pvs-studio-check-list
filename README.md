@@ -262,6 +262,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.openssh.com/
 	- https://anongit.mindrot.org/openssh.git
 
+- GTK-VNC
+	- GTK-VNC is a project providing client side APIs for the RFB protocol / VNC remote desktop technology.
+	- https://wiki.gnome.org/Projects/gtk-vnc
+	- https://gitlab.gnome.org/GNOME/gtk-vnc
+
 - PuTTY
 	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
 	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
