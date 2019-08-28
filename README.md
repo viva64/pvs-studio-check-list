@@ -199,6 +199,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://gpuopen-librariesandsdks.github.io/V-EZ/
 	- https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ
 
+- VKHR
+	- VKHR is an open-source, real-time hybrid hair renderer written in Vulkan and developed under the support of AMD/RTG.
+	- https://github.com/CaffeineViking/vkhr
+
 - Skia
 	- Skia is an open source 2D graphics library which provides common APIs for many of hardware and software platforms.
 	- https://skia.org/
