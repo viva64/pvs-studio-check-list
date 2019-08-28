@@ -748,7 +748,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
     - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
     - https://www.gnu.org/software/coreutils/coreutils.html
     - http://git.savannah.gnu.org/cgit/coreutils.git
-    
+
+- GNU Radio
+	- GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
+	- https://www.gnuradio.org/
+	- https://github.com/gnuradio/gnuradio
+
 - Tvheadend
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
 	- https://tvheadend.org
