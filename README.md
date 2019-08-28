@@ -797,6 +797,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
+- Roc
+	- Roc is a toolkit for real-time media streaming over the network.
+	- https://roc-project.github.io/
+	- https://github.com/roc-project/roc/
+
 - TeXstudio
 	- TeXstudio is a fully featured LaTeX editor. 
 	- https://github.com/texstudio-org/texstudio
