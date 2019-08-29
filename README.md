@@ -184,6 +184,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
 
+- GLFW
+	- GLFW is the OpenGL library offers a basic API for the creation of windows/contexts/surfaces across software platforms.
+	- https://www.glfw.org/
+	- https://github.com/glfw/glfw
+
 - Virgil
 	- Virgil is a research project to use the capabilities of the host GPU to accelerate 3D rendering.
 	- https://virgil3d.github.io/
