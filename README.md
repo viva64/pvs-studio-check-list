@@ -270,6 +270,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.netfilter.org/projects/iptables/index.html
 	- https://git.netfilter.org/iptables/
 
+- Remmina
+	- Remmina is a remote desktop client written in GTK+, aiming to be useful for system administrators and travellers.
+	- https://remmina.org/
+	- https://gitlab.com/Remmina/Remmina/
+
 - OpenSSH
 	- OpenSSH is the premier connectivity tool for remote login with the SSH protocol.
 	- https://www.openssh.com/
