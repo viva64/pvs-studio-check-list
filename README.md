@@ -237,6 +237,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://moltengl.com/moltenvk/
 	- https://github.com/KhronosGroup/MoltenVK
 
+- Fossilize
+	- Fossilize is a library and Vulkan layer for serializing various persistent Vulkan objects which typically end up in hashmaps. 
+	- https://github.com/ValveSoftware/Fossilize
+
 - GLOVE
 	- GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between OpenGL and Vulkan.
 	- https://github.com/Think-Silicon/GLOVE
