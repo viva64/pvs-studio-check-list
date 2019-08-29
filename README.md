@@ -812,6 +812,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/ldv-klever/klever
 	- https://forge.ispras.ru/projects/klever?jump=welcome
 
+- Catch2
+	- Catch2 stands for C++ Automated Test Cases in a Header and is a multi-paradigm test framework for C++.
+	- https://github.com/catchorg/Catch2
+
 - OSCam
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
