@@ -251,7 +251,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- rspamd is a rapid spam filtering system.
 	- https://rspamd.com/
 	- https://github.com/rspamd/rspamd
-- Snort
+- Snort 3
 	- Snort is the next generation Snort IPS (Intrusion Prevention System).
 	- https://www.snort.org/
 	- https://github.com/snort3/snort3
