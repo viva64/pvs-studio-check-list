@@ -96,6 +96,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://wiki.apparmor.net/index.php/Main_Page
 	- https://git.kernel.org/pub/scm/linux/kernel/git/jj/linux-apparmor.git/
 
+- Sandboxed API
+	- The Sandboxed API project allows to run code of libraries in a sandboxed environment.
+	- https://github.com/google/sandboxed-api
+
 - GNU nano
 	- GNU nano is a text editor for Unix-like computing systems with command-line interface.
 	- https://nano-editor.org/
