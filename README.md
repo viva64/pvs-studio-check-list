@@ -641,6 +641,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://radare.org
 	- https://github.com/radare/radare2
 
+- Rufus
+	- Rufus is a utility that helps format and create bootable USB flash drives.
+	- https://rufus.ie/
+	- https://github.com/pbatard/rufus
+
 - USBSnoop
 	- USBSnoop is a tool for logging USB packets going from Windows device driver to any hardware device and vice-versa.
 	- https://github.com/SnoopWare/usbsnoop
