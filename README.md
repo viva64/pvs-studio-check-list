@@ -685,7 +685,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://torque3d.org/
 	- https://github.com/GarageGames/Torque3D
 
-- Flare
+- Flare Engine
 	- Flare is an open source, 2D action RPG licensed under the GPL3 license.
 	- http://flarerpg.org/
 	- https://github.com/flareteam/flare-engine
