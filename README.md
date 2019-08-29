@@ -653,6 +653,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.amxmodx.org/
 	- https://github.com/alliedmodders/amxmodx/
 
+- WineVDM
+	- WineVDM is a 16-bit Windows emulator for 64-bit Windows.
+	- https://github.com/otya128/winevdm
+
 - QEMU
 	- QEMU is a generic and open source machine emulator and virtualizer.
 	- http://www.qemu-project.org/
