@@ -847,6 +847,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://tvheadend.org
 	- https://github.com/tvheadend/tvheadend
 
+- Spectrum
+	- Spectrum is a cross-platform image transcoding library.
+	- https://libspectrum.io/
+	- https://github.com/facebookincubator/spectrum
+
 - FreeRTOS
 	- FreeRTOS is a cloud-native IoT operating system for microcontrollers.
 	- https://www.freertos.org/
