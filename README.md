@@ -326,6 +326,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://trafficserver.apache.org/
 	- http://trafficserver.apache.org/downloads
 
+- Knot DNS
+	- Knot DNS is a high-performance authoritative-only DNS server.
+	- https://www.knot-dns.cz/
+	- https://gitlab.labs.nic.cz/knot/knot-dns
+
 - Memcached
 	- Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
 	- https://memcached.org/
