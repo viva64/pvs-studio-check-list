@@ -96,6 +96,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://wiki.apparmor.net/index.php/Main_Page
 	- https://git.kernel.org/pub/scm/linux/kernel/git/jj/linux-apparmor.git/
 
+- Sandboxed API
+	- The Sandboxed API project allows to run code of libraries in a sandboxed environment.
+	- https://github.com/google/sandboxed-api
+
 - GNU nano
 	- GNU nano is a text editor for Unix-like computing systems with command-line interface.
 	- https://nano-editor.org/
@@ -171,6 +175,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- VirtualGL
+	- VirtualGL is an open source toolkit that gives any Linux or Unix remote display software the ability to run OpenGL applications with full hardware acceleration.
+	- https://virtualgl.org/
+	- https://github.com/VirtualGL/virtualgl
+
 - CLVK
 	- CLVK is a prototype implementation of OpenCL 1.2 on top of Vulkan.
 	- https://github.com/kpet/clvk
@@ -178,6 +187,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - DXVK
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
+
+- GLFW
+	- GLFW is the OpenGL library offers a basic API for the creation of windows/contexts/surfaces across software platforms.
+	- https://www.glfw.org/
+	- https://github.com/glfw/glfw
 
 - Virgil
 	- Virgil is a research project to use the capabilities of the host GPU to accelerate 3D rendering.
@@ -193,6 +207,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- V-EZ is an open source, cross-platform wrapper for Vulkan API.
 	- https://gpuopen-librariesandsdks.github.io/V-EZ/
 	- https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ
+
+- VKHR
+	- VKHR is an open-source, real-time hybrid hair renderer written in Vulkan and developed under the support of AMD/RTG.
+	- https://github.com/CaffeineViking/vkhr
 
 - Skia
 	- Skia is an open source 2D graphics library which provides common APIs for many of hardware and software platforms.
@@ -223,10 +241,18 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://moltengl.com/moltenvk/
 	- https://github.com/KhronosGroup/MoltenVK
 
+- Fossilize
+	- Fossilize is a library and Vulkan layer for serializing various persistent Vulkan objects which typically end up in hashmaps. 
+	- https://github.com/ValveSoftware/Fossilize
+
 - GLOVE
 	- GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between OpenGL and Vulkan.
 	- https://github.com/Think-Silicon/GLOVE
 	- https://think-silicon.com/
+
+- Basis Universal Codec
+	- Basis Universal is a "supercompressed" GPU texture compression system that outputs a highly compressed intermediate file format (.basis) that can be quickly transcoded to GPU texture compression formats.
+	- https://github.com/binomialLLC/basis_universal
 
 - DIVINE 4
 	- DIVINE is a modern, explicit-state model checker.
@@ -251,20 +277,44 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- rspamd is a rapid spam filtering system.
 	- https://rspamd.com/
 	- https://github.com/rspamd/rspamd
+- Snort 3
+	- Snort is the next generation Snort IPS (Intrusion Prevention System).
+	- https://www.snort.org/
+	- https://github.com/snort3/snort3
 
 - iptables
 	- iptables is the userspace command-line program used to configure the Linux packet filtering ruleset.
 	- https://www.netfilter.org/projects/iptables/index.html
 	- https://git.netfilter.org/iptables/
 
+- Endlessh
+	- Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
+	- https://nullprogram.com/blog/2019/03/22/
+	- https://github.com/skeeto/endlessh
+  
+- Remmina
+	- Remmina is a remote desktop client written in GTK+, aiming to be useful for system administrators and travellers.
+	- https://remmina.org/
+	- https://gitlab.com/Remmina/Remmina/
+
 - OpenSSH
 	- OpenSSH is the premier connectivity tool for remote login with the SSH protocol.
 	- https://www.openssh.com/
 	- https://anongit.mindrot.org/openssh.git
 
+- GTK-VNC
+	- GTK-VNC is a project providing client side APIs for the RFB protocol / VNC remote desktop technology.
+	- https://wiki.gnome.org/Projects/gtk-vnc
+	- https://gitlab.gnome.org/GNOME/gtk-vnc
+
 - PuTTY
 	- PuTTY is a free implementation of SSH and Telnet for Windows and Unix platforms.
 	- http://www.chiark.greenend.org.uk/~sgtatham/putty/
+
+- Xapiand
+	- Xapiand is a fast, simple and modern search and storage server built for the cloud.
+	- https://kronuz.io/Xapiand/
+	- https://github.com/Kronuz/Xapiand
 
 - ArangoDB
 	- ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values.
@@ -276,10 +326,20 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://trafficserver.apache.org/
 	- http://trafficserver.apache.org/downloads
 
+- Memcached
+	- Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
+	- https://memcached.org/
+	- https://github.com/memcached/memcached
+
 - BIND
 	- BIND is an open-source implementation of the DNS (Domain Name System) protocol.
 	- https://gitlab.isc.org/isc-projects/bind9
 	- https://www.isc.org/git/
+
+- OWL
+	- Open Wireless Link (OWL) is an open implementation of the Apple Wireless Direct Link (AWDL) ad hoc protocol for Linux and macOS and part of the Open Wireless Link project.
+	- https://owlink.org/
+	- https://github.com/seemoo-lab/owl
 
 - aria2
 	- aria2 is a lightweight multi-protocol & multi-source command-line download utility.
@@ -358,7 +418,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://bitbucket.org/pidgin/main/src
 
 - Tox
-	- secure messenger with audio and video chat capabilities.
+	- Secure messenger with audio and video chat capabilities.
 	- https://tox.chat/
 	- https://github.com/TokTok/c-toxcore
 	- https://github.com/qTox/qTox (client)
@@ -409,6 +469,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.shotcut.org/
 	- https://github.com/mltframework/shotcut
 
+- Olive
+	- Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+	- https://www.olivevideoeditor.org/
+	- https://github.com/olive-editor/olive
+
 - QuiteRSS
 	- QuiteRSS is a open-source cross-platform RSS/Atom news feeds reader.
 	- https://quiterss.org/
@@ -438,6 +503,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Redis is a multi-purpose in-memory data structure store.
 	- https://redis.io/
 	- https://github.com/antirez/redis
+
+- Blend2D
+	- Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license.
+	- https://blend2d.com/
+	- https://github.com/blend2d/blend2d
 
 - ImageMagick
 	- ImageMagick is a CLI utility for converting, processing, analyzing & generating images with a huge feature set.
@@ -583,6 +653,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.amxmodx.org/
 	- https://github.com/alliedmodders/amxmodx/
 
+- WineVDM
+	- WineVDM is a 16-bit Windows emulator for 64-bit Windows.
+	- https://github.com/otya128/winevdm
+
 - QEMU
 	- QEMU is a generic and open source machine emulator and virtualizer.
 	- http://www.qemu-project.org/
@@ -597,6 +671,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Unix-like reverse engineering framework and commandline tools.
 	- https://radare.org
 	- https://github.com/radare/radare2
+
+- Rufus
+	- Rufus is a utility that helps format and create bootable USB flash drives.
+	- https://rufus.ie/
+	- https://github.com/pbatard/rufus
 
 - USBSnoop
 	- USBSnoop is a tool for logging USB packets going from Windows device driver to any hardware device and vice-versa.
@@ -638,7 +717,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/wxWidgets/wxWidgets
 
 - OMR
-  - The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
+  	- The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
 	- https://github.com/eclipse/omr
 	- http://www.eclipse.org/omr/
 
@@ -675,10 +754,20 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
 	- https://bitbucket.org/eigen/eigen/
 
+- Cauldron
+	- Cauldron is a framework library for rapid prototyping on Vulkan or DirectX 12.
+	- https://gpuopen.com/gaming-product/caudron-framework/
+	- https://github.com/GPUOpen-LibrariesAndSDKs/Cauldron
+
 - Torque 3D
 	- The premier open-source game engine.
 	- http://torque3d.org/
 	- https://github.com/GarageGames/Torque3D
+
+- Flare Engine
+	- Flare is an open source, 2D action RPG licensed under the GPL3 license.
+	- http://flarerpg.org/
+	- https://github.com/flareteam/flare-engine
 
 - Vangers
 	- Video game that combines elements of the racing and role-playing genres.
@@ -690,15 +779,29 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
 
+- ET: Legacy
+	- ET: Legacy is a multiplayer first-person shooter based on the open source code of Wolfenstein: Enemy Territory.
+	- https://www.etlegacy.com/
+	- https://github.com/etlegacy/etlegacy
+
 - FlightGear
 	- FlightGear is an open-source flight simulator.
 	- https://home.flightgear.org/
 	- https://sourceforge.net/p/flightgear/flightgear/ci/next/tree/
 
+- Seven Kingdoms
+	- Seven Kingdoms is a proper classic RTS released under the terms of the GNU GPL in 2009.
+	- https://7kfans.com/
+	- https://github.com/the3dfxdude/7kaa
+
 - The Battle for Wesnoth
 	- The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme.
 	- https://wesnoth.org/
 	- https://github.com/wesnoth/wesnoth
+
+- Russian Railway Simulator
+	- Russian Railway Simulator is free open-source railway simulator of Russian mainline locomotives and trains.
+	- https://github.com/maisvendoo/RRS
 
 - XScreenSaver
 	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
@@ -733,7 +836,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
     - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
     - https://www.gnu.org/software/coreutils/coreutils.html
     - http://git.savannah.gnu.org/cgit/coreutils.git
-    
+
+- GNU Radio
+	- GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
+	- https://www.gnuradio.org/
+	- https://github.com/gnuradio/gnuradio
+
 - Tvheadend
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
 	- https://tvheadend.org
@@ -744,15 +852,34 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://libspectrum.io/
 	- https://github.com/facebookincubator/spectrum
 
+- FreeRTOS
+	- FreeRTOS is a cloud-native IoT operating system for microcontrollers.
+	- https://www.freertos.org/
+	- https://github.com/aws/amazon-freertos
+
 - Klever
 	- Klever is a static verification framework that aims at automated checking of programs developed.
 	- https://github.com/ldv-klever/klever
 	- https://forge.ispras.ru/projects/klever?jump=welcome
 
+- Catch2
+	- Catch2 stands for C++ Automated Test Cases in a Header and is a multi-paradigm test framework for C++.
+	- https://github.com/catchorg/Catch2
+
 - OSCam
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
+- Roc
+	- Roc is a toolkit for real-time media streaming over the network.
+	- https://roc-project.github.io/
+	- https://github.com/roc-project/roc/
+
+- TeXstudio
+	- TeXstudio is a fully featured LaTeX editor. 
+	- https://github.com/texstudio-org/texstudio
+	- https://www.texstudio.org/
+	
 - PyTorch
 	- PyTorch is an open source deep learning platform with strong GPU acceleration
 	- https://github.com/pytorch/pytorch
@@ -763,12 +890,27 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/root-project/cling
 	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
 
+- Capstone Engine
+	- Capstone Engine is a lightweight multi-platform, multi-architecture disassembly framework.
+	- https://www.capstone-engine.org/
+	- https://github.com/aquynh/capstone
+
+- OpenHMD
+	- OpenHMD is a free and open source API and drivers for immersive technology, such as head mounted displays with built in head tracking.
+	- http://www.openhmd.net/
+	- https://github.com/OpenHMD/OpenHMD
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
 - LINQ to DB
 	- LINQ to DB is the fastest LINQ database access library.
 	- https://github.com/linq2db/linq2db
+
+- Simple DNSCrypt
+	- Simple DNSCrypt is a simple management tool to configure dnscrypt-proxy on Windows-based systems.
+	- https://www.simplednscrypt.org/
+	- https://github.com/bitbeans/SimpleDnsCrypt
 
 - Telerik UI for UWP
 	- Source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls.
@@ -821,6 +963,16 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 
 <a name="java"></a>Projects in Java
 -----------------------------------
+- Ghidra
+	- Ghidra is a software reverse engineering (SRE) framework from The National Security Agency.
+	- https://www.nsa.gov/resources/everyone/ghidra/
+	- https://github.com/NationalSecurityAgency/ghidra
+
+- Gerrit
+	- Gerrit is an open-source web-based team code collaboration tool developed by Google.
+	- https://www.gerritcodereview.com/
+	- https://github.com/GerritCodeReview/gerrit
+	- https://gerrit.googlesource.com/gerrit
 
 - NetBeans
 	- NetBeans is an integrated development environment (IDE) for Java.
@@ -866,6 +1018,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Hibernate ORM (Hibernate in short) is an object-relational mapping tool for the Java programming language. 
 	- https://github.com/hibernate/
 	- http://hibernate.org
+
+- LanguageTool
+	- LanguageTool is an open source proofreading software for many languages.
+	- https://www.languagetool.org/
+	- https://github.com/languagetool-org/languagetool
 
 - Spring Framework
 	- The Spring Framework is an application framework and inversion of control container for the Java platform. 
@@ -937,3 +1094,8 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Free interior design software.
 	- http://www.sweethome3d.com
 	- https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-source/
+
+- XMage
+	- XMage is an open-source collectible card game.
+	- http://xmage.de/
+	- https://github.com/magefree/mage
