@@ -799,6 +799,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://wesnoth.org/
 	- https://github.com/wesnoth/wesnoth
 
+- Russian Railway Simulator
+	- Russian Railway Simulator is free open-source railway simulator of Russian mainline locomotives and trains.
+	- https://github.com/maisvendoo/RRS
+
 - XScreenSaver
 	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
 	- https://github.com/porridge/xscreensaver
