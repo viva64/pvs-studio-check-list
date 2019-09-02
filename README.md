@@ -847,6 +847,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://tvheadend.org
 	- https://github.com/tvheadend/tvheadend
 
+- FreeRTOS
+	- FreeRTOS is a cloud-native IoT operating system for microcontrollers.
+	- https://www.freertos.org/
+	- https://github.com/aws/amazon-freertos
+
 - Klever
 	- Klever is a static verification framework that aims at automated checking of programs developed.
 	- https://github.com/ldv-klever/klever
