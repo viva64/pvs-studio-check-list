@@ -457,6 +457,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://mpv.io/
 	- https://github.com/mpv-player/mpv
 
+- SVT-AV1
+	- SVT-AV1 is a new AV1 video encoder implementation.
+	- https://github.com/OpenVisualCloud/SVT-AV1
+
 - PulseAudio
 	- PulseAudio is a network-capable sound server program for Linux systems.
 	- https://www.freedesktop.org/wiki/Software/PulseAudio/
