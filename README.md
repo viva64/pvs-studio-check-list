@@ -777,6 +777,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://eigen.tuxfamily.org/index.php?title=Main_Page
 	- https://bitbucket.org/eigen/eigen/
 
+- Q2VKPT
+	- Q2VKPT is a Quake 2 engine with real-time path tracing.
+	- http://brechpunkt.de/q2vkpt/
+	- https://github.com/cschied/q2vkpt/
+
 - Cauldron
 	- Cauldron is a framework library for rapid prototyping on Vulkan or DirectX 12.
 	- https://gpuopen.com/gaming-product/caudron-framework/
