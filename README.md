@@ -952,6 +952,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Cling is the interactive C++ interpreter
 	- https://github.com/root-project/cling
 	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
+	
+- SoftEtherVPN
+        - Open Cross-platform Multi-protocol VPN Software
+        - https://www.softether.org
+        - https://github.com/SoftEtherVPN/SoftEtherVPN
 
 - Capstone Engine
 	- Capstone Engine is a lightweight multi-platform, multi-architecture disassembly framework.
