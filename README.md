@@ -792,6 +792,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://torque3d.org/
 	- https://github.com/GarageGames/Torque3D
 
+- X-Plane
+	- X-Plane is an open-source cross-platform flight simulator.
+	- https://developer.x-plane.com/
+	- https://github.com/X-Plane/xptools
+
 - Flare Engine
 	- Flare is an open source, 2D action RPG licensed under the GPL3 license.
 	- http://flarerpg.org/
