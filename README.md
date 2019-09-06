@@ -251,7 +251,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/KhronosGroup/MoltenVK
 
 - Fossilize
-	- Fossilize is a library and Vulkan layer for serializing various persistent Vulkan objects which typically end up in hashmaps. 
+	- Fossilize is a library and Vulkan layer for serializing various Vulkan objects which typically end up in hashmaps. 
 	- https://github.com/ValveSoftware/Fossilize
 
 - GLOVE
@@ -260,7 +260,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://think-silicon.com/
 
 - Basis Universal Codec
-	- Basis Universal is a "supercompressed" GPU texture compression system that outputs a highly compressed intermediate file format (.basis) that can be quickly transcoded to GPU texture compression formats.
+	- Basis Universal is a GPU texture compression system.
 	- https://github.com/binomialLLC/basis_universal
 
 - DIVINE 4
@@ -286,6 +286,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- rspamd is a rapid spam filtering system.
 	- https://rspamd.com/
 	- https://github.com/rspamd/rspamd
+	
 - Snort 3
 	- Snort is the next generation Snort IPS (Intrusion Prevention System).
 	- https://www.snort.org/
@@ -341,7 +342,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://gitlab.labs.nic.cz/knot/knot-dns
 
 - Memcached
-	- Memcached is a high performance multithreaded event-based key/value cache store intended to be used in a distributed system.
+	- Memcached is a high performance multithreaded event-based key/value cache store.
 	- https://memcached.org/
 	- https://github.com/memcached/memcached
 
@@ -351,7 +352,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.isc.org/git/
 
 - OWL
-	- Open Wireless Link (OWL) is an open implementation of the Apple Wireless Direct Link (AWDL) ad hoc protocol for Linux and macOS and part of the Open Wireless Link project.
+	- Open Wireless Link (OWL) is an open implementation of the Apple Wireless Direct Link (AWDL).
 	- https://owlink.org/
 	- https://github.com/seemoo-lab/owl
 
@@ -488,7 +489,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/mltframework/shotcut
 
 - Olive
-	- Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+	- Olive is a non-linear video editor aiming to provide an alternative to high-end professional video editing software.
 	- https://www.olivevideoeditor.org/
 	- https://github.com/olive-editor/olive
 
@@ -816,6 +817,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- FreeOrion is an open source space empire and galactic conquest computer game based on the Master of Orion games.
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
+	
+- OrionUO
+	- OrionUO is an open source Ultima Online client.
+	- https://github.com/OrionUO/OrionUO	
 
 - ET: Legacy
 	- ET: Legacy is a multiplayer first-person shooter based on the open source code of Wolfenstein: Enemy Territory.
@@ -876,7 +881,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
     - http://git.savannah.gnu.org/cgit/coreutils.git
 
 - GNU Radio
-	- GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
+	- GNU Radio is a software development toolkit that provides signal processing blocks to implement software radios.
 	- https://www.gnuradio.org/
 	- https://github.com/gnuradio/gnuradio
 
@@ -934,7 +939,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/aquynh/capstone
 
 - OpenHMD
-	- OpenHMD is a free and open source API and drivers for immersive technology, such as head mounted displays with built in head tracking.
+	- OpenHMD is an API and drivers for immersive technology, such as head mounted displays with built in head tracking.
 	- http://www.openhmd.net/
 	- https://github.com/OpenHMD/OpenHMD
 
