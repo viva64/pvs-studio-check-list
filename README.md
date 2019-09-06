@@ -82,7 +82,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/darlinghq/darling
 
 - Hangover
-	- Hangover 0.4 is the project from Wine developers for running x86/x86_64 Windows programs on 64-bit ARM Linux distributions.
+	- Hangover 0.4 is the project for running x86/x86_64 Windows programs on 64-bit ARM Linux distributions.
 	- https://github.com/AndreRH/hangover
 
 - strace
