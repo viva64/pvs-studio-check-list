@@ -756,7 +756,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/wxWidgets/wxWidgets
 
 - OMR
-  	- The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
+ 	- The Eclipse OMR is a set of open source C and C++ components that can be used to build robust language runtimes.
 	- https://github.com/eclipse/omr
 	- http://www.eclipse.org/omr/
 
@@ -896,9 +896,9 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://code.launchpad.net/stellarium/
 
 - GNU core utilities
-    - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
-    - https://www.gnu.org/software/coreutils/coreutils.html
-    - http://git.savannah.gnu.org/cgit/coreutils.git
+  - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
+  - https://www.gnu.org/software/coreutils/coreutils.html
+  - http://git.savannah.gnu.org/cgit/coreutils.git
 
 - GNU Radio
 	- GNU Radio is a software development toolkit that provides signal processing blocks to implement software radios.
@@ -933,6 +933,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
 
+- srsLTE
+	- srsLTE is a free and open-source LTE software suite.
+	- http://www.softwareradiosystems.com/products/#srslte
+	- https://github.com/srsLTE/srsLTE
+
 - Roc
 	- Roc is a toolkit for real-time media streaming over the network.
 	- https://roc-project.github.io/
@@ -954,9 +959,9 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
 	
 - SoftEtherVPN
-        - Open Cross-platform Multi-protocol VPN Software
-        - https://www.softether.org
-        - https://github.com/SoftEtherVPN/SoftEtherVPN
+  - Open Cross-platform Multi-protocol VPN Software
+  - https://www.softether.org
+  - https://github.com/SoftEtherVPN/SoftEtherVPN
 
 - Capstone Engine
 	- Capstone Engine is a lightweight multi-platform, multi-architecture disassembly framework.
