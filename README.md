@@ -808,6 +808,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://torque3d.org/
 	- https://github.com/GarageGames/Torque3D
 
+- Mumble
+	- Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+	- https://www.mumble.info/
+	- https://github.com/mumble-voip/mumble
+
 - PvPGN
 	- PvPGN is a free and open-source server software that supports Battle.net and Westwood Online game clients.
 	- https://pvpgn.pro/
