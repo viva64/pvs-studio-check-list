@@ -291,7 +291,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- rspamd is a rapid spam filtering system.
 	- https://rspamd.com/
 	- https://github.com/rspamd/rspamd
-	
+
+- Zeek
+	- Zeek is a powerful framework for network traffic analysis and security monitoring.
+	- https://www.zeek.org/
+	- https://github.com/zeek/zeek/
+
 - Snort 3
 	- Snort is the next generation Snort IPS (Intrusion Prevention System).
 	- https://www.snort.org/
