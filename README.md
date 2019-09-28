@@ -291,7 +291,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- rspamd is a rapid spam filtering system.
 	- https://rspamd.com/
 	- https://github.com/rspamd/rspamd
-	
+
+- Fetchmail
+	- Fetchmail is a free, full-featured, robust, well-documented remote mail retrieval and forwarding utility.
+	- http://www.fetchmail.info/
+	- https://gitlab.com/fetchmail/fetchmail/
+
 - Snort 3
 	- Snort is the next generation Snort IPS (Intrusion Prevention System).
 	- https://www.snort.org/
