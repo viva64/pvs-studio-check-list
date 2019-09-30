@@ -773,6 +773,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- ROCm (Radeon Open Compute) is an open source Linux project.
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 
+- LuxCoreRender
+	- LuxCoreRender is a physically based and unbiased rendering engine that simulates the flow of light according to physical equations.
+	- https://luxcorerender.org/
+	- https://github.com/LuxCoreRender/LuxCore
+
 - KeePassXC
 	- Cross platform password manager
 	- https://keepassxc.org/
