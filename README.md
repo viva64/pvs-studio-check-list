@@ -213,6 +213,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
 
+- VKD3D
+	- VKD3D is the D3D12 to Vulkan translation library.
+	- https://source.winehq.org/git/vkd3d.git/
+
 - GLFW
 	- GLFW is the OpenGL library offers a basic API for the creation of windows/contexts/surfaces across software platforms.
 	- https://www.glfw.org/
