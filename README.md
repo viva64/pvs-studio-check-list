@@ -188,6 +188,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- VkRunner
+	- VkRunner is a tool for running a variety of Vulkan shaders for testing a driver's compiler back-end.
+	- https://github.com/igalia/vkrunner
+
 - VirtualGL
 	- VirtualGL is an open source toolkit that gives any Linux or Unix remote display software the ability to run OpenGL applications with full hardware acceleration.
 	- https://virtualgl.org/
