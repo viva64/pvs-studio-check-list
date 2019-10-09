@@ -989,14 +989,20 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://code.launchpad.net/stellarium/
 
 - GNU core utilities
-  - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
-  - https://www.gnu.org/software/coreutils/coreutils.html
-  - http://git.savannah.gnu.org/cgit/coreutils.git
+    - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
+    - https://www.gnu.org/software/coreutils/coreutils.html
+    - http://git.savannah.gnu.org/cgit/coreutils.git
+
+- X-CD-Roast
+	- X-CD-Roast is a flexible frontend for optical disc tools like cdrecord, cdda2wav, readcd and mkisofs.
+	- http://www.xcdroast.org/
+	- https://sourceforge.net/projects/xcdroast/
 
 - GNU Radio
 	- GNU Radio is a software development toolkit that provides signal processing blocks to implement software radios.
 	- https://www.gnuradio.org/
 	- https://github.com/gnuradio/gnuradio
+
 
 - Tvheadend
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
