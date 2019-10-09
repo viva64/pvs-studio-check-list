@@ -774,7 +774,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/RadeonOpenCompute/ROCm-OpenCL-Runtime
 
 - LuxCoreRender
-	- LuxCoreRender is a physically based and unbiased rendering engine that simulates the flow of light according to physical equations.
+	- LuxCoreRender is a rendering engine that simulates the flow of light according to physical equations.
 	- https://luxcorerender.org/
 	- https://github.com/LuxCoreRender/LuxCore
 
