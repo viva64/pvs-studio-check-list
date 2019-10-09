@@ -394,6 +394,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://trafficserver.apache.org/
 	- http://trafficserver.apache.org/downloads
 
+- ethq
+	- ethq is the Ethernet NIC Queue stats viewer.
+	- https://www.isc.org/blogs/ethq-linux-nic-monitoring-tool/
+	- https://github.com/isc-projects/ethq
+
 - Knot DNS
 	- Knot DNS is a high-performance authoritative-only DNS server.
 	- https://www.knot-dns.cz/
