@@ -741,7 +741,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 
 - FastoTV
 	- FastoTV is a free IPTV cloud server.
-	- https://fastotv.com/
+	- https://fastocloud.com/
 	- https://github.com/fastogt/iptv
 
 - Klever
