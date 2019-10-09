@@ -8,6 +8,10 @@ The whole list of projects that we wrote the articles about: [click](http://www.
 Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 ------------------------------------------------
 
+- Gumbo
+    - An HTML5 parsing library in pure C99
+    - https://github.com/google/gumbo-parser
+
 - CUBRID
 	- Relational DBMS optimized for web applications
 	- https://cubrid.org
