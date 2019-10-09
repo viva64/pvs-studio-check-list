@@ -852,7 +852,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/grame-cncm/faust
 	- http://faust.grame.fr
 
- - Supercollider
+- Supercollider
 	- SuperCollider is a platform for audio synthesis and algorithmic composition.
 	- http://supercollider.github.io
 	- https://github.com/supercollider/supercollider
@@ -1016,6 +1016,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - OSCam
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
+
+- FunctionSimSearch
+	- FunctionSimSearch is a demonstration how to do SimHash-based similarity search over CFGs extracted from disassemblies.
+	- https://github.com/googleprojectzero/functionsimsearch
 
 - srsLTE
 	- srsLTE is a free and open-source LTE software suite.
