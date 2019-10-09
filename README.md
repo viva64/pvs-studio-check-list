@@ -992,6 +992,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.openhmd.net/
 	- https://github.com/OpenHMD/OpenHMD
 
+- OpenCPN
+	- OpenCPN is a free ppen-source chartplotter and marine GPS navigation software.
+	- https://opencpn.org/
+	- https://github.com/OpenCPN/OpenCPN
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
