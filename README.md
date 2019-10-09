@@ -292,6 +292,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://rspamd.com/
 	- https://github.com/rspamd/rspamd
 
+- Zeek
+	- Zeek is a powerful framework for network traffic analysis and security monitoring.
+	- https://www.zeek.org/
+	- https://github.com/zeek/zeek/
+
 - Fetchmail
 	- Fetchmail is a free, full-featured, robust, well-documented remote mail retrieval and forwarding utility.
 	- http://www.fetchmail.info/
