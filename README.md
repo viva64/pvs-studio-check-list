@@ -800,6 +800,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://rufus.ie/
 	- https://github.com/pbatard/rufus
 
+- WoeUSB
+	- WoeUSB is a Linux program to create a Windows USB stick installer from a real Windows DVD or image.
+	- https://github.com/slacka/WoeUSB
+
 - USBSnoop
 	- USBSnoop is a tool for logging USB packets going from Windows device driver to any hardware device and vice-versa.
 	- https://github.com/SnoopWare/usbsnoop
