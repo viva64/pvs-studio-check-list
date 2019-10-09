@@ -330,6 +330,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.netfilter.org/projects/iptables/index.html
 	- https://git.netfilter.org/iptables/
 
+- rdesktop
+	- rdesktop is an open source client for Microsoft's RDP protocol.
+	- https://www.rdesktop.org/
+	- https://github.com/rdesktop/rdesktop
+
 - Endlessh
 	- Endlessh is an SSH tarpit that very slowly sends an endless, random SSH banner.
 	- https://nullprogram.com/blog/2019/03/22/
