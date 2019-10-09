@@ -623,6 +623,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://urho3d.github.io
 	- https://github.com/urho3d/Urho3D
 
+- GrafX2
+	- GrafX2 is a bitmap paint program, specialized in 256-color drawing.
+	- http://grafx2.chez.com/
+	- https://gitlab.com/GrafX2/grafX2
+
 - Avidemux
 	- Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
 	- http://avidemux.sourceforge.net/
