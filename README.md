@@ -954,6 +954,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/porridge/xscreensaver
 	- https://www.jwz.org/xscreensaver/
 
+- Redshift
+	- Redshift adjusts the color temperature of your screen according to your surroundings.
+	- http://jonls.dk/redshift/
+	- https://github.com/jonls/redshift/
+
 - Zapcc
 	- zapcc is a caching C++ compiler based on clang, designed to perform faster compilations
 	- https://www.zapcc.com/
