@@ -435,6 +435,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://sourceforge.net/projects/grsync/
 	- https://sourceforge.net/p/grsync/code/HEAD/tree/
 
+- dav1d
+	- dav1d is AV1 video decoder.
+	- https://code.videolan.org/videolan/dav1d
+
 - FFmpeg
 	- FFmpeg is a CLI tool for processing, converting and analyzing audio and video data
 	- https://github.com/FFmpeg/FFmpeg
