@@ -1050,6 +1050,16 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - OSCam
 	- OSCam is a softcam, software to be used to decrypt digital television channels on a settopbox (receiver).
 	- http://www.streamboard.tv/oscam/wiki/BuildingOscam
+	
+ - HHVM
+	- HHVM is an virtual machine designed for executing programs written in Hack. 
+	- https://hhvm.com/
+	- https://github.com/facebook/hhvm
+
+ - Geometric Tools Engine
+	- Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics 
+	- https://www.geometrictools.com
+	- https://www.geometrictools.com/Downloads/Downloads.html
 
 - FunctionSimSearch
 	- FunctionSimSearch is a demonstration how to do SimHash-based similarity search over CFGs extracted from disassemblies.
