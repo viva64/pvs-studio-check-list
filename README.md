@@ -998,6 +998,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://tvheadend.org
 	- https://github.com/tvheadend/tvheadend
 
+- LibreDWG
+	- LibreDWG is a free C library to read and write DWG files.
+	- https://www.gnu.org/software/libredwg/
+	- https://github.com/LibreDWG/libredwg/
+
 - FastoTV
 	- FastoTV is a free IPTV cloud server.
 	- https://fastocloud.com/
