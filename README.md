@@ -939,6 +939,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://home.flightgear.org/
 	- https://sourceforge.net/p/flightgear/flightgear/ci/next/tree/
 
+- AstroMenace
+	- AstroMenace is hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
+	- https://viewizard.com/
+	- https://github.com/viewizard/astromenace/
+
 - Seven Kingdoms
 	- Seven Kingdoms is a proper classic RTS released under the terms of the GNU GPL in 2009.
 	- https://7kfans.com/
