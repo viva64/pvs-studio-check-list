@@ -1000,6 +1000,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/google/filament
 	- https://google.github.io/filament/Filament.md.html
 
+- GameMode
+	- GameMode is an open-source project from Feral Interactive for dynamically optimizing a Linux system for gaming.
+	- https://github.com/FeralInteractive/gamemode
+
 - Godot Engine
 	- Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
 	- https://godotengine.org
