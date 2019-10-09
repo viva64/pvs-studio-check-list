@@ -276,6 +276,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- DIVINE is a modern, explicit-state model checker.
 	- https://divine.fi.muni.cz/
 
+- FAudio
+	- FAudio is an accuracy-focused XAudio reimplementation for open-source platforms.
+	- https://fna-xna.github.io/
+	- https://github.com/FNA-XNA/FAudio
+
 - ALSA
 	- The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionality to the Linux operating system.
 	- http://alsa-project.org/main/index.php/Main_Page
