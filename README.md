@@ -192,6 +192,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
 
+- vRt
+	- vRt is ray tracing library for Vulkan API.
+	- https://github.com/world8th/vRt
+
 - VkRunner
 	- VkRunner is a tool for running a variety of Vulkan shaders for testing a driver's compiler back-end.
 	- https://github.com/igalia/vkrunner
