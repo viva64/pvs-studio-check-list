@@ -563,6 +563,15 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://dolphin-emu.org/
 	- https://github.com/dolphin-emu/dolphin
 
+- Mupen64Plus
+	- Mupen64Plus is a cross-platform plugin-based Nintendo 64 emulator which is capable of accurately playing many games.
+	- https://mupen64plus.org/
+	- https://github.com/mupen64plus/mupen64plus-core
+
+- Mupen64Plus-Qt
+	- Mupen64Plus-Qt is a customizable cross-platform launcher for Mupen64Plus.
+	- https://github.com/dh4/mupen64plus-qt
+
 - PCSX-Reloaded
 	- PCSX-Reloaded is an open-source PlayStation emulator.
 	- https://archive.codeplex.com/?p=pcsxr
