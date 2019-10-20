@@ -1140,6 +1140,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://oss.digirati.com.br/f3/
 	- https://github.com/AltraMayor/f3
 
+- Magisk
+	- Magisk is a suite of open source tools for customizing Android.
+	- https://topjohnwu.github.io/Magisk/
+	- https://github.com/topjohnwu/Magisk
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
