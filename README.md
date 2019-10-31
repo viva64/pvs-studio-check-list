@@ -866,6 +866,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://openimagedenoise.github.io/
 	- https://github.com/OpenImageDenoise/oidn
 
+- AntiDupl
+	- AntiDupl is a program to search similar and defect pictures on the disk.
+	- https://ermig1979.github.io/AntiDupl/english/index.html
+	- https://github.com/ermig1979/AntiDupl
+
 - LuxCoreRender
 	- LuxCoreRender is a rendering engine that simulates the flow of light according to physical equations.
 	- https://luxcorerender.org/
