@@ -1037,6 +1037,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.gnuradio.org/
 	- https://github.com/gnuradio/gnuradio
 
+- KiCad
+	- KiCad is an open source software suite for Electronic Design Automation (EDA).
+	- http://kicad-pcb.org/
+	- https://github.com/KiCad/kicad-source-mirror
 
 - Tvheadend
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
