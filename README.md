@@ -780,6 +780,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- WineVDM is a 16-bit Windows emulator for 64-bit Windows.
 	- https://github.com/otya128/winevdm
 
+- Bochs
+	- Bochs is a highly portable open source IA-32 (x86) PC emulator written in C++, that runs on most popular platforms.
+	- http://bochs.sourceforge.net/
+	- https://sourceforge.net/p/bochs/code/HEAD/tree/
+
 - QEMU
 	- QEMU is a generic and open source machine emulator and virtualizer.
 	- http://www.qemu-project.org/
