@@ -1155,6 +1155,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://oss.digirati.com.br/f3/
 	- https://github.com/AltraMayor/f3
 
+- Magisk
+	- Magisk is a suite of open source tools for customizing Android.
+	- https://topjohnwu.github.io/Magisk/
+	- https://github.com/topjohnwu/Magisk
+
 - TWRP
 	- TWRP (Team Win Recovery Project) is an open-source software custom recovery image for Android-based devices.
 	- https://twrp.me/
