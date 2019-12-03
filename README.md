@@ -265,6 +265,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://renderdoc.org/
 	- https://github.com/baldurk/renderdoc
 
+- vkBasalt
+	- vkBasalt is a Vulkan post processing layer.
+	- https://github.com/DadSchoorse/vkBasalt
+
 - Vulkan loader and validation layers
 	- This project provides Khronos official ICD loader and validation layers for Vulkan developers on Windows and Linux.
 	- https://www.khronos.org/vulkan/
