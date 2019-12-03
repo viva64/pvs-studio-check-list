@@ -89,6 +89,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Darling is a translation layer that allows you to run unmodified macOS binaries on Linux.
 	- https://darlinghq.org/
 	- https://github.com/darlinghq/darling
+	
+- Open Cascade Technology
+	- OCCT is an open-source software development platform for 3D CAD, CAM, etc. that is developed by Open Cascade SAS.
+	- https://ru.wikipedia.org/wiki/Open_CASCADE_Technology
+	- https://dev.opencascade.org/index.php?q=home/resources
 
 - Hangover
 	- Hangover 0.4 is the project for running x86/x86_64 Windows programs on 64-bit ARM Linux distributions.
