@@ -89,6 +89,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Darling is a translation layer that allows you to run unmodified macOS binaries on Linux.
 	- https://darlinghq.org/
 	- https://github.com/darlinghq/darling
+	
+- Open Cascade Technology
+	- OCCT is an open-source software development platform for 3D CAD, CAM, etc. that is developed by Open Cascade SAS.
+	- https://ru.wikipedia.org/wiki/Open_CASCADE_Technology
+	- https://dev.opencascade.org/index.php?q=home/resources
 
 - Hangover
 	- Hangover 0.4 is the project for running x86/x86_64 Windows programs on 64-bit ARM Linux distributions.
@@ -339,6 +344,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Fetchmail is a free, full-featured, robust, well-documented remote mail retrieval and forwarding utility.
 	- http://www.fetchmail.info/
 	- https://gitlab.com/fetchmail/fetchmail/
+
+- Suricata
+	- Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine.
+	- https://suricata-ids.org/
+	- https://github.com/OISF/suricata
 
 - Snort 3
 	- Snort is the next generation Snort IPS (Intrusion Prevention System).
@@ -686,6 +696,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 - DOSBox
 	- DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system.
 	- https://www.dosbox.com/
+
+- OpenMSX
+	- OpenMSX is an emulator for the MSX home computer system.
+	- https://openmsx.org/
+	- https://github.com/openMSX/openMSX
 
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
@@ -1144,6 +1159,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Magisk is a suite of open source tools for customizing Android.
 	- https://topjohnwu.github.io/Magisk/
 	- https://github.com/topjohnwu/Magisk
+
+- TWRP
+	- TWRP (Team Win Recovery Project) is an open-source software custom recovery image for Android-based devices.
+	- https://twrp.me/
+	- https://github.com/omnirom/android_bootable_recovery/
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
