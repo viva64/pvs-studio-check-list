@@ -196,6 +196,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- FreeGLUT is an open source alternative to the OpenGL Utility Toolkit (GLUT) library.
 	- http://freeglut.sourceforge.net/
 	- https://github.com/dcnieho/FreeGLUT
+	
+- Smoothieware
+	- Modular, opensource, high performance G-code interpreter and CNC controller written in Object-Oriented C++
+	- http://smoothieware.org/
+	- https://github.com/Smoothieware/Smoothieware
 
 - vRt
 	- vRt is ray tracing library for Vulkan API.
