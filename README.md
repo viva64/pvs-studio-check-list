@@ -1145,6 +1145,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://oss.digirati.com.br/f3/
 	- https://github.com/AltraMayor/f3
 
+- TWRP
+	- TWRP (Team Win Recovery Project) is an open-source software custom recovery image for Android-based devices.
+	- https://twrp.me/
+	- https://github.com/omnirom/android_bootable_recovery/
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
