@@ -345,6 +345,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.fetchmail.info/
 	- https://gitlab.com/fetchmail/fetchmail/
 
+- Suricata
+	- Suricata is a high performance Network IDS, IPS and Network Security Monitoring engine.
+	- https://suricata-ids.org/
+	- https://github.com/OISF/suricata
+
 - Snort 3
 	- Snort is the next generation Snort IPS (Intrusion Prevention System).
 	- https://www.snort.org/
