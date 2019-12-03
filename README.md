@@ -692,6 +692,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- DOSBox is an emulator program that emulates an IBM PC compatible computer running a DOS operating system.
 	- https://www.dosbox.com/
 
+- OpenMSX
+	- OpenMSX is an emulator for the MSX home computer system.
+	- https://openmsx.org/
+	- https://github.com/openMSX/openMSX
+
 - ppsspp
 	- A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 	- http://www.ppsspp.org/
