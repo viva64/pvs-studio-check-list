@@ -785,6 +785,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.nongnu.org/synaptic/
 	- https://code.launchpad.net/synaptic
 
+- GNUnet
+	- GNUnet is peer-to-peer framework providing a network abstractions and applications focusing on security and privacy.
+	- https://gnunet.org/
+	- https://git.gnunet.org/gnunet.git/
+
 - Bitcoin Core
 	- Bitcoin is a P2P digital currency system. Bitcoin Core is the reference implementation of Bitcoin.
 	- https://bitcoin.org/
