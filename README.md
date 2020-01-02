@@ -1076,6 +1076,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://kicad-pcb.org/
 	- https://github.com/KiCad/kicad-source-mirror
 
+- HAL
+	- HAL is a comprehensive reverse engineering and manipulation framework for gate-level netlists focusing on efficiency, extendability and portability.
+	- https://github.com/emsec/hal/
+
 - Tvheadend
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
 	- https://tvheadend.org
