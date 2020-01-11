@@ -960,6 +960,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://flarerpg.org/
 	- https://github.com/flareteam/flare-engine
 
+- VVVVVV
+	- VVVVVV is a 2D open-source puzzle platform video game.
+	- https://github.com/TerryCavanagh/vvvvvv
+
 - Vangers
 	- Video game that combines elements of the racing and role-playing genres.
 	- http://vangers.org/
