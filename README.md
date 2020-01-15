@@ -1187,6 +1187,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- TWRP (Team Win Recovery Project) is an open-source software custom recovery image for Android-based devices.
 	- https://twrp.me/
 	- https://github.com/omnirom/android_bootable_recovery/
+	
+- GZDoom
+	- GZDoom is a modern Doom source port that has lots of user options and advanced modding capabilities.
+	- https://zdoom.org/
+	- https://github.com/coelckers/gzdoom/
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
