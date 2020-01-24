@@ -1076,6 +1076,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://kicad-pcb.org/
 	- https://github.com/KiCad/kicad-source-mirror
 
+- xow
+	- xow is a Linux user mode driver for the Xbox One wireless dongle.
+	- https://github.com/medusalix/xow
+
 - Tvheadend
 	- Tvheadend is a TV streaming server and recorder for Linux, FreeBSD and Android. 
 	- https://tvheadend.org
