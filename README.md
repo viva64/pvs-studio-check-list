@@ -1348,11 +1348,6 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.opendaylight.org
 	- https://github.com/opendaylight?utf8=✓&q=&type=&language=
 
-- Hadoop
-	- Apache Hadoop is a collection of open-source software utilities used to solve problems involving massive amounts of data.
-	- http://hadoop.apache.org
-	- http://svn.apache.org/viewvc/hadoop/common/trunk/
-
 - Caffeine
 	- A high performance caching library for Java 8
 	- https://github.com/ben-manes/caffeine/wiki
