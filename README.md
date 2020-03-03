@@ -1056,6 +1056,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.stellarium.org/
 	- https://code.launchpad.net/stellarium/
 
+- Monado
+	- Monado is an open source XR runtime delivering immersive experiences such as VR and AR on mobile, PC/desktop, and any other device.
+	- https://monado.dev/
+	- https://gitlab.freedesktop.org/monado/monado
+
 - GNU core utilities
     - The GNU Core Utilities are the basic file, shell and text manipulation utilities of the GNU operating system.
     - https://www.gnu.org/software/coreutils/coreutils.html
