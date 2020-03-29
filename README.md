@@ -1163,6 +1163,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.capstone-engine.org/
 	- https://github.com/aquynh/capstone
 
+- OpenRGB
+	- OpenRGB is an open source RGB lighting control that doesn't depend on manufacturer software.
+	- https://gitlab.com/CalcProgrammer1/OpenRGB
+
 - OpenHMD
 	- OpenHMD is an API and drivers for immersive technology, such as head mounted displays with built in head tracking.
 	- http://www.openhmd.net/
