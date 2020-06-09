@@ -1013,6 +1013,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Russian Railway Simulator is free open-source railway simulator of Russian mainline locomotives and trains.
 	- https://github.com/maisvendoo/RRS
 
+- Command & Conquer Remastered Collection
+	- Command & Conquer Remastered Collection is a remaster of real-time strategies Command & Conquer: Tiberian Dawn and Command & Conquer: Red Alert.
+	- https://www.ea.com/games/command-and-conquer/command-and-conquer-remastered
+	- https://github.com/electronicarts/CnC_Remastered_Collection
+
 - XScreenSaver
 	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
 	- https://github.com/porridge/xscreensaver
