@@ -950,6 +950,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://pvpgn.pro/
 	- https://github.com/pvpgn/pvpgn-server
 
+- MangoHud
+	- MangoHud is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+	- https://github.com/flightlessmango/MangoHud
+
 - X-Plane
 	- X-Plane is an open-source cross-platform flight simulator.
 	- https://developer.x-plane.com/
