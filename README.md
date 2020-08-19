@@ -219,6 +219,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- CLVK is a prototype implementation of OpenCL 1.2 on top of Vulkan.
 	- https://github.com/kpet/clvk
 
+- GRVK
+	- GRVK is a Mantle to Vulkan translation layer.
+	- https://github.com/libcg/grvk
+
 - DXVK
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
