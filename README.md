@@ -1013,6 +1013,14 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Russian Railway Simulator is free open-source railway simulator of Russian mainline locomotives and trains.
 	- https://github.com/maisvendoo/RRS
 
+- Amnesia: The Dark Descent
+	- Amnesia: The Dark Descent is a survival horror video game by Frictional Games.
+	- https://github.com/FrictionalGames/AmnesiaTheDarkDescent
+
+- Amnesia: A Machine for Pigs
+	- Amnesia: A Machine for Pigs is a survival horror video game developed by The Chinese Room and published by Frictional Games.
+	- https://github.com/FrictionalGames/AmnesiaAMachineForPigs
+
 - XScreenSaver
 	- XScreenSaver is the standard screen saver collection on most Linux and Unix systems.
 	- https://github.com/porridge/xscreensaver
