@@ -950,6 +950,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://pvpgn.pro/
 	- https://github.com/pvpgn/pvpgn-server
 
+- Julius
+	- Julius is an open source re-implementation of Caesar III, a city-building computer game.
+	- https://github.com/bvschaik/julius
+
 - X-Plane
 	- X-Plane is an open-source cross-platform flight simulator.
 	- https://developer.x-plane.com/
