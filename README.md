@@ -1378,6 +1378,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://www.sweethome3d.com
 	- https://sourceforge.net/projects/sweethome3d/files/SweetHome3D-source/
 
+- Mindustry
+	- Mindustry is a sandbox tower defense game written in Java.
+	- https://mindustrygame.github.io/
+	- https://github.com/Anuken/Mindustry
+
 - XMage
 	- XMage is an open-source collectible card game.
 	- http://xmage.de/
