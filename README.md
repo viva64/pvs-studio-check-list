@@ -960,6 +960,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://flarerpg.org/
 	- https://github.com/flareteam/flare-engine
 
+- Storm
+	- Storm is a game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.
+	- https://github.com/storm-devs/storm-engine
+
 - Vangers
 	- Video game that combines elements of the racing and role-playing genres.
 	- http://vangers.org/
@@ -979,7 +983,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- FreeOrion is an open source space empire and galactic conquest computer game based on the Master of Orion games.
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
-	
+
 - OrionUO
 	- OrionUO is an open source Ultima Online client.
 	- https://github.com/OrionUO/OrionUO	
