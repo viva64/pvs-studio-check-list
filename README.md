@@ -529,6 +529,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.gnucash.org/
 	- https://github.com/Gnucash/gnucash
 
+- Hexchat
+	- HexChat is an IRC client for Windows and UNIX-like operating systems.
+	- https://hexchat.github.io/
+	- https://github.com/HexChat/hexchat
+
 - Pidgin
 	- Pidgin is a free and open-source multi-platform instant messaging client.
 	- https://pidgin.im/
