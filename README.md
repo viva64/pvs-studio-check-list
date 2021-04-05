@@ -58,7 +58,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- LXDE (Lightweight X11 Desktop Environment) is a desktop environment which is lightweight and fast.
 	- http://lxde.org/
 	- https://wiki.lxde.org/en/Main_Page
-	- https://git.lxde.org/gitweb/
+	- https://sourceforge.net/projects/lxde/files/
 
 - GNOME
 	- GNOME is a desktop environment for Linux and most BSD derivatives.
