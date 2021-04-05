@@ -741,7 +741,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 
 - Chiaki
 	- Chiaki is a free and open source software client for PlayStation 4 Remote Play.
-	- https://github.com/thestr4ng3r/chiaki
+	- https://git.sr.ht/~thestr4ng3r/chiaki
 
 - RPCS3
 	- RPCS3 is an open-source Sony PlayStation 3 emulator written in C++ for Windows and Linux.
