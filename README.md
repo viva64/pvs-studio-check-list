@@ -473,6 +473,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- git://source.ffmpeg.org/ffmpeg.git
 	- https://ffmpeg.org/
 
+- LAV Filters
+	- LAV Filters are a set of DirectShow filters based on the libavformat and libavcodec libraries from the ffmpeg project, which will allow you to play virtually any format in a DirectShow player.
+	- https://github.com/Nevcairiel/LAVFilters
+
 - GStreamer
 	- GStreamer is a library for constructing graphs of media-handling components.
 	- https://gstreamer.freedesktop.org/
