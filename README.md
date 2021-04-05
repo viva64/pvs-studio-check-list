@@ -239,6 +239,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- VKD3D is the D3D12 to Vulkan translation library.
 	- https://source.winehq.org/git/vkd3d.git/
 
+- d3d8to9
+	- d3d8to9 is a D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
+	- https://github.com/crosire/d3d8to9
+
 - GLFW
 	- GLFW is the OpenGL library offers a basic API for the creation of windows/contexts/surfaces across software platforms.
 	- https://www.glfw.org/
