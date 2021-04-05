@@ -540,6 +540,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://github.com/TokTok/c-toxcore
 	- https://github.com/qTox/qTox (client)
 
+- Protox
+	- Protox is a Tox client for Android OS written in Qt 5.
+	- https://gitlab.com/Monsterovich/protox
+
 - VeraCrypt
 	- VeraCrypt is a free disk encryption software based on TrueCrypt 7.1a.
 	- https://sourceforge.net/projects/veracrypt/
