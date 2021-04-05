@@ -70,6 +70,14 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.kde.org/
 	- https://github.com/KDE
 
+- OpenWallpaper Manager
+	- OpenWallpaper Plasma is a plugin manager providing additional possibilities for desktop wallpaper.
+	- https://github.com/Samsuper12/OpenWallpaper-Manager
+
+- OpenWallpaper Plasma
+	- OpenWallpaper Plasma is a plugin for KDE Plasma providing playing videos for desktop wallpaper.
+	- https://github.com/Samsuper12/OpenWallpaper-Plasma
+
 - Git
 	- Git is a free and open source distributed version control system.
 	- https://git-scm.com/
