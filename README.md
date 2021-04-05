@@ -963,6 +963,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://pvpgn.pro/
 	- https://github.com/pvpgn/pvpgn-server
 
+- MangoHud
+	- MangoHud is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+	- https://github.com/flightlessmango/MangoHud
+
 - Julius
 	- Julius is an open source re-implementation of Caesar III, a city-building computer game.
 	- https://github.com/bvschaik/julius
