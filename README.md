@@ -1020,6 +1020,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.supertux.org/
 	- https://github.com/SuperTux/supertux/
 
+- freeablo
+	- freeablo is a modern cross platform reimplementation of the game engine used in Diablo.
+	- https://freeablo.org/
+	- https://github.com/wheybags/freeablo
+
 - FreeOrion
 	- FreeOrion is an open source space empire and galactic conquest computer game based on the Master of Orion games.
 	- https://www.freeorion.org/index.php/Main_Page
