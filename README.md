@@ -986,6 +986,31 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://vangers.org/
 	- https://github.com/KranX/Vangers
 
+- TobEx
+	- A dynamic link library for Baldur's Gate 2: Throne of Bhaal that fixes engine bugs and extends the engine.
+	- http://www.spellholdstudios.net/ie/tobex
+	- https://github.com/BGforgeNet/TobEx
+
+- GemRB
+	- Game Engine Made with preRendered Background is a portable open-source reimplementation of the Infinity Engine.
+	- https://gemrb.org/
+	- https://github.com/gemrb/gemrb
+
+- Sfall
+	- A set of engine modifications for the classic game Fallout 2 in form of a DLL.
+	- https://sfall.bgforge.net/
+	- https://github.com/phobos2077/sfall
+
+- Falltergeist
+	- Opensource crossplatform Fallout 2 engine writen in C++ and SDL.
+	- https://falltergeist.org/
+	- https://github.com/falltergeist/falltergeist
+
+- Jagged Alliance 2 Stracciatella
+	- An improved, cross-platform, stable Jagged Alliance 2 runtime
+	- https://ja2-stracciatella.github.io/
+	- https://github.com/ja2-stracciatella/ja2-stracciatella
+
 - SuperTux
 	- SuperTux is a open-source classic platformer game in a style similar to the original Super Mario games.
 	- https://www.supertux.org/
