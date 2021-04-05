@@ -1020,11 +1020,6 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.supertux.org/
 	- https://github.com/SuperTux/supertux/
 
-- Minetest
-	- Minetest is a free open-source Minecraft-inspired game with easy modding and game creation.
-	- https://www.minetest.net/
-	- https://github.com/minetest/minetest
-
 - freeablo
 	- freeablo is a modern cross platform reimplementation of the game engine used in Diablo.
 	- https://freeablo.org/
