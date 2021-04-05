@@ -622,6 +622,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.olivevideoeditor.org/
 	- https://github.com/olive-editor/olive
 
+- xine
+	- xine is a free multimedia player. It plays back CDs, DVDs, and VCDs. It also decodes multimedia files like AVI, MOV, WMV, and MP3 from local disk drives, and displays multimedia streamed over the Internet.
+	- https://sourceforge.net/projects/xine/
+	- https://sourceforge.net/p/xine/xine-lib/ci/default/tree/
+	- https://sourceforge.net/p/xine/xine-ui/ci/default/tree/
+
 - QuiteRSS
 	- QuiteRSS is a open-source cross-platform RSS/Atom news feeds reader.
 	- https://quiterss.org/
