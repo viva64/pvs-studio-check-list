@@ -1044,6 +1044,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://viewizard.com/
 	- https://github.com/viewizard/astromenace/
 
+- Warzone 2100
+	- Warzone 2100 is an open-source real-time strategy and real-time tactics hybrid computer game, originally developed by Pumpkin Studios and published by Eidos Interactive in 1999.
+	- https://wz2100.net/
+	- https://github.com/Warzone2100/warzone2100
+
 - Seven Kingdoms
 	- Seven Kingdoms is a proper classic RTS released under the terms of the GNU GPL in 2009.
 	- https://7kfans.com/
