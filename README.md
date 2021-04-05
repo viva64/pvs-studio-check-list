@@ -219,6 +219,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- CLVK is a prototype implementation of OpenCL 1.2 on top of Vulkan.
 	- https://github.com/kpet/clvk
 
+- GRVK
+	- GRVK is a Mantle to Vulkan translation layer.
+	- https://github.com/libcg/grvk
+
 - DXVK
 	- Vulkan-based D3D11 implementation for Linux / Wine
 	- https://github.com/doitsujin/dxvk
@@ -473,6 +477,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- git://source.ffmpeg.org/ffmpeg.git
 	- https://ffmpeg.org/
 
+- LAV Filters
+	- LAV Filters are a set of DirectShow filters based on the libavformat and libavcodec libraries from the ffmpeg project, which will allow you to play virtually any format in a DirectShow player.
+	- https://github.com/Nevcairiel/LAVFilters
+
 - GStreamer
 	- GStreamer is a library for constructing graphs of media-handling components.
 	- https://gstreamer.freedesktop.org/
@@ -543,6 +551,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- mpv is a free, open source, and cross-platform media player.
 	- https://mpv.io/
 	- https://github.com/mpv-player/mpv
+
+- mpz
+	- mpz is a music player for big local collections.
+	- https://olegantonyan.github.io/mpz/
+	- https://github.com/olegantonyan/mpz
 
 - wav2letter++
 	- wav2letter++ is a fast open source speech processing toolkit from the Speech Team at Facebook AI Research.
@@ -728,7 +741,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 
 - Chiaki
 	- Chiaki is a free and open source software client for PlayStation 4 Remote Play.
-	- https://github.com/thestr4ng3r/chiaki
+	- https://git.sr.ht/~thestr4ng3r/chiaki
 
 - RPCS3
 	- RPCS3 is an open-source Sony PlayStation 3 emulator written in C++ for Windows and Linux.
@@ -950,6 +963,14 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://pvpgn.pro/
 	- https://github.com/pvpgn/pvpgn-server
 
+- MangoHud
+	- MangoHud is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+	- https://github.com/flightlessmango/MangoHud
+
+- Julius
+	- Julius is an open source re-implementation of Caesar III, a city-building computer game.
+	- https://github.com/bvschaik/julius
+
 - X-Plane
 	- X-Plane is an open-source cross-platform flight simulator.
 	- https://developer.x-plane.com/
@@ -960,10 +981,39 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- http://flarerpg.org/
 	- https://github.com/flareteam/flare-engine
 
+- Storm
+	- Storm is a game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.
+	- https://github.com/storm-devs/storm-engine
+
 - Vangers
 	- Video game that combines elements of the racing and role-playing genres.
 	- http://vangers.org/
 	- https://github.com/KranX/Vangers
+
+- TobEx
+	- A dynamic link library for Baldur's Gate 2: Throne of Bhaal that fixes engine bugs and extends the engine.
+	- http://www.spellholdstudios.net/ie/tobex
+	- https://github.com/BGforgeNet/TobEx
+
+- GemRB
+	- Game Engine Made with preRendered Background is a portable open-source reimplementation of the Infinity Engine.
+	- https://gemrb.org/
+	- https://github.com/gemrb/gemrb
+
+- Sfall
+	- A set of engine modifications for the classic game Fallout 2 in form of a DLL.
+	- https://sfall.bgforge.net/
+	- https://github.com/phobos2077/sfall
+
+- Falltergeist
+	- Opensource crossplatform Fallout 2 engine writen in C++ and SDL.
+	- https://falltergeist.org/
+	- https://github.com/falltergeist/falltergeist
+
+- Jagged Alliance 2 Stracciatella
+	- An improved, cross-platform, stable Jagged Alliance 2 runtime
+	- https://ja2-stracciatella.github.io/
+	- https://github.com/ja2-stracciatella/ja2-stracciatella
 
 - SuperTux
 	- SuperTux is a open-source classic platformer game in a style similar to the original Super Mario games.
@@ -984,7 +1034,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- FreeOrion is an open source space empire and galactic conquest computer game based on the Master of Orion games.
 	- https://www.freeorion.org/index.php/Main_Page
 	- https://github.com/freeorion/freeorion
-	
+
 - OrionUO
 	- OrionUO is an open source Ultima Online client.
 	- https://github.com/OrionUO/OrionUO	
@@ -1003,6 +1053,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- AstroMenace is hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
 	- https://viewizard.com/
 	- https://github.com/viewizard/astromenace/
+
+- Warzone 2100
+	- Warzone 2100 is an open-source real-time strategy and real-time tactics hybrid computer game, originally developed by Pumpkin Studios and published by Eidos Interactive in 1999.
+	- https://wz2100.net/
+	- https://github.com/Warzone2100/warzone2100
 
 - Seven Kingdoms
 	- Seven Kingdoms is a proper classic RTS released under the terms of the GNU GPL in 2009.
@@ -1167,6 +1222,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Capstone Engine is a lightweight multi-platform, multi-architecture disassembly framework.
 	- https://www.capstone-engine.org/
 	- https://github.com/aquynh/capstone
+
+- OpenRGB
+	- OpenRGB is an open source RGB lighting control that doesn't depend on manufacturer software.
+	- https://gitlab.com/CalcProgrammer1/OpenRGB
 
 - OpenHMD
 	- OpenHMD is an API and drivers for immersive technology, such as head mounted displays with built in head tracking.
