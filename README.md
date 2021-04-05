@@ -548,6 +548,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://mpv.io/
 	- https://github.com/mpv-player/mpv
 
+- mpz
+	- mpz is a music player for big local collections.
+	- https://olegantonyan.github.io/mpz/
+	- https://github.com/olegantonyan/mpz
+
 - wav2letter++
 	- wav2letter++ is a fast open source speech processing toolkit from the Speech Team at Facebook AI Research.
 	- https://github.com/facebookresearch/wav2letter
