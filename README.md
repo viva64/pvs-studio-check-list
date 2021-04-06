@@ -1357,6 +1357,35 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Reko is a decompiler for machine code binaries. 
 	- https://github.com/uxmal/reko
 	- https://uxmal.github.io/reko/
+	
+- UniRX
+	- Reactive extensions for Unity
+	- https://github.com/neuecc/UniRx
+
+- Extenject
+	- Dependency injection framework for C#/Unity
+	- https://github.com/svermeulen/Extenject
+
+- Entitas
+	- Entity component system framework for C#/Unity
+	- https://github.com/sschmid/Entitas-CSharp
+	
+- LeoECS
+	- Entity component system framework for C#/Unity
+	- https://github.com/Leopotam/ecs
+
+- FPS Sample
+	- Official Unity sample game
+	- https://github.com/Unity-Technologies/FPSSample
+
+- Unity Open Project #1: Chop Chop
+	- Official Unity sample game
+	- https://github.com/UnityTechnologies/open-project-1
+	- https://blogs.unity3d.com/ru/2020/09/30/open-projects-embark-on-an-open-source-gamedev-journey-with-us/
+
+- OpenHogwarts
+	- Sandbox Unity Harry Potter game
+	- https://github.com/OpenHogwarts/hogwarts
 
 <a name="java"></a>Projects in Java
 -----------------------------------
