@@ -1254,9 +1254,9 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://cdn.rawgit.com/root-project/cling/master/www/index.html
 	
 - SoftEtherVPN
-  - Open Cross-platform Multi-protocol VPN Software
-  - https://www.softether.org
-  - https://github.com/SoftEtherVPN/SoftEtherVPN
+	- Open Cross-platform Multi-protocol VPN Software
+	- https://www.softether.org
+	- https://github.com/SoftEtherVPN/SoftEtherVPN
 
 - Capstone Engine
 	- Capstone Engine is a lightweight multi-platform, multi-architecture disassembly framework.
@@ -1296,6 +1296,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- GZDoom is a modern Doom source port that has lots of user options and advanced modding capabilities.
 	- https://zdoom.org/
 	- https://github.com/coelckers/gzdoom/
+
+- OpenZFS
+	- OpenZFS is an advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community.
+	- https://openzfs.org/wiki/Main_Page
+	- https://github.com/openzfs/zfs
 
 <a name="csharp"></a>Projects in C#
 -----------------------------------
