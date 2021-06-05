@@ -1081,6 +1081,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://viewizard.com/
 	- https://github.com/viewizard/astromenace/
 
+- Perimeter
+	- Perimeter is a real-time strategy video game developed by Russian studio K-D Lab for Microsoft Windows.
+	- https://github.com/KranX/Perimeter
+
 - Warzone 2100
 	- Warzone 2100 is an open-source real-time strategy and real-time tactics hybrid computer game, originally developed by Pumpkin Studios and published by Eidos Interactive in 1999.
 	- https://wz2100.net/
