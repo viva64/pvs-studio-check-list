@@ -1311,6 +1311,10 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://openzfs.org/wiki/Main_Page
 	- https://github.com/openzfs/zfs
 
+ - Kartarica
+	- Program language based on russian.
+	- https://github.com/zx-90/kartarika
+
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
