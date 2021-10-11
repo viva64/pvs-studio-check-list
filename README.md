@@ -380,6 +380,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.snort.org/
 	- https://github.com/snort3/snort3
 
+- libFirm
+	- libFirm is a C library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers.
+	- https://pp.ipd.kit.edu/firm/
+	- https://github.com/libfirm/libfirm
+
 - iptables
 	- iptables is the userspace command-line program used to configure the Linux packet filtering ruleset.
 	- https://www.netfilter.org/projects/iptables/index.html
