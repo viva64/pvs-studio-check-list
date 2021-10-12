@@ -70,6 +70,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.kde.org/
 	- https://github.com/KDE
 
+- OpenLiteSpeed
+	- OpenLiteSpeed is a high-performance, lightweight, open source HTTP server developed and copyrighted by LiteSpeed Technologies.
+	- https://openlitespeed.org/kb/
+	- https://github.com/litespeedtech/openlitespeed
+	- https://www.litespeedtech.com/support/wiki/doku.php/litespeed_wiki
+
 - OpenWallpaper Manager
 	- OpenWallpaper Plasma is a plugin manager providing additional possibilities for desktop wallpaper.
 	- https://github.com/Samsuper12/OpenWallpaper-Manager
