@@ -1326,6 +1326,14 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Program language based on russian.
 	- https://github.com/zx-90/kartarika
 
+ - Betaflight
+	- Flight controller software.
+	- https://github.com/betaflight/betaflight
+	
+ - INAV
+	- Navigation capable flight controller.
+	- https://github.com/iNavFlight/inav
+	
 <a name="csharp"></a>Projects in C#
 -----------------------------------
 
