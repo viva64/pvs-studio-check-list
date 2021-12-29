@@ -1562,3 +1562,12 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- XMage is an open-source collectible card game.
 	- http://xmage.de/
 	- https://github.com/magefree/mage
+
+- MSVC STL
+        - The implementation of the C++ Standard Library for Visual Studio
+        - https://github.com/microsoft/STL
+
+- LLVM 
+        - The LLVM Compiler Infrastructure
+        - https://llvm.org/
+        - https://github.com/llvm/llvm-project
