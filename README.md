@@ -1185,7 +1185,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 
 - KiCad
 	- KiCad is an open source software suite for Electronic Design Automation (EDA).
-	- http://kicad-pcb.org/
+	- http://kicad.org/
 	- https://github.com/KiCad/kicad-source-mirror
 
 - HAL
@@ -1562,7 +1562,16 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- XMage is an open-source collectible card game.
 	- http://xmage.de/
 	- https://github.com/magefree/mage
-
+- Salome
+	- SALOME is an open-source software that provides a generic Pre- and Post-Processing platform for numerical simulation. 
+	  It is based on an open and flexible architecture made of reusable components.
+	- https://www.salome-platform.org/
+	- https://git.salome-platform.org/gitpub/
+- OpenFoam
+	- OpenFOAM is the free, open source CFD software developed primarily by OpenCFD Ltd since 2004.
+	- https://www.openfoam.com/
+	- https://develop.openfoam.com/Development/openfoam
 - MSVC STL
-        - The implementation of the C++ Standard Library for Visual Studio
-        - https://github.com/microsoft/STL
+  - The implementation of the C++ Standard Library for Visual Studio
+  - https://github.com/microsoft/STL
+
