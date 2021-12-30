@@ -1185,7 +1185,7 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 
 - KiCad
 	- KiCad is an open source software suite for Electronic Design Automation (EDA).
-	- http://kicad-pcb.org/
+	- http://kicad.org/
 	- https://github.com/KiCad/kicad-source-mirror
 
 - HAL
