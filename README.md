@@ -1572,6 +1572,6 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- https://www.openfoam.com/
 	- https://develop.openfoam.com/Development/openfoam
 - MSVC STL
-  - The implementation of the C++ Standard Library for Visual Studio
-  - https://github.com/microsoft/STL
+	- The implementation of the C++ Standard Library for Visual Studio
+	- https://github.com/microsoft/STL
 
