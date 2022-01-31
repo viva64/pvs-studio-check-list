@@ -1433,6 +1433,11 @@ Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 	- Sandbox Unity Harry Potter game
 	- https://github.com/OpenHogwarts/hogwarts
 
+- GrandNode 
+	- GrandNode was designed to solve the most important business challenges from the world of digital shopping.
+	- https://grandnode.com/
+	- https://github.com/grandnode/grandnode2
+
 <a name="java"></a>Projects in Java
 -----------------------------------
 - Ghidra
