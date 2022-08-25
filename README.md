@@ -3,7 +3,7 @@ A list of projects to check by PVS-Studio analyzer
 
 We will choose interesting projects from this list to write articles about the checks with the description of interesting errors. 
 
-The whole list of projects that we wrote the articles about: [click](http://www.viva64.com/en/inspections/)
+The whole list of projects that we wrote the articles about: [click](https://www.pvs-studio.com/en/inspections/)
 
 Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 ------------------------------------------------
