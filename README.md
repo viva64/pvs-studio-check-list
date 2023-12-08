@@ -8,6 +8,10 @@ The whole list of projects that we wrote the articles about: [click](https://www
 Projects in C/C++ ([go to C#](#csharp), [go to Java](#java))
 ------------------------------------------------
 
+- typesense
+    - Typesense is a fast, typo-tolerant search engine for building delightful search experiences. 
+    - https://github.com/typesense/typesense
+
 - Gumbo
     - An HTML5 parsing library in pure C99
     - https://github.com/google/gumbo-parser
